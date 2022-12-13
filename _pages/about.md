@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,82 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate student at [the School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science of China (UESTC)](https://www.uestc.edu.cn/). 
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-Currently, I am a research assistant at the Research Institute of Intelligent Complex Systems at Fudan University, supervised by [Prof.Siqi Sun](https://intersun.github.io/). Before that, I was a research intern at JD Explore Academy, supervised by [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).  
-
-My research interests primarily lie in the area of deep learning, model compression, natural language processing (NLP), and AI + X (e.g., health, finance). I start with data, models, objectives, optimization, and better adaptation to various downstream tasks to investigate how to efficiently, sufficiently, and trustworthily transfer knowledge from large-scale data to the parameters of the pre-training model.
-
-News
+A data-driven personal website
 ======
-  \[10/2022\]: One paper is accepted by [EMNLP 2022](https://2022.emnlp.org/). \
-  \[08/2022\]: One paper is accpeted by [WACV 2023](https://wacv2023.thecvf.com/). \
-  \[07/2022\]: 🏆 Ranked 1st (Chinese<=>English, German<=>English, Czech<=>English, English=>Russian), 2nd (Russian=>English, Japanese=>English), and 3rd (English=>Japanese) in General Translation Task in [WMT 2022](https://statmt.org/wmt22/translation-task.html). \
-  \[01/2022\]: One paper is accepted by [AAAI-22 KDF](https://aaai-kdf.github.io/kdf2022/).
-  
+Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Research Experience
-======
+Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-[//]: # ([//]: # &#40;<dl><dt><img align="right" width="80" height="80" vspace="10" hspace="10" src="images/FDU_Logo.png"></dt>&#41;)
-[//]: # (* Jul.2022 - Now: Research Assistant )
-
-[//]: # ()
-[//]: # (  * [IICS]&#40;https://iics.fudan.edu.cn/&#41;, [Fudan University]&#40;https://www.fudan.edu.cn/en/&#41;, Shanghai, China)
-
-[//]: # (  * AI for Protein, Computational Biology)
-
-[//]: # (  * Supervisor: [Prof.Siqi Sun]&#40;https://intersun.github.io/&#41;</dl>)
-
-[//]: # ([//]: # &#40;<dl><dt><img align="right" width="80" height="80" vspace="10" hspace="10" src="images/JD_logo.png"></dt>&#41;)
-[//]: # (* Feb.2022 - Oct.2022: Research Intern )
-
-[//]: # ()
-[//]: # (  * [NLP Group, JD Explore Academy]&#40;https://jdcorporateblog.com/top-ai-scholar-heads-jd-explore-academy/&#41;, Beijing, China)
-
-[//]: # (  * Machine Learning, Efficient Methods for NLP.)
-
-[//]: # (  * Supervisor: [Dr. Liang Ding]&#40;https://liamding.cc/&#41; and [Prof. Dacheng Tao]&#40;https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html&#41;</dl>)
-
-[//]: # (<dl><dt><img align="right" width="80" height="80" vspace="10" hspace="10" src="images/UESTC_logo.jpg"></dt>)
-
-[//]: # (* Nov.2020 - Nov.2021: Undergraduate Member )
-
-[//]: # ()
-[//]: # (  * [Guslab]&#40;https://guslab.org/&#41;, [UESTC]&#40;https://www.uestc.edu.cn/&#41;, Chengdu, China)
-
-[//]: # (  * Stock Movement Prediction, Facial Image Synthesis)
-
-[//]: # (  * Supervisor: [Prof. Shi Gu]&#40;https://guslab.org/&#41;</dl>)
-
-<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt><dt> IICS, Fundan University</dt>
-<dd>07/2022 - Now</dd>
-<d>Research Assistant, supervised by Prof. Siqi Sun </d>
-<dd>AI for Protein, Computational Biology </dd></dl>
-
-<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/JD_logo.png" /></dt><dt> NLP Group, JD Explore Academy</dt>
-<dd>02/2022 - 10/2022</dd>
-<d>Research Intern, supervised by Dr. Liang Ding and Prof. Dacheng Tao </d>
-<dd>Machine Learning, Efficient Methods for NLP </dd></dl>
-
-<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/UESTC_logo.jpg" /></dt><dt>Guslab, UESTC</dt>
-<dd>11/2020 - 11/2021</dd>
-<d>Undergraduate Member, supervised by Prof. Shi Gu </d>
-<dd>Stock Movement Prediction, Facial Image Synthesis </dd></dl>
-
-Selected Publications
-======
-1. __Shwai He__, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao, 
-"***SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters***",
- Findings of The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022). 
-1. __Shwai He__, Chenbo Jiang, Daize Dong and Liang, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (WACV 2023).
-1. __Shwai He__, Shi Gu, "***Multi-modal Attention Network for Stock Movements Prediction***", The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (KDF 2022). 
-1. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng, "***Cherry Hypothesis: Identifying the Cherry on the Cake for Dynamic Networks***", arXiv preprint, 2022.  
-1. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
-Liu, Weifeng Liu, Yibing Zhan and Dacheng, "***Vega-MT: The JD Explore Academy Translation System for WMT***", The Conference on Machine Translation, 2022 (WMT 2022).  
-
-
-<!-- Getting started
+Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -115,4 +48,3 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
- -->
