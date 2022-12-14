@@ -78,7 +78,7 @@ Selected Publications
  Findings of The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022). 
 1. __Shwai He__, Chenbo Jiang, Daize Dong and Liang, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (WACV 2023).
 1. __Shwai He__, Shi Gu, "***Multi-modal Attention Network for Stock Movements Prediction***", The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (KDF 2022). 
-1. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng, "***Cherry Hypothesis: Identifying the Cherry on the Cake for Dynamic Networks***", arXiv preprint, 2022.  
+1. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng, "***PAD-Net: An Efficient Framework for Dynamic Networks***", arXiv preprint, 2022.  
 1. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
 Liu, Weifeng Liu, Yibing Zhan and Dacheng, "***Vega-MT: The JD Explore Academy Translation System for WMT***", The Conference on Machine Translation, 2022 (WMT 2022).  
 
