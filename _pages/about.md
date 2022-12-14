@@ -56,7 +56,7 @@ Research Experience
 
 [//]: # (  * Supervisor: [Prof. Shi Gu]&#40;https://guslab.org/&#41;</dl>)
 
-<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt><dt> IICS, Fundan University</dt>
+<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt><dt> IICS, Fudan University</dt>
 <dd>07/2022 - Now</dd>
 <d>Research Assistant, supervised by Prof. Siqi Sun </d>
 <dd>AI for Protein, Computational Biology </dd></dl>
@@ -66,7 +66,7 @@ Research Experience
 <d>Research Intern, supervised by Dr. Liang Ding and Prof. Dacheng Tao </d>
 <dd>Machine Learning, Efficient Methods for NLP </dd></dl>
 
-<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/UESTC_logo.jpg" /></dt><dt>Guslab, UESTC</dt>
+<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/UESTC_logo.jpg" /></dt><dt> Guslab, UESTC</dt>
 <dd>11/2020 - 11/2021</dd>
 <d>Undergraduate Member, supervised by Prof. Shi Gu </d>
 <dd>Stock Movement Prediction, Facial Image Synthesis </dd></dl>
