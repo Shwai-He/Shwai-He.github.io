@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate student at [the School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science of China (UESTC)](https://www.uestc.edu.cn/). 
+I am an incoming PhD student at University of Maryland, College Park, working with [Prof. Tianyi Zhou](https://tianyizhou.github.io/).
 
-Currently, I am a research assistant at the Research Institute of Intelligent Complex Systems at Fudan University, supervised by [Prof.Siqi Sun](https://intersun.github.io/). Before that, I was a research intern at JD Explore Academy, supervised by [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).  
+Previously, I am a research assistant at the Research Institute of Intelligent Complex Systems at Fudan University, supervised by [Prof.Siqi Sun](https://intersun.github.io/). Before that, I was a research intern at JD Explore Academy, supervised by [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).  
 
 My research interests primarily lie in the area of deep learning, model compression, natural language processing (NLP), and AI + X (e.g., health, finance). I start with data, models, objectives, optimization, and better adaptation to various downstream tasks to investigate how to efficiently, sufficiently, and trustworthily transfer knowledge from large-scale data to the parameters of the pre-training model.
 
