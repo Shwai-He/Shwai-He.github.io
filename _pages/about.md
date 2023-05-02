@@ -66,10 +66,13 @@ Research Experience
 <d>Research Intern, supervised by Dr. Liang Ding and Prof. Dacheng Tao </d>
 <dd>Machine Learning, Efficient Methods for NLP </dd></dl>
 
-<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/UESTC_logo.jpg" /></dt><dt> Guslab, UESTC</dt>
-<dd>11/2020 - 11/2021</dd>
-<d>Undergraduate Member, supervised by Prof. Shi Gu </d>
-<dd>Stock Movement Prediction, Facial Image Synthesis </dd></dl>
+[comment]: <> (<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/UESTC_logo.jpg" /></dt><dt> Guslab, UESTC</dt>)
+
+[comment]: <> (<dd>11/2020 - 11/2021</dd>)
+
+[comment]: <> (<d>Undergraduate Member, supervised by Prof. Shi Gu </d>)
+
+[comment]: <> (<dd>Stock Movement Prediction, Facial Image Synthesis </dd></dl>)
 
 Selected Publications
 ======
