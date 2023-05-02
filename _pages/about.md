@@ -16,6 +16,8 @@ My research interests primarily lie in the area of deep learning, model compress
 
 News
 ======
+  \[05/2023\]: One paper is accepted by [ACL 2023](https://2023.aclweb.org/). \
+  \[04/2023\]: One paper is accepted by [ICML 2023](https://icml.cc/). \
   \[10/2022\]: One paper is accepted by [EMNLP 2022](https://2022.emnlp.org/). \
   \[08/2022\]: One paper is accpeted by [WACV 2023](https://wacv2023.thecvf.com/). \
   \[07/2022\]: 🏆 Ranked 1st (Chinese<=>English, German<=>English, Czech<=>English, English=>Russian), 2nd (Russian=>English, Japanese=>English), and 3rd (English=>Japanese) in General Translation Task in [WMT 2022](https://statmt.org/wmt22/translation-task.html). \
@@ -57,7 +59,7 @@ Research Experience
 [//]: # (  * Supervisor: [Prof. Shi Gu]&#40;https://guslab.org/&#41;</dl>)
 
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt><dt> IICS, Fudan University</dt>
-<dd>07/2022 - Now</dd>
+<dd>07/2022 - 03/2023</dd>
 <d>Research Assistant, supervised by Prof. Siqi Sun </d>
 <dd>AI for Protein, Computational Biology </dd></dl>
 
@@ -76,15 +78,17 @@ Research Experience
 
 Selected Publications
 ======
-1. __Shwai He__, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao, 
+1. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng Tao, 
+"***PAD-Net: An Efficient Framework for Dynamic Networks***",
+ Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). 
+2. __Shwai He__, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao, 
 "***SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters***",
  Findings of The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022). 
-1. __Shwai He__, Chenbo Jiang, Daize Dong and Liang, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (WACV 2023).
-1. __Shwai He__, Shi Gu, "***Multi-modal Attention Network for Stock Movements Prediction***", The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (KDF 2022). 
-1. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng, "***PAD-Net: An Efficient Framework for Dynamic Networks***", arXiv preprint, 2022.  
-1. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
+3. __Shwai He__, Chenbo Jiang, Daize Dong and Liang, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (WACV 2023).
+4. __Shwai He__, Shi Gu, "***Multi-modal Attention Network for Stock Movements Prediction***", The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (KDF 2022). 
+5. Chenbo Jiang, Jie Yang, __Shwai He__, Yu-Kun Lai and Lin Gao. "***NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes.***", Proceedings of the 40th International Conference on Machine Learning, 2023 (ICML 2023).
+6. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
 Liu, Weifeng Liu, Yibing Zhan and Dacheng, "***Vega-MT: The JD Explore Academy Translation System for WMT***", The Conference on Machine Translation, 2022 (WMT 2022).  
-
 
 <!-- Getting started
 ======
