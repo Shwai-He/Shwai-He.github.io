@@ -14,10 +14,11 @@ My research interests primarily lie in the area of deep learning, model compress
 
 News
 ======
-  \[05/2023\]: One paper is accepted by [ACL 2023](https://2023.aclweb.org/). \
-  \[04/2023\]: One paper is accepted by [ICML 2023](https://icml.cc/). \
-  \[10/2022\]: One paper is accepted by [EMNLP 2022](https://2022.emnlp.org/). \
-  \[08/2022\]: One paper is accpeted by [WACV 2023](https://wacv2023.thecvf.com/). \
+  \[10/2023\]: One paper (Merging Experts into One) is accepted by [EMNLP 2023](https://2023.emnlp.org/). \
+  \[05/2023\]: One paper (PAD-Net) is accepted by [ACL 2023](https://2023.aclweb.org/). \
+  \[04/2023\]: One paper (NeuralSlice) is accepted by [ICML 2023](https://icml.cc/). \
+  \[10/2022\]: One paper (SparseAdapter) is accepted by [EMNLP 2022](https://2022.emnlp.org/). \
+  \[08/2022\]: One paper (SD-Conv) is accpeted by [WACV 2023](https://wacv2023.thecvf.com/). \
   \[07/2022\]: 🏆 Ranked 1st (Chinese<=>English, German<=>English, Czech<=>English, English=>Russian), 2nd (Russian=>English, Japanese=>English), and 3rd (English=>Japanese) in General Translation Task in [WMT 2022](https://statmt.org/wmt22/translation-task.html). \
   \[01/2022\]: One paper is accepted by [AAAI-22 KDF](https://aaai-kdf.github.io/kdf2022/).
   
@@ -76,17 +77,20 @@ Research Experience
 
 Selected Publications
 ======
-1. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng Tao, 
+1. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, 
+"***Merging Experts into One: Improving Computational Efficiency of Mixture of Experts***",
+ Proceedings of The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023). 
+2. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng Tao, 
 "***PAD-Net: An Efficient Framework for Dynamic Networks***",
  Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). 
-2. __Shwai He__, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao, 
+3. __Shwai He__, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao, 
 "***SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters***",
  Findings of The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022). 
-3. __Shwai He__, Chenbo Jiang, Daize Dong, Liang Ding, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (WACV 2023).
-4. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, "***MerA: Merging Pretrained Adapters For Few-Shot Learning***", arXiv. 
-5. __Shwai He__, Shi Gu, "***Multi-modal Attention Network for Stock Movements Prediction***", The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (KDF 2022). 
-6. Chenbo Jiang, Jie Yang, __Shwai He__, Yu-Kun Lai and Lin Gao. "***NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes.***", Proceedings of the 40th International Conference on Machine Learning, 2023 (ICML 2023).
-7. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
+4. __Shwai He__, Chenbo Jiang, Daize Dong, Liang Ding, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (WACV 2023).
+5. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, "***MerA: Merging Pretrained Adapters For Few-Shot Learning***", arXiv. 
+6. __Shwai He__, Shi Gu, "***Multi-modal Attention Network for Stock Movements Prediction***", The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (KDF 2022). 
+7. Chenbo Jiang, Jie Yang, __Shwai He__, Yu-Kun Lai and Lin Gao. "***NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes.***", Proceedings of the 40th International Conference on Machine Learning, 2023 (ICML 2023).
+8. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
 Liu, Weifeng Liu, Yibing Zhan and Dacheng, "***Vega-MT: The JD Explore Academy Translation System for WMT***", The Conference on Machine Translation, 2022 (WMT 2022).  
 
 <!-- Getting started
