@@ -75,6 +75,7 @@ Research Experience
 
 [comment]: <> (<dd>Stock Movement Prediction, Facial Image Synthesis </dd></dl>)
 
+
 Selected Publications
 ======
 1. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, 
