@@ -46,10 +46,6 @@ Research Experience
 
 [//]: # (  * Supervisor: [Dr. Liang Ding]&#40;https://liamding.cc/&#41; and [Prof. Dacheng Tao]&#40;https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html&#41;</dl>)
 
-[//]: # (<dl><dt><img align="right" width="80" height="80" vspace="10" hspace="10" src="images/UESTC_logo.jpg"></dt>)
-
-[//]: # (* Nov.2020 - Nov.2021: Undergraduate Member )
-
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt><dt> IICS, Fudan University</dt>
 <dd>07/2022 - 03/2023</dd>
 <d>Research Assistant, supervised by Prof. Siqi Sun </d>
