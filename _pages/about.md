@@ -50,13 +50,6 @@ Research Experience
 
 [//]: # (* Nov.2020 - Nov.2021: Undergraduate Member )
 
-[//]: # ()
-[//]: # (  * [Guslab]&#40;https://guslab.org/&#41;, [UESTC]&#40;https://www.uestc.edu.cn/&#41;, Chengdu, China)
-
-[//]: # (  * Stock Movement Prediction, Facial Image Synthesis)
-
-[//]: # (  * Supervisor: [Prof. Shi Gu]&#40;https://guslab.org/&#41;</dl>)
-
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt><dt> IICS, Fudan University</dt>
 <dd>07/2022 - 03/2023</dd>
 <d>Research Assistant, supervised by Prof. Siqi Sun </d>
