@@ -47,7 +47,7 @@ Research Experience
 [//]: # (  * Supervisor: [Dr. Liang Ding]&#40;https://liamding.cc/&#41; and [Prof. Dacheng Tao]&#40;https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html&#41;</dl>)
 
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/UMD_logo.webp" /></dt><dt> UMIACS, University of Maryland</dt>
-<dd>08/2023 - 12/2023</dd>
+<dd>08/2023 - Now</dd>
 <d>Research Assistant, supervised by Prof. Tianyi Zhou </d>
 <dd>Efficient ML, In-Context Learning </dd></dl>
 
@@ -74,7 +74,7 @@ Selected Publications
 ======
 1. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, 
 "***Merging Experts into One: Improving Computational Efficiency of Mixture of Experts***",
- Proceedings of The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023). 
+ Proceedings of The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Oral). 
 2. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng Tao, 
 "***PAD-Net: An Efficient Framework for Dynamic Networks***",
  Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). 
