@@ -87,7 +87,7 @@ Selected Publications
 6. __Shwai He__, Shi Gu, "***Multi-modal Attention Network for Stock Movements Prediction***", The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (__KDF 2022__). 
 7. Chenbo Jiang, Jie Yang, __Shwai He__, Yu-Kun Lai and Lin Gao. "***NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes.***", Proceedings of the 40th International Conference on Machine Learning, 2023 (__ICML 2023__).
 8. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
-Liu, Weifeng Liu, Yibing Zhan and Dacheng, "***Vega-MT: The JD Explore Academy Translation System for WMT***", The Conference on Machine Translation, 2022 (__WMT 2022__).  
+Liu, Weifeng Liu, Yibing Zhan and Dacheng Tao, "***Vega-MT: The JD Explore Academy Translation System for WMT***", The Conference on Machine Translation, 2022 (__WMT 2022__).  
 
 <!-- Getting started
 ======
