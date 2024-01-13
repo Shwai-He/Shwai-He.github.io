@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at University of Maryland, College Park. Previously, I was a research assistant at the Research Institute of Intelligent Complex Systems at Fudan University, supervised by [Prof.Siqi Sun](https://intersun.github.io/). Before that, I was a research intern at JD Explore Academy, supervised by [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).  
+I am a first-year Ph.D. student at University of Maryland, College Park. Currently, I am a research intern advised by [Dr. Tianlong Chen](https://tianlong-chen.github.io/) at Massachusetts Institute of Technology (CSAIL@MIT). Previously, I was a research assistant at the Research Institute of Intelligent Complex Systems at Fudan University, supervised by [Prof.Siqi Sun](https://intersun.github.io/). Before that, I was a research intern at JD Explore Academy, supervised by [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).  
 
 My research interests primarily lie in the area of deep learning, model compression, natural language processing (NLP), and AI + X (e.g., health, finance). I start with data, models, objectives, optimization, and better adaptation to various downstream tasks to investigate how to efficiently, sufficiently, and trustworthily transfer knowledge from large-scale data to the parameters of the pre-training model.
 
@@ -46,19 +46,19 @@ Research Experience
 
 [//]: # (  * Supervisor: [Dr. Liang Ding]&#40;https://liamding.cc/&#41; and [Prof. Dacheng Tao]&#40;https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html&#41;</dl>)
 
-<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/UMD_logo.webp" /></dt><dt> UMIACS, University of Maryland</dt>
-<dd>08/2023 - Now</dd>
-<d>Research Assistant, supervised by Prof. Tianyi Zhou </d>
-<dd>Efficient ML, In-Context Learning </dd></dl>
+<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/MIT_logo.png" /></dt><dt> CSAIL, Massachusetts Institute of Technology</dt>
+<dd>11/2023 - Now</dd>
+<d>Research Intern, advised by Dr. Tianlong Chen </d>
+<dd>Efficient ML </dd></dl>
 
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt><dt> IICS, Fudan University</dt>
 <dd>07/2022 - 03/2023</dd>
-<d>Research Assistant, supervised by Prof. Siqi Sun </d>
+<d>Research Assistant, advised by Prof. Siqi Sun </d>
 <dd>AI for Protein, Computational Biology </dd></dl>
 
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/JD_logo.png" /></dt><dt> NLP Group, JD Explore Academy</dt>
 <dd>02/2022 - 10/2022</dd>
-<d>Research Intern, supervised by Dr. Liang Ding and Prof. Dacheng Tao </d>
+<d>Research Intern, advised by Dr. Liang Ding and Prof. Dacheng Tao </d>
 <dd>Machine Learning, Efficient Methods for NLP </dd></dl>
 
 [comment]: <> (<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/UESTC_logo.jpg" /></dt><dt> Guslab, UESTC</dt>)
