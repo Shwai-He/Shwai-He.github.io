@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at University of Maryland, College Park. Currently, I am a research intern advised by [Dr. Tianlong Chen](https://tianlong-chen.github.io/) at Massachusetts Institute of Technology (CSAIL@MIT). Previously, I was a research assistant at the Research Institute of Intelligent Complex Systems at Fudan University, supervised by [Prof.Siqi Sun](https://intersun.github.io/). Before that, I was a research intern at JD Explore Academy, supervised by [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).  
+I am a first-year Ph.D. student in the Department of Computer Science at the University of Maryland, College Park, advised by [Prof. Ang Li](https://www.ang-li.com/). Previously, I was a research intern advised by [Dr. Tianlong Chen](https://tianlong-chen.github.io/) at Massachusetts Institute of Technology (CSAIL@MIT). I used to be a research assistant at the Research Institute of Intelligent Complex Systems at Fudan University, supervised by [Prof.Siqi Sun](https://intersun.github.io/). Before that, I was a research intern at JD Explore Academy, supervised by [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).  
 
 My research interests primarily lie in the area of deep learning, model compression, natural language processing (NLP), and AI + X (e.g., health, finance). I start with data, models, objectives, optimization, and better adaptation to various downstream tasks to investigate how to efficiently, sufficiently, and trustworthily transfer knowledge from large-scale data to the parameters of the pre-training model.
 
@@ -47,7 +47,7 @@ Research Experience
 [//]: # (  * Supervisor: [Dr. Liang Ding]&#40;https://liamding.cc/&#41; and [Prof. Dacheng Tao]&#40;https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html&#41;</dl>)
 
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/MIT_logo.png" /></dt><dt> CSAIL, Massachusetts Institute of Technology</dt>
-<dd>11/2023 - Now</dd>
+<dd>11/2023 - 04/2024</dd>
 <d>Research Intern, advised by Dr. Tianlong Chen </d>
 <dd>Efficient ML </dd></dl>
 
@@ -72,21 +72,24 @@ Research Experience
 
 Selected Publications
 ======
-1. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, 
+1. __Shwai He__, Tianlong Chen, 
+"***RESSA: Repair Sparse Vision-Language Models via Sparse Cross-Modality Adaptation***", 
+arXiv. 
+2. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, 
 "***Merging Experts into One: Improving Computational Efficiency of Mixture of Experts***",
  Proceedings of The 2023 Conference on Empirical Methods in Natural Language Processing 
  (__EMNLP 2023 Oral__). 
-2. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng Tao, 
+3. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng Tao, 
 "***PAD-Net: An Efficient Framework for Dynamic Networks***",
  Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics (__ACL 2023__). 
-3. __Shwai He__, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao, 
+4. __Shwai He__, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao, 
 "***SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters***",
  Findings of The 2022 Conference on Empirical Methods in Natural Language Processing (__EMNLP 2022__). 
-4. __Shwai He__, Chenbo Jiang, Daize Dong, Liang Ding, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (__WACV 2023__).
-5. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, "***MerA: Merging Pretrained Adapters For Few-Shot Learning***", arXiv. 
-6. __Shwai He__, Shi Gu, "***Multi-modal Attention Network for Stock Movements Prediction***", The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (__KDF 2022__). 
-7. Chenbo Jiang, Jie Yang, __Shwai He__, Yu-Kun Lai and Lin Gao. "***NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes.***", Proceedings of the 40th International Conference on Machine Learning, 2023 (__ICML 2023__).
-8. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
+5. __Shwai He__, Chenbo Jiang, Daize Dong, Liang Ding, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (__WACV 2023__).
+6. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, "***MerA: Merging Pretrained Adapters For Few-Shot Learning***", arXiv. 
+7. __Shwai He__, Shi Gu, "***Multi-modal Attention Network for Stock Movements Prediction***", The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (__KDF 2022__). 
+8. Chenbo Jiang, Jie Yang, __Shwai He__, Yu-Kun Lai and Lin Gao. "***NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes.***", Proceedings of the 40th International Conference on Machine Learning, 2023 (__ICML 2023__).
+9. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
 Liu, Weifeng Liu, Yibing Zhan and Dacheng Tao, "***Vega-MT: The JD Explore Academy Translation System for WMT***", The Conference on Machine Translation, 2022 (__WMT 2022__).  
 
 <!-- Getting started
