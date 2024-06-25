@@ -72,8 +72,12 @@ Research Experience
 
 Selected Publications
 ======
-1. __Shwai He__, Tianlong Chen, 
-"***RESSA: Repair Sparse Vision-Language Models via Sparse Cross-Modality Adaptation***", 
+1. __Shwai He__*, Guoheng Sun*, Zheyu Shen, Ang Li, 
+"***What Matters in Transformers? Not All Attention is Needed***", arXiv. 
+3. __Shwai He__*, Daize Dong, Liang Ding, Ang Li, 
+"***Demystifying the Compression of Mixture-of-Experts\\ Through a Unified Framework***", arXiv. 
+2. __Shwai He__, Ang Li, Tianlong Chen, 
+"***Rethinking Pruning for Vision-Language Models: Strategies for Effective Sparsity and Performance Restoration***", 
 arXiv. 
 2. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, 
 "***Merging Experts into One: Improving Computational Efficiency of Mixture of Experts***",
