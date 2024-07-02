@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the Department of Computer Science at the University of Maryland, College Park. Previously, I was a research intern advised by [Dr. Tianlong Chen](https://tianlong-chen.github.io/) at Massachusetts Institute of Technology (CSAIL@MIT). I used to be a research assistant at the Research Institute of Intelligent Complex Systems at Fudan University, supervised by [Prof.Siqi Sun](https://intersun.github.io/). Before that, I was a research intern at JD Explore Academy, supervised by [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html). My research interests primarily lie in the area of deep learning, model compression, natural language processing (NLP), and AI + X (e.g., health, finance).
+I am a first-year Ph.D. student in the Department of Computer Science at the University of Maryland, College Park, advised by [Prof. Ang Li](https://www.ang-li.com/). 
+Previously, I was a research intern advised by [Dr. Tianlong Chen](https://tianlong-chen.github.io/) at Massachusetts Institute of Technology (CSAIL@MIT). 
+I used to be a research assistant at the Research Institute of Intelligent Complex Systems at Fudan University, supervised by [Prof.Siqi Sun](https://intersun.github.io/). 
+Before that, I was a research intern at JD Explore Academy, supervised by [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html). 
+My research interests primarily lie in the area of deep learning, model compression, natural language processing (NLP), and AI + X (e.g., health, finance).
 
 [//]: # (I start with data, models, objectives, optimization, and better adaptation to various downstream tasks to investigate how to efficiently, sufficiently, and trustworthily transfer knowledge from large-scale data to the parameters of the pre-training model.)
 
