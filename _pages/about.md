@@ -30,26 +30,6 @@ News
 Research Experience
 ======
 
-[//]: # ([//]: # &#40;<dl><dt><img align="right" width="80" height="80" vspace="10" hspace="10" src="images/FDU_Logo.png"></dt>&#41;)
-[//]: # (* Jul.2022 - Now: Research Assistant )
-
-[//]: # ()
-[//]: # (  * [IICS]&#40;https://iics.fudan.edu.cn/&#41;, [Fudan University]&#40;https://www.fudan.edu.cn/en/&#41;, Shanghai, China)
-
-[//]: # (  * AI for Protein, Computational Biology)
-
-[//]: # (  * Supervisor: [Prof.Siqi Sun]&#40;https://intersun.github.io/&#41;</dl>)
-
-[//]: # ([//]: # &#40;<dl><dt><img align="right" width="80" height="80" vspace="10" hspace="10" src="images/JD_logo.png"></dt>&#41;)
-[//]: # (* Feb.2022 - Oct.2022: Research Intern )
-
-[//]: # ()
-[//]: # (  * [NLP Group, JD Explore Academy]&#40;https://jdcorporateblog.com/top-ai-scholar-heads-jd-explore-academy/&#41;, Beijing, China)
-
-[//]: # (  * Machine Learning, Efficient Methods for NLP.)
-
-[//]: # (  * Supervisor: [Dr. Liang Ding]&#40;https://liamding.cc/&#41; and [Prof. Dacheng Tao]&#40;https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html&#41;</dl>)
-
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/MIT_logo.png" /></dt><dt> CSAIL, Massachusetts Institute of Technology</dt>
 <dd>11/2023 - 04/2024</dd>
 <d>Research Intern, advised by Dr. Tianlong Chen </d>
@@ -77,9 +57,9 @@ Research Experience
 Selected Publications
 ======
 1. __Shwai He__\*, Guoheng Sun\*, Zheyu Shen, Ang Li, 
-"***What Matters in Transformers? Not All Attention is Needed***", arXiv.
+"***What Matters in Transformers? Not All Attention is Needed***", arXiv. [[Paper](https://arxiv.org/abs/2406.15786)] [[Code](https://github.com/Shwai-He/LLM-Drop)]
 2. __Shwai He__\*, Daize Dong\*, Liang Ding, Ang Li, 
-"***Demystifying the Compression of Mixture-of-Experts\\ Through a Unified Framework***", arXiv.
+"***Demystifying the Compression of Mixture-of-Experts\\ Through a Unified Framework***", arXiv. [[Paper](https://arxiv.org/abs/2406.02500)] [[Code](https://github.com/DaizeDong/Unified-MoE-Compression)]
 3. __Shwai He__, Ang Li, Tianlong Chen, 
 "***Rethinking Pruning for Vision-Language Models: Strategies for Effective Sparsity and Performance Restoration***", 
 arXiv.
