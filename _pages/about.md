@@ -62,7 +62,7 @@ Selected Publications
 "***Demystifying the Compression of Mixture-of-Experts\\ Through a Unified Framework***", arXiv. [[Paper](https://arxiv.org/abs/2406.02500)] [[Code](https://github.com/DaizeDong/Unified-MoE-Compression)]
 3. __Shwai He__, Ang Li, Tianlong Chen, 
 "***Rethinking Pruning for Vision-Language Models: Strategies for Effective Sparsity and Performance Restoration***", 
-arXiv.
+arXiv. [[Paper]()] [[Code](https://github.com/Shwai-He/VLM-Compression)]
 4. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, 
 "***Merging Experts into One: Improving Computational Efficiency of Mixture of Experts***",
  Proceedings of The 2023 Conference on Empirical Methods in Natural Language Processing 
