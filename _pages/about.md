@@ -31,7 +31,7 @@ News
 
 Research Experience
 ======
-<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/MIT_logo.png" /></dt><dt> Tencent AI Lab, Bellevue, WA</dt>
+<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/Tencent_logo.png" /></dt><dt> Tencent AI Lab, Bellevue, WA</dt>
 <dd>06/2023 - 08/2024</dd>
 <d>Research Intern, advised by Dr. Xiaoyang Wang </d>
 <dd>Efficient ML </dd></dl>
