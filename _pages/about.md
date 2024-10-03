@@ -18,6 +18,8 @@ My research interests primarily lie in the area of deep learning, model compress
 
 News
 ======
+  \[09/2024\]: One paper (Efficient Attention) is accepted by [NeurIPS 2024](https://neurips.cc/). \
+  \[09/2024\]: One paper (Reformat Alignment) is accepted by [EMNLP 2024](https://2024.emnlp.org/). \
   \[10/2023\]: One paper (Merging Experts into One) is accepted by [EMNLP 2023](https://2023.emnlp.org/). \
   \[05/2023\]: One paper (PAD-Net) is accepted by [ACL 2023](https://2023.aclweb.org/). \
   \[04/2023\]: One paper (NeuralSlice) is accepted by [ICML 2023](https://icml.cc/). \
@@ -29,11 +31,15 @@ News
 
 Research Experience
 ======
+<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/MIT_logo.png" /></dt><dt> Tencent AI Lab, Bellevue, WA</dt>
+<dd>06/2023 - 08/2024</dd>
+<d>Research Intern, advised by Dr. Xiaoyang Wang </d>
+<dd>Efficient ML </dd></dl>
 
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/MIT_logo.png" /></dt><dt> CSAIL, Massachusetts Institute of Technology</dt>
 <dd>11/2023 - 04/2024</dd>
 <d>Research Intern, advised by Dr. Tianlong Chen </d>
-<dd>Efficient ML </dd></dl>
+<dd>Model Compression </dd></dl>
 
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt><dt> IICS, Fudan University</dt>
 <dd>07/2022 - 03/2023</dd>
