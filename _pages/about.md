@@ -29,23 +29,34 @@ News
   \[01/2022\]: One paper is accepted by [AAAI-22 KDF](https://aaai-kdf.github.io/kdf2022/).
   
 
-Research Experience
-======
-<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/Tencent_logo.png" /></dt><dt> Tencent AI Lab, Bellevue, WA</dt>
-<d>  </d>
-<dd>06/2023 - 08/2024</dd>
-<dd>Efficient ML </dd></dl>
+<h2>Research Experience</h2>
 
-<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt><dt> IICS, Fudan University</dt>
-<d>  </d>
-<dd>07/2022 - 03/2023</dd>
-<dd>AI for Protein, Computational Biology </dd></dl>
+<dl>
+    <dt>
+        <img align="left" width="110" height="110" hspace="10" src="images/Tencent_logo.png" alt="Tencent AI Lab Logo"/>
+        <strong>Tencent AI Lab, Bellevue, WA</strong>
+    </dt>
+    <dd><em>June 2023 – August 2024</em></dd>
+    <dd>Efficient Machine Learning</dd>
+</dl>
 
-<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/JD_logo.png" /></dt><dt> NLP Group, JD Explore Academy</dt>
-<d>  </d>
-<dd>02/2022 - 10/2022</dd>
-<dd>Machine Learning, Efficient Methods for NLP </dd></dl>
+<dl>
+    <dt>
+        <img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" alt="Fudan University Logo"/>
+        <strong>Institute of Intelligent Computing Systems (IICS), Fudan University</strong>
+    </dt>
+    <dd><em>July 2022 – March 2023</em></dd>
+    <dd>AI for Protein, Computational Biology</dd>
+</dl>
 
+<dl>
+    <dt>
+        <img align="left" width="110" height="110" hspace="10" src="images/JD_logo.png" alt="JD Explore Academy Logo"/>
+        <strong>NLP Group, JD Explore Academy</strong>
+    </dt>
+    <dd><em>February 2022 – October 2022</em></dd>
+    <dd>Machine Learning, Efficient Methods for NLP</dd>
+</dl>
 
 Selected Publications
 ======
