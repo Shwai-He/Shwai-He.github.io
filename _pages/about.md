@@ -32,16 +32,20 @@ News
 Research Experience
 ======
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/Tencent_logo.png" /></dt><dt> Tencent AI Lab, Bellevue, WA</dt>
+<d></d>
 <dd>06/2023 - 08/2024</dd>
 <dd>Efficient ML </dd></dl>
 
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt><dt> IICS, Fudan University</dt>
+<d></d>
 <dd>07/2022 - 03/2023</dd>
 <dd>AI for Protein, Computational Biology </dd></dl>
 
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/JD_logo.png" /></dt><dt> NLP Group, JD Explore Academy</dt>
+<d></d>
 <dd>02/2022 - 10/2022</dd>
 <dd>Machine Learning, Efficient Methods for NLP </dd></dl>
+
 
 Selected Publications
 ======
