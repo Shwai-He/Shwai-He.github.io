@@ -33,33 +33,15 @@ Research Experience
 ======
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/Tencent_logo.png" /></dt><dt> Tencent AI Lab, Bellevue, WA</dt>
 <dd>06/2023 - 08/2024</dd>
-<d>Research Intern, advised by Dr. Xiaoyang Wang </d>
 <dd>Efficient ML </dd></dl>
-
-<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/MIT_logo.png" /></dt><dt> CSAIL, Massachusetts Institute of Technology</dt>
-<dd>11/2023 - 04/2024</dd>
-<d>Research Intern, advised by Dr. Tianlong Chen </d>
-<dd>Model Compression </dd></dl>
 
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt><dt> IICS, Fudan University</dt>
 <dd>07/2022 - 03/2023</dd>
-<d>Research Assistant, advised by Prof. Siqi Sun </d>
 <dd>AI for Protein, Computational Biology </dd></dl>
 
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/JD_logo.png" /></dt><dt> NLP Group, JD Explore Academy</dt>
 <dd>02/2022 - 10/2022</dd>
-<d>Research Intern, advised by Dr. Liang Ding and Prof. Dacheng Tao </d>
 <dd>Machine Learning, Efficient Methods for NLP </dd></dl>
-
-[comment]: <> (<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/UESTC_logo.jpg" /></dt><dt> Guslab, UESTC</dt>)
-
-[comment]: <> (<dd>11/2020 - 11/2021</dd>)
-
-[comment]: <> (<d>Undergraduate Member, supervised by Prof. Shi Gu </d>)
-
-[comment]: <> (<dd>Stock Movement Prediction, Facial Image Synthesis </dd></dl>)
-
-
 
 Selected Publications
 ======
