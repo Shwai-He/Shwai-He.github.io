@@ -29,36 +29,23 @@ News
   \[01/2022\]: One paper is accepted by [AAAI-22 KDF](https://aaai-kdf.github.io/kdf2022/).
   
 
-<h2>Research Experience</h2>
+Research Experience
+======
+<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/Tencent_logo.png" /></dt><dt> Tencent AI Lab, Bellevue, WA</dt>
+<dd>06/2023 - 08/2024</dd>
+<d>Research Intern </d>
+<dd>Efficient ML </dd></dl>
 
-<div class="experience">
-    <div class="entry">
-        <img src="images/Tencent_logo.png" alt="Tencent Logo" class="logo">
-        <div class="text">
-            <strong>Tencent AI Lab, Bellevue, WA</strong><br>
-            <em>June 2023 – August 2024</em><br>
-            Efficient Machine Learning
-        </div>
-    </div>
+<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt><dt> IICS, Fudan University</dt>
+<dd>07/2022 - 03/2023</dd>
+<d>Research Assistant </d>
+<dd>AI for Protein, Computational Biology </dd></dl>
 
-    <div class="entry">
-        <img src="images/FDU_Logo.png" alt="Fudan University Logo" class="logo">
-        <div class="text">
-            <strong>Institute of Intelligent Computing Systems (IICS), Fudan University</strong><br>
-            <em>July 2022 – March 2023</em><br>
-            AI for Protein, Computational Biology
-        </div>
-    </div>
+<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/JD_logo.png" /></dt><dt> NLP Group, JD Explore Academy</dt>
+<dd>02/2022 - 10/2022</dd>
+<d>Research Intern </d>
+<dd>Machine Learning, Efficient Methods for NLP </dd></dl>
 
-    <div class="entry">
-        <img src="images/JD_logo.png" alt="JD Logo" class="logo">
-        <div class="text">
-            <strong>NLP Group, JD Explore Academy</strong><br>
-            <em>February 2022 – October 2022</em><br>
-            Machine Learning, Efficient Methods for NLP
-        </div>
-    </div>
-</div>
 
 
 Selected Publications
