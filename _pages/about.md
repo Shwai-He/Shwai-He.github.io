@@ -53,7 +53,7 @@ Selected Publications
 1. __Shwai He__\*, Guoheng Sun\*, Zheyu Shen, Ang Li, 
 "***What Matters in Transformers? Not All Attention is Needed***", arXiv. [[Paper](https://arxiv.org/abs/2406.15786)] [[Code](https://github.com/Shwai-He/LLM-Drop)]
 2. __Shwai He__\*, Daize Dong\*, Liang Ding, Ang Li, 
-"***Demystifying the Compression of Mixture-of-Experts Through a Unified Framework***", Transactions on Machine Learning Research (__TMLR__). [[Paper](https://arxiv.org/abs/2406.02500)] [[Code](https://github.com/DaizeDong/Unified-MoE-Compression)]
+"***Demystifying the Compression of Mixture-of-Experts Through a Unified Framework***", arXiv. [[Paper](https://arxiv.org/abs/2406.02500)] [[Code](https://github.com/DaizeDong/Unified-MoE-Compression)]
 3. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, 
 "***Merging Experts into One: Improving Computational Efficiency of Mixture of Experts***",
  Proceedings of The 2023 Conference on Empirical Methods in Natural Language Processing 
