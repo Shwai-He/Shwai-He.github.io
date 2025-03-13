@@ -54,21 +54,18 @@ Selected Publications
 "***What Matters in Transformers? Not All Attention is Needed***", arXiv. [[Paper](https://arxiv.org/abs/2406.15786)] [[Code](https://github.com/Shwai-He/LLM-Drop)]
 2. __Shwai He__\*, Daize Dong\*, Liang Ding, Ang Li, 
 "***Demystifying the Compression of Mixture-of-Experts Through a Unified Framework***", Transactions on Machine Learning Research (__TMLR__). [[Paper](https://arxiv.org/abs/2406.02500)] [[Code](https://github.com/DaizeDong/Unified-MoE-Compression)]
-3. __Shwai He__, Ang Li, Tianlong Chen, 
-"***Rethinking Pruning for Vision-Language Models: Strategies for Effective Sparsity and Performance Restoration***", 
-arXiv. [[Paper](https://arxiv.org/abs/2404.02424v2)] [[Code](https://github.com/Shwai-He/VLM-Compression)]
-4. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, 
+3. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, 
 "***Merging Experts into One: Improving Computational Efficiency of Mixture of Experts***",
  Proceedings of The 2023 Conference on Empirical Methods in Natural Language Processing 
  (__EMNLP 2023 Oral__). [[Paper](https://aclanthology.org/2023.emnlp-main.907/)] [[Code](https://github.com/Shwai-He/MEO)]
-5. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng Tao, 
+4. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng Tao, 
 "***PAD-Net: An Efficient Framework for Dynamic Networks***",
  Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics (__ACL 2023__). [[Paper](https://aclanthology.org/2023.acl-long.803.pdf)] [[Code](https://github.com/Shwai-He/PAD-Net)]
-6. __Shwai He__, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao, 
+5. __Shwai He__, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao, 
 "***SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters***",
  Findings of The 2022 Conference on Empirical Methods in Natural Language Processing (__EMNLP 2022__). [[Paper](https://aclanthology.org/2022.findings-emnlp.160/)] [[Code](https://github.com/Shwai-He/SparseAdapter)]
-7. __Shwai He__, Chenbo Jiang, Daize Dong, Liang Ding, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (__WACV 2023__). [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf)]
-8. __Shwai He__, Shi Gu, "***Multi-modal Attention Network for Stock Movements Prediction***", The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (__KDF 2022__). [[Paper](https://aaai-kdf.github.io/kdf2022/assets/pdfs/KDF_22_paper_3.pdf)]
-9. Chenbo Jiang, Jie Yang, __Shwai He__, Yu-Kun Lai and Lin Gao. "***NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes.***", Proceedings of the 40th International Conference on Machine Learning, 2023 (__ICML 2023__). [[Paper](https://proceedings.mlr.press/v202/jiang23j/jiang23j.pdf)] [[Code](https://github.com/IGLICT/NEURALSLICE)]
-10. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
+6. __Shwai He__, Chenbo Jiang, Daize Dong, Liang Ding, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (__WACV 2023__). [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf)]
+7. __Shwai He__, Shi Gu, "***Multi-modal Attention Network for Stock Movements Prediction***", The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (__KDF 2022__). [[Paper](https://aaai-kdf.github.io/kdf2022/assets/pdfs/KDF_22_paper_3.pdf)]
+8. Chenbo Jiang, Jie Yang, __Shwai He__, Yu-Kun Lai and Lin Gao. "***NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes.***", Proceedings of the 40th International Conference on Machine Learning, 2023 (__ICML 2023__). [[Paper](https://proceedings.mlr.press/v202/jiang23j/jiang23j.pdf)] [[Code](https://github.com/IGLICT/NEURALSLICE)]
+9. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
 Liu, Weifeng Liu, Yibing Zhan and Dacheng Tao, "***Vega-MT: The JD Explore Academy Translation System for WMT***", The Conference on Machine Translation, 2022 (__WMT 2022__). [[Paper](https://aclanthology.org/2022.wmt-1.37/)] 
