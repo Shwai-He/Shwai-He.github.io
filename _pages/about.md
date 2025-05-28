@@ -18,7 +18,7 @@ My research interests primarily lie in the area of deep learning, model compress
 
 News
 ======
-  \[05/2025\]: 🏆 Awarded the Qualcomm Innovation Fellowship (QIF) North America. \
+  \[05/2025\]: 🏆 Awarded the Qualcomm Innovation Fellowship ([QIF](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america)) North America. \
   \[09/2024\]: Two papers accepted: (1) Efficient Attention at [NeurIPS 2024](https://neurips.cc/), and (2) Reformat Alignment at [EMNLP 2024](https://2024.emnlp.org/). \
   \[10/2023\]: One paper (Merging Experts into One) is accepted by [EMNLP 2023](https://2023.emnlp.org/). \
   \[05/2023\]: One paper (PAD-Net) is accepted by [ACL 2023](https://2023.aclweb.org/). \
