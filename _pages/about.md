@@ -54,7 +54,7 @@ Selected Publications
 1. __Shwai He__\*, Guoheng Sun\*, Zheyu Shen, Ang Li, 
 "***What Matters in Transformers? Not All Attention is Needed***", arXiv. [[Paper](https://arxiv.org/abs/2406.15786)] [[Code](https://github.com/Shwai-He/LLM-Drop)]
 2. __Shwai He__, Tao Ge, Guoheng Sun, Bowei Tian, Xiaoyang Wang, Dong Yu, 
-"***Router-Tuning: A Simple and Effective Approach for Dynamic Depth***", Proceedings of The 2023 Conference on Empirical Methods in Natural Language Processing
+"***Router-Tuning: A Simple and Effective Approach for Dynamic Depth***", Proceedings of The 2025 Conference on Empirical Methods in Natural Language Processing
 (__EMNLP 2025__) [[Paper](https://arxiv.org/abs/2410.13184)] [[Code](https://github.com/CASE-Lab-UMD/Router-Tuning-Mixture-of-Depths)]
 3. __Shwai He__\*, Daize Dong\*, Liang Ding, Ang Li, 
 "***Towards Efficient Mixture of Experts: A Holistic Study of Compression Techniques***", Transactions on Machine Learning Research 
