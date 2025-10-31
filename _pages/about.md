@@ -33,22 +33,22 @@ News
 Research Experience
 ======
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/ByteDance_logo.jpg" /></dt><dt> ByteDance Seed</dt>
-<dd>05/2025 - Now</dd>
+<d>05/2025 - Now</d>
 <d>Student Researcher </d>
 <!-- <dd>Efficient ML </dd></dl> -->
 
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/Tencent_logo.png" /></dt><dt> Tencent AI Lab, Bellevue, WA</dt>
-<dd>06/2024 - 08/2024</dd>
+<d>06/2024 - 08/2024</d>
 <d>Research Intern </d>
 <!-- <dd>Efficient ML </dd></dl> -->
 
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt><dt> IICS, Fudan University</dt>
-<dd>07/2022 - 03/2023</dd>
+<d>07/2022 - 03/2023</d>
 <d>Research Assistant </d>
 <!-- <dd>AI for Protein, Computational Biology </dd></dl> -->
 
 <dl><dt><img align="left" width="110" height="110" hspace="10" src="images/JD_logo.png" /></dt><dt> NLP Group, JD Explore Academy</dt>
-<dd>02/2022 - 10/2022</dd>
+<d>02/2022 - 10/2022</d>
 <d>Research Intern </d>
 <!-- <dd>Machine Learning, Efficient Methods for NLP </dd></dl> -->
 
