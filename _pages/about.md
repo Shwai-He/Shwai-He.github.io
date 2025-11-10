@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Computer Science at the University of Maryland, College Park, advised by [Prof. Ang Li](https://www.ang-li.com/). 
-<!-- Previously, I was a research intern advised by [Dr. Tianlong Chen](https://tianlong-chen.github.io/) at Massachusetts Institute of Technology (CSAIL@MIT).  -->
-<!-- I used to be a research assistant at the Research Institute of Intelligent Complex Systems at Fudan University, supervised by [Prof.Siqi Sun](https://intersun.github.io/).  -->
-Before that, I was a research intern at JD Explore Academy, supervised by [Dr. Liang Ding](https://openreview.net/profile?id=~Liang_Ding3) and [Prof. Dacheng Tao](https://www.ntu.edu.sg/research/faculty-directory/detail/rp02343). 
-My research interests primarily lie in the area of deep learning, model compression, natural language processing (NLP), and AI + X (e.g., health, finance).
+I am a Ph.D. candidate in Computer Science at the University of Maryland, College Park, advised by Prof. Ang Li. I am currently a Student Researcher at ByteDance, with prior experience at Tencent AI Lab and JD Explore Academy.
+
+My research focuses on understanding and improving the structural efficiency and scalability of large foundation models. I start by analyzing how computation, parameters, and modalities interact within large models to uncover their structural patterns and inefficiencies. Based on these insights, I develop methods for model compression, adaptive inference, parameter-efficient fine-tuning, and modality-aware optimization to improve model efficiency and adaptability across diverse tasks and modalities.
+
+I further explore system- and device-level optimizations to enable efficient inference on real-world hardware, and extend these principles to unified multimodal architectures that balance shared and specialized computation. Broadly, my goal is to bridge model understanding, architectural efficiency, and practical deployment toward the next generation of scalable AI systems. 
 
 
 News
