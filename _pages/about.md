@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="justify" style="line-height:1.55; margin-bottom:10px; text-align:justify;">
+<p align="justify" style="line-height:1.5; margin-bottom:9px; text-align:justify;">
 I am a Ph.D. candidate in Computer Science at the University of Maryland, College Park, advised by Prof. Ang Li. I am currently a Student Researcher at ByteDance, with prior experience at Tencent AI Lab and JD Explore Academy, where I worked on efficient model training and large-scale natural language systems.<br><br>
 
 My research focuses on understanding and improving the structural efficiency and scalability of large foundation models. I start by analyzing how computation, parameters, and modalities interact within these models to uncover their structural patterns, redundancy, and inefficiencies. Based on these insights, I develop methods for model compression, adaptive inference, parameter-efficient fine-tuning, and modality-aware optimization, aiming to improve both efficiency and adaptability across diverse tasks and modalities.<br><br>
