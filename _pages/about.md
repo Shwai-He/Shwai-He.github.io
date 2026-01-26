@@ -22,8 +22,8 @@ I further explore system- and device-level optimizations to enable efficient inf
 
 News
 ======
-  <!-- \[01/2026\]: Capacity-Aware Inference is accepted by [ICLR 2026](https://iclr.cc/). \
-  \[01/2026\]: Attention Drop is accepted by [TMLR](https://jmlr.org/tmlr/). \ -->
+  \[01/2026\]: Capacity-Aware Inference is accepted by [ICLR 2026](https://iclr.cc/). \
+  \[01/2026\]: Attention Drop is accepted by [TMLR](https://jmlr.org/tmlr/). \
   \[08/2025\]: Router-Tuning is accepted at [EMNLP 2025](https://2025.emnlp.org/). \
   \[05/2025\]: 🏆 Awarded the [Qualcomm Innovation Fellowship (QIF)](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america) North America for the proposal *“Less Attention, Much Faster: Toward a Future of Efficiency-Optimized Transformer Architectures.”* \
   \[03/2025\]: Our Holistic Study of MoE Compression is accepted by [TMLR](https://jmlr.org/tmlr/). \
