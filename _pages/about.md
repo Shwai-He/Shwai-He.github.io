@@ -75,7 +75,7 @@ Research Experience
 Selected Publications
 ======
 1. __Shwai He__, Weilin Cai, Jiayi Huang, Ang Li, 
-"***Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts***", arXiv. [[Paper](https://arxiv.org/abs/2503.05066)] [[Code](https://github.com/CASE-Lab-UMD/Capacity-Aware-MoE)]
+"***Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts***", Proceedings of The Fourteenth International Conference on Learning Representations (__ICLR 2026__). [[Paper](https://arxiv.org/abs/2503.05066)] [[Code](https://github.com/CASE-Lab-UMD/Capacity-Aware-MoE)]
 2. __Shwai He__\*, Guoheng Sun\*, Zheyu Shen, Ang Li, 
 "***What Matters in Transformers? Not All Attention is Needed***", arXiv. [[Paper](https://arxiv.org/abs/2406.15786)] [[Code](https://github.com/CASE-Lab-UMD/LLM-Drop)]
 3. Yibin Lei, __Shwai He__\*, Guoheng Sun\*, Ang Li, Andrew Yates, 
