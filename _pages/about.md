@@ -32,7 +32,7 @@ News
   \[05/2023\]: PAD-Net is accepted by [ACL 2023](https://2023.aclweb.org/). \
   \[04/2023\]: NeuralSlice is accepted by [ICML 2023](https://icml.cc/). \
   \[10/2022\]: SparseAdapter is accepted by [EMNLP 2022](https://2022.emnlp.org/). \
-  \[08/2022\]: SD-Conv is accpeted by [WACV 2023](https://wacv2023.thecvf.com/). \
+  \[08/2022\]: SD-Conv is accepted by [WACV 2023](https://wacv2023.thecvf.com/). \
   \[07/2022\]: 🏆 Ranked 1st (Chinese<=>English, German<=>English, Czech<=>English, English=>Russian), 2nd (Russian=>English, Japanese=>English), and 3rd (English=>Japanese) in General Translation Task in [WMT 2022](https://statmt.org/wmt22/translation-task.html). \
   \[01/2022\]: One paper is accepted by [AAAI-22 KDF](https://aaai-kdf.github.io/kdf2022/).
   
@@ -42,7 +42,7 @@ Research Experience
 <dl>
   <dt><img align="left" width="110" height="110" hspace="10" src="images/ByteDance_logo.jpg" /></dt>
   <dt>ByteDance Seed</dt>
-  <d>05/2025 - Now</d><br>
+  <d>05/2025 - Present</d><br>
   <dd>Student Researcher</dd>
   <dd>Multimodal Modeling</dd>
 </dl>
