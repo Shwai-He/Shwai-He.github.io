@@ -77,8 +77,7 @@ Selected Publications
 1. __Shwai He__, Weilin Cai, Jiayi Huang, Ang Li, 
 "***Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts***", Proceedings of the Fourteenth International Conference on Learning Representations (__ICLR 2026__). [[Paper](https://arxiv.org/abs/2503.05066)] [[Code](https://github.com/CASE-Lab-UMD/Capacity-Aware-MoE)]
 2. __Shwai He__\*, Guoheng Sun\*, Zheyu Shen, Ang Li, 
-"***Uncovering the Redundancy in Transformers via a Unified Study of Layer Dropping
-***", TMLR. [[Paper](https://openreview.net/forum?id=1I7PCbOPfe)] [[Code](https://github.com/CASE-Lab-UMD/LLM-Drop)]
+"***Uncovering the Redundancy in Transformers via a Unified Study of Layer Dropping***", TMLR. [[Paper](https://openreview.net/forum?id=1I7PCbOPfe)] [[Code](https://github.com/CASE-Lab-UMD/LLM-Drop)]
 3. Yibin Lei, __Shwai He__\*, Guoheng Sun\*, Ang Li, Andrew Yates, 
 "***Making Large Language Models Efficient Dense Retrievers***", arXiv. [[Paper](https://arxiv.org/abs/2512.20612)] [[Code](https://github.com/Yibin-Lei/EffiR)]
 4. __Shwai He__, Tao Ge, Guoheng Sun, Bowei Tian, Xiaoyang Wang, Dong Yu, 
