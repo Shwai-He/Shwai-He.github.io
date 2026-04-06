@@ -1,0 +1,178 @@
+:root {
+  --site-ink: #243447;
+  --site-muted: #5f6f82;
+  --site-accent: #1d6b74;
+  --site-accent-soft: #e6f1f2;
+  --site-border: #d8e1e8;
+  --site-surface: #f7fafb;
+}
+
+body {
+  font-family: "Source Serif 4", Georgia, serif;
+  color: var(--site-ink);
+  background:
+    radial-gradient(circle at top left, rgba(29, 107, 116, 0.08), transparent 28%),
+    linear-gradient(180deg, #fcfeff 0%, #ffffff 24%);
+}
+
+.masthead,
+.greedy-nav {
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(10px);
+}
+
+.greedy-nav a,
+.author__name,
+.page__title,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.archive__item-title {
+  font-family: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.page__title {
+  font-size: clamp(2.5rem, 4vw, 3.5rem);
+  line-height: 0.95;
+  letter-spacing: -0.04em;
+  color: #1f3143;
+  margin-bottom: 1.1rem;
+}
+
+.page__content {
+  max-width: 48rem;
+}
+
+.page__content p,
+.page__content li,
+.page__content dd,
+.page__content dt {
+  line-height: 1.78;
+  color: var(--site-ink);
+}
+
+.page__content p {
+  font-size: 1.06rem;
+}
+
+.page__content h1,
+.page__content h2 {
+  margin-top: 2.4rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--site-border);
+  color: #21384c;
+  letter-spacing: -0.03em;
+}
+
+.page__content h2 {
+  font-size: 1.45rem;
+}
+
+.page__content a {
+  color: var(--site-accent);
+  text-decoration-color: rgba(29, 107, 116, 0.35);
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.16em;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease, background-color 0.2s ease;
+}
+
+.page__content a:hover {
+  color: #154f56;
+  text-decoration-color: rgba(21, 79, 86, 0.7);
+}
+
+.page__content > p[align="justify"] {
+  font-size: 1.08rem;
+  line-height: 1.84;
+  color: #2c4155;
+}
+
+.page__content > p[align="justify"]:first-of-type {
+  font-size: 1.12rem;
+}
+
+.page__content a[href^="#pub-"] {
+  font-family: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.96em;
+  font-weight: 700;
+}
+
+.page__content a[href*="arxiv.org"],
+.page__content a[href*="openreview.net"],
+.page__content a[href*="github.com"],
+.page__content a[href*="aclanthology.org"] {
+  display: inline-block;
+  padding: 0.08rem 0.45rem;
+  margin-right: 0.18rem;
+  border: 1px solid var(--site-border);
+  border-radius: 999px;
+  background: var(--site-surface);
+  text-decoration: none;
+}
+
+.page__content a[href*="arxiv.org"]:hover,
+.page__content a[href*="openreview.net"]:hover,
+.page__content a[href*="github.com"]:hover,
+.page__content a[href*="aclanthology.org"]:hover {
+  background: var(--site-accent-soft);
+  border-color: rgba(29, 107, 116, 0.25);
+}
+
+.author__avatar img,
+.author__avatar .author__avatar {
+  border-radius: 1.25rem;
+  box-shadow: 0 18px 36px rgba(24, 39, 56, 0.16);
+}
+
+.author__content,
+.author__urls-wrapper {
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid rgba(216, 225, 232, 0.9);
+  border-radius: 1rem;
+  box-shadow: 0 10px 30px rgba(31, 49, 67, 0.06);
+}
+
+.author__content {
+  padding: 1rem 1.1rem 0.9rem;
+  margin-top: 0.9rem;
+}
+
+.author__name {
+  color: #1f3143;
+  letter-spacing: -0.03em;
+}
+
+.author__bio {
+  color: var(--site-muted);
+  line-height: 1.65;
+}
+
+.author__urls-wrapper {
+  padding: 0.8rem 0.95rem;
+  margin-top: 0.9rem;
+}
+
+.author__urls li,
+.author__urls a {
+  color: #31475d;
+}
+
+.author__urls a:hover {
+  color: var(--site-accent);
+}
+
+@media (max-width: 768px) {
+  .page__title {
+    font-size: 2.4rem;
+  }
+
+  .page__content {
+    max-width: 100%;
+  }
+
+  .page__content p,
+  .page__content > p[align="justify"] {
+    font-size: 1rem;
+  }
+}
