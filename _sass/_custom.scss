@@ -32,11 +32,11 @@ body {
 }
 
 .page__title {
-  font-size: clamp(2.5rem, 4vw, 3.5rem);
-  line-height: 0.95;
+  font-size: clamp(2rem, 3.2vw, 2.9rem);
+  line-height: 1.02;
   letter-spacing: -0.04em;
   color: #1f3143;
-  margin-bottom: 1.1rem;
+  margin-bottom: 0.85rem;
 }
 
 .page__content {
@@ -52,7 +52,7 @@ body {
 }
 
 .page__content p {
-  font-size: 1.06rem;
+  font-size: 1rem;
 }
 
 .page__content h1,
@@ -83,13 +83,13 @@ body {
 }
 
 .page__content > p[align="justify"] {
-  font-size: 1.08rem;
-  line-height: 1.84;
+  font-size: 1.01rem;
+  line-height: 1.78;
   color: #2c4155;
 }
 
 .page__content > p[align="justify"]:first-of-type {
-  font-size: 1.12rem;
+  font-size: 1.04rem;
 }
 
 .page__content a[href^="#pub-"] {
@@ -164,7 +164,7 @@ body {
 
 @media (max-width: 768px) {
   .page__title {
-    font-size: 2.4rem;
+    font-size: 2.1rem;
   }
 
   .page__content {
