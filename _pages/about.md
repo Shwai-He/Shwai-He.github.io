@@ -1,12 +1,23 @@
 ---
 permalink: /
-title: "Biography"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<section class="home-hero">
+  <p class="home-hero__eyebrow">Shwai He</p>
+  <h1 class="home-hero__title">Efficient, Adaptive, and Multimodal Foundation Models</h1>
+  <p class="home-hero__lead">I build methods and systems that make large models more scalable, economical, and deployable without giving up capability.</p>
+  <div class="home-hero__meta">
+    <span>Ph.D. Candidate, University of Maryland</span>
+    <span>Student Researcher, ByteDance</span>
+    <span>Qualcomm Innovation Fellowship, 2025</span>
+  </div>
+</section>
 
 <p align="justify" style="line-height:1.5; margin-bottom:4px; text-align:justify;">
 I am a Ph.D. candidate in Computer Science at the University of Maryland, College Park, advised by <a href="https://www.ang-li.com/" target="_blank">Prof. Ang Li</a>. I am currently a Student Researcher at ByteDance and previously worked at Tencent AI Lab and JD Explore Academy, where I focused on efficient model training and large-scale natural language systems.

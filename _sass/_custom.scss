@@ -92,6 +92,59 @@ body {
   font-size: 1.04rem;
 }
 
+.home-hero {
+  margin: 0 0 2rem;
+  padding: 0.4rem 0 1.2rem;
+}
+
+.home-hero__eyebrow {
+  margin: 0 0 0.35rem;
+  font-family: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.84rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--site-accent);
+}
+
+.home-hero__title {
+  margin: 0 0 0.7rem;
+  font-family: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: clamp(2.15rem, 4.6vw, 3.75rem);
+  line-height: 0.96;
+  letter-spacing: -0.055em;
+  color: #1d3144;
+  max-width: 14ch;
+}
+
+.home-hero__lead {
+  margin: 0 0 1rem;
+  max-width: 40rem;
+  font-size: 1.14rem;
+  line-height: 1.7;
+  color: #30475d;
+}
+
+.home-hero__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.home-hero__meta span {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.32rem 0.72rem;
+  border: 1px solid rgba(29, 107, 116, 0.16);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.82);
+  box-shadow: 0 8px 18px rgba(31, 49, 67, 0.04);
+  font-family: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #355268;
+}
+
 .page__content a[href^="#pub-"] {
   font-family: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 0.96em;
@@ -165,6 +218,19 @@ body {
 @media (max-width: 768px) {
   .page__title {
     font-size: 2.1rem;
+  }
+
+  .home-hero {
+    padding-top: 0.15rem;
+  }
+
+  .home-hero__title {
+    font-size: 2.35rem;
+    max-width: 100%;
+  }
+
+  .home-hero__lead {
+    font-size: 1.03rem;
   }
 
   .page__content {
