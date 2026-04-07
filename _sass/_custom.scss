@@ -40,7 +40,7 @@ body {
 }
 
 .page__content {
-  max-width: 48rem;
+  max-width: 56rem;
 }
 
 .page__content p,
@@ -122,6 +122,73 @@ body {
   text-decoration: none;
 }
 
+.experience-list {
+  display: grid;
+  gap: 1.6rem;
+  margin: 1.2rem 0 0.4rem;
+}
+
+.experience-entry {
+  display: grid;
+  grid-template-columns: 110px minmax(0, 1fr);
+  gap: 1.2rem;
+  align-items: start;
+}
+
+.experience-entry__logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.experience-entry__logo img {
+  width: 110px;
+  height: 110px;
+  object-fit: contain;
+}
+
+.experience-entry__content {
+  min-width: 0;
+}
+
+.experience-entry__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.experience-entry__org {
+  font-family: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 1.15rem;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #20364a;
+}
+
+.experience-entry__date {
+  flex-shrink: 0;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1rem;
+  color: var(--site-muted);
+}
+
+.experience-entry__role {
+  margin-bottom: 0.15rem;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1rem;
+  font-style: italic;
+  color: #334b61;
+}
+
+.experience-entry__focus {
+  font-family: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: #31475d;
+}
+
 .author__avatar img,
 .author__avatar .author__avatar {
   border-radius: 1.25rem;
@@ -165,6 +232,27 @@ body {
   color: var(--site-accent);
 }
 
+@media (min-width: 925px) {
+  #main {
+    max-width: 1360px;
+    display: flex;
+    align-items: flex-start;
+    gap: 2.75rem;
+  }
+
+  #main > .sidebar {
+    flex: 0 0 16rem;
+    margin-bottom: 0;
+  }
+
+  #main > .page {
+    flex: 1 1 auto;
+    width: auto;
+    min-width: 0;
+    margin: 0;
+  }
+}
+
 @media (max-width: 768px) {
   .page__title {
     font-size: 2.1rem;
@@ -177,5 +265,23 @@ body {
   .page__content p,
   .page__content > p[align="justify"] {
     font-size: 1rem;
+  }
+
+  .experience-entry {
+    grid-template-columns: 80px minmax(0, 1fr);
+    gap: 0.95rem;
+  }
+
+  .experience-entry__logo img {
+    width: 80px;
+    height: 80px;
+  }
+
+  .experience-entry__header {
+    display: block;
+  }
+
+  .experience-entry__date {
+    margin-top: 0.15rem;
   }
 }
