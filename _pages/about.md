@@ -40,63 +40,37 @@ News
 
 Research Experience
 ======
-<div class="experience-list">
-  <div class="experience-entry">
-    <div class="experience-entry__logo">
-      <img src="images/ByteDance_logo.jpg" alt="ByteDance Seed logo" />
-    </div>
-    <div class="experience-entry__content">
-      <div class="experience-entry__header">
-        <div class="experience-entry__org">ByteDance Seed</div>
-        <div class="experience-entry__date">05/2025 - Present</div>
-      </div>
-      <div class="experience-entry__role">Student Researcher</div>
-      <div class="experience-entry__focus">Multimodal Modeling</div>
-    </div>
-  </div>
+<dl>
+  <dt><img align="left" width="110" height="110" hspace="10" src="images/ByteDance_logo.jpg" /></dt>
+  <dt>ByteDance Seed</dt>
+  <d>05/2025 - Present</d><br>
+  <dd>Student Researcher</dd>
+  <dd>Multimodal Modeling</dd>
+</dl>
 
-  <div class="experience-entry">
-    <div class="experience-entry__logo">
-      <img src="images/Tencent_logo.png" alt="Tencent AI Lab logo" />
-    </div>
-    <div class="experience-entry__content">
-      <div class="experience-entry__header">
-        <div class="experience-entry__org">Tencent AI Lab, Bellevue, WA</div>
-        <div class="experience-entry__date">06/2024 - 08/2024</div>
-      </div>
-      <div class="experience-entry__role">Research Intern</div>
-      <div class="experience-entry__focus">Efficient ML</div>
-    </div>
-  </div>
+<dl>
+  <dt><img align="left" width="110" height="110" hspace="10" src="images/Tencent_logo.png" /></dt>
+  <dt>Tencent AI Lab, Bellevue, WA</dt>
+  <d>06/2024 - 08/2024</d><br>
+  <dd>Research Intern</dd>
+  <dd>Efficient ML</dd>
+</dl>
 
-  <div class="experience-entry">
-    <div class="experience-entry__logo">
-      <img src="images/FDU_Logo.png" alt="Fudan University logo" />
-    </div>
-    <div class="experience-entry__content">
-      <div class="experience-entry__header">
-        <div class="experience-entry__org">IICS, Fudan University</div>
-        <div class="experience-entry__date">07/2022 - 03/2023</div>
-      </div>
-      <div class="experience-entry__role">Research Assistant</div>
-      <div class="experience-entry__focus">AI for Protein, Computational Biology</div>
-    </div>
-  </div>
+<dl>
+  <dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt>
+  <dt>IICS, Fudan University</dt>
+  <d>07/2022 - 03/2023</d><br>
+  <dd>Research Assistant</dd>
+  <dd>AI for Protein, Computational Biology</dd>
+</dl>
 
-  <div class="experience-entry">
-    <div class="experience-entry__logo">
-      <img src="images/JD_logo.png" alt="JD Explore Academy logo" />
-    </div>
-    <div class="experience-entry__content">
-      <div class="experience-entry__header">
-        <div class="experience-entry__org">NLP Group, JD Explore Academy</div>
-        <div class="experience-entry__date">02/2022 - 10/2022</div>
-      </div>
-      <div class="experience-entry__role">Research Intern</div>
-      <div class="experience-entry__focus">Machine Learning, Efficient Methods for NLP</div>
-    </div>
-  </div>
-</div>
+<dl>
+  <dt><img align="left" width="110" height="110" hspace="10" src="images/JD_logo.png" /></dt>
+  <dt>NLP Group, JD Explore Academy</dt>
+  <d>02/2022 - 10/2022</d><br>
+  <dd>Research Intern</dd>
+  <dd>Machine Learning, Efficient Methods for NLP</dd>
+</dl>
 
 
 Selected Publications
