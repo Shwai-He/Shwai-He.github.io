@@ -40,7 +40,7 @@ body {
 }
 
 .page__content {
-  max-width: 68rem;
+  max-width: 58rem;
 }
 
 .page__content p,
@@ -266,16 +266,16 @@ body {
 
 @media (min-width: 925px) {
   #main {
-    max-width: 1560px;
+    max-width: 1380px;
     display: flex;
     align-items: flex-start;
-    gap: 1.5rem;
-    padding-left: 0.15rem;
-    padding-right: 0.15rem;
+    gap: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   #main > .sidebar {
-    flex: 0 0 14rem;
+    flex: 0 0 15.5rem;
     margin-bottom: 0;
   }
 
