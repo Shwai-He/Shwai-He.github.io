@@ -40,7 +40,7 @@ body {
 }
 
 .page__content {
-  max-width: 56rem;
+  max-width: 62rem;
 }
 
 .page__content p,
@@ -120,6 +120,35 @@ body {
   border-color: rgba(29, 107, 116, 0.25);
   color: #154f56;
   text-decoration: none;
+}
+
+.page__content dl {
+  margin: 0 0 0.65rem;
+}
+
+.page__content dl::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.page__content dl dt,
+.page__content dl dd {
+  line-height: 1.45;
+}
+
+.page__content dl dt {
+  margin-top: 0;
+  margin-bottom: 0.08rem;
+}
+
+.page__content dl dd {
+  margin-left: 0;
+  margin-bottom: 0.08rem;
+}
+
+.page__content dl img[align="left"] {
+  margin-right: 0.55rem;
 }
 
 .experience-list {
@@ -234,14 +263,16 @@ body {
 
 @media (min-width: 925px) {
   #main {
-    max-width: 1360px;
+    max-width: 1480px;
     display: flex;
     align-items: flex-start;
-    gap: 2.75rem;
+    gap: 2rem;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
   }
 
   #main > .sidebar {
-    flex: 0 0 16rem;
+    flex: 0 0 15rem;
     margin-bottom: 0;
   }
 
