@@ -45,7 +45,7 @@ Research Experience
   <dt>ByteDance Seed</dt>
   <d>05/2025 - Present</d><br>
   <dd>Student Researcher</dd>
-  <dd>Multimodal Modeling</dd>
+  <dd>Multimodal Foundation Models</dd>
 </dl>
 
 <dl>
@@ -53,7 +53,7 @@ Research Experience
   <dt>Tencent AI Lab, Bellevue, WA</dt>
   <d>06/2024 - 08/2024</d><br>
   <dd>Research Intern</dd>
-  <dd>Efficient ML</dd>
+  <dd>Sparse and Efficient Large Language Models</dd>
 </dl>
 
 <dl>
@@ -61,7 +61,7 @@ Research Experience
   <dt>IICS, Fudan University</dt>
   <d>07/2022 - 03/2023</d><br>
   <dd>Research Assistant</dd>
-  <dd>AI for Protein, Computational Biology</dd>
+  <dd>AI for Protein Modeling and Computational Biology</dd>
 </dl>
 
 <dl>
@@ -69,7 +69,7 @@ Research Experience
   <dt>NLP Group, JD Explore Academy</dt>
   <d>02/2022 - 10/2022</d><br>
   <dd>Research Intern</dd>
-  <dd>Machine Learning, Efficient Methods for NLP</dd>
+  <dd>Efficient and Adaptive Methods for NLP</dd>
 </dl>
 
 
