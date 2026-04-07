@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<p align="justify" style="line-height:1.5; margin-bottom:4px; text-align:justify;">
+<p class="bio-paragraph">
 I am a Ph.D. candidate in Computer Science at the University of Maryland, College Park, advised by <a href="https://www.ang-li.com/" target="_blank">Prof. Ang Li</a>. I am currently a Student Researcher at ByteDance and previously worked at Tencent AI Lab and JD Explore Academy, where I focused on efficient model training and large-scale natural language systems.
 </p>
 
-<p align="justify" style="line-height:1.5; margin-bottom:4px; text-align:justify;">
+<p class="bio-paragraph">
 My research focuses on building the next generation of efficient, scalable, and adaptive foundation models. I study how computation, parameters, and modalities interact inside large models to uncover the principles that govern their capacity, redundancy, and generalization. Based on these insights, I develop methods for model compression, adaptive inference, parameter-efficient fine-tuning, and modality-aware optimization, with the goal of making powerful models substantially more efficient without sacrificing capability.
 </p>
 
-<p align="justify" style="line-height:1.5; margin-bottom:4px; text-align:justify;">
+<p class="bio-paragraph">
 I further explore system- and hardware-aware techniques that make these advances practical in real-world deployment. More recently, I have been extending this line of work to unified multimodal architectures that dynamically coordinate shared and specialized computation across language and vision. Broadly, my goal is to bridge model understanding, algorithm design, and efficient deployment, enabling foundation models that are not only larger and stronger, but also more economical, reliable, and widely usable.
 </p>
 

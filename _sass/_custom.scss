@@ -40,7 +40,7 @@ body {
 }
 
 .page__content {
-  max-width: 62rem;
+  max-width: 68rem;
 }
 
 .page__content p,
@@ -82,13 +82,16 @@ body {
   text-decoration-color: rgba(21, 79, 86, 0.7);
 }
 
-.page__content > p[align="justify"] {
+.page__content > p.bio-paragraph {
   font-size: 1.01rem;
   line-height: 1.78;
   color: #2c4155;
+  text-align: left;
+  text-wrap: pretty;
+  max-width: none;
 }
 
-.page__content > p[align="justify"]:first-of-type {
+.page__content > p.bio-paragraph:first-of-type {
   font-size: 1.04rem;
 }
 
@@ -263,16 +266,16 @@ body {
 
 @media (min-width: 925px) {
   #main {
-    max-width: 1480px;
+    max-width: 1560px;
     display: flex;
     align-items: flex-start;
-    gap: 2rem;
-    padding-left: 0.4rem;
-    padding-right: 0.4rem;
+    gap: 1.5rem;
+    padding-left: 0.15rem;
+    padding-right: 0.15rem;
   }
 
   #main > .sidebar {
-    flex: 0 0 15rem;
+    flex: 0 0 14rem;
     margin-bottom: 0;
   }
 
@@ -294,7 +297,7 @@ body {
   }
 
   .page__content p,
-  .page__content > p[align="justify"] {
+  .page__content > p.bio-paragraph {
     font-size: 1rem;
   }
 
