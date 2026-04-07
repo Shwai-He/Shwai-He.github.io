@@ -98,13 +98,7 @@ body {
   font-weight: 700;
 }
 
-.page__content a[href*="arxiv.org"],
-.page__content a[href*="openreview.net"],
-.page__content a[href*="github.com"],
-.page__content a[href*="aclanthology.org"],
-.page__content a[href*="openaccess.thecvf.com"],
-.page__content a[href*="proceedings.mlr.press"],
-.page__content a[href*="aaai-kdf.github.io"] {
+.page__content a.pub-button {
   display: inline-block;
   padding: 0.08rem 0.45rem;
   margin-right: 0.18rem;
@@ -112,15 +106,13 @@ body {
   border-radius: 999px;
   background: var(--site-surface);
   text-decoration: none;
+  font-family: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.84rem;
+  font-weight: 700;
+  line-height: 1.2;
 }
 
-.page__content a[href*="arxiv.org"]:hover,
-.page__content a[href*="openreview.net"]:hover,
-.page__content a[href*="github.com"]:hover,
-.page__content a[href*="aclanthology.org"]:hover,
-.page__content a[href*="openaccess.thecvf.com"]:hover,
-.page__content a[href*="proceedings.mlr.press"]:hover,
-.page__content a[href*="aaai-kdf.github.io"]:hover {
+.page__content a.pub-button:hover {
   background: var(--site-accent-soft);
   border-color: rgba(29, 107, 116, 0.25);
 }
