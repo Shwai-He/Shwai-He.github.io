@@ -266,12 +266,12 @@ body {
 
 @media (min-width: 925px) {
   #main {
-    max-width: 1380px;
+    max-width: 1320px;
     display: flex;
     align-items: flex-start;
-    gap: 2rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    gap: 2.25rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
   }
 
   #main > .sidebar {
@@ -284,6 +284,16 @@ body {
     width: auto;
     min-width: 0;
     margin: 0;
+    float: none;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .page {
+    width: auto;
+    float: none;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
