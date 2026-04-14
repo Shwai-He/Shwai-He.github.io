@@ -77,16 +77,16 @@ Selected Publications
 ======
 <a id="pub-demystifying-pruning"></a>
 1. __Shwai He__, Guoheng Sun, Haichao Zhang, Yun Fu, Ang Li,
-"***Demystifying When Pruning Works via Representation Hierarchies***", arXiv. <a class="pub-button" href="https://arxiv.org/abs/2603.24652">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Pruning-on-Representations">Code</a>
+"***Demystifying When Pruning Works via Representation Hierarchies***", arXiv. <a class="pub-button" href="https://case-lab-umd.github.io/Pruning-on-Representations/">Project</a> <a class="pub-button" href="https://arxiv.org/abs/2603.24652">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Pruning-on-Representations">Code</a>
 <a id="pub-sparse-unified-models"></a>
 2. __Shwai He__, Chaorui Deng, Ang Li, Shen Yan,
-"***Understanding and Harnessing Sparsity in Unified Multimodal Models***", arXiv. <a class="pub-button" href="https://arxiv.org/abs/2512.02351">Paper</a> <a class="pub-button" href="https://github.com/Shwai-He/SparseUnifiedModel">Code</a>
+"***Understanding and Harnessing Sparsity in Unified Multimodal Models***", arXiv. <a class="pub-button" href="https://shwai-he.github.io/SparseUnifiedModel/">Project</a> <a class="pub-button" href="https://arxiv.org/abs/2512.02351">Paper</a> <a class="pub-button" href="https://github.com/Shwai-He/SparseUnifiedModel">Code</a>
 <a id="pub-capacity-aware-inference"></a>
 3. __Shwai He__, Weilin Cai, Jiayi Huang, Ang Li, 
 "***Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts***", Proceedings of the Fourteenth International Conference on Learning Representations (__ICLR 2026__). <a class="pub-button" href="https://arxiv.org/abs/2503.05066">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Capacity-Aware-MoE">Code</a>
 <a id="pub-attention-drop"></a>
 4. __Shwai He__\*, Guoheng Sun\*, Zheyu Shen, Ang Li, 
-"***Uncovering the Redundancy in Transformers via a Unified Study of Layer Dropping***", Transactions on Machine Learning Research (__TMLR__). <a class="pub-button" href="https://openreview.net/forum?id=1I7PCbOPfe">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/LLM-Drop">Code</a>
+"***Uncovering the Redundancy in Transformers via a Unified Study of Layer Dropping***", Transactions on Machine Learning Research (__TMLR__). <a class="pub-button" href="https://case-lab-umd.github.io/LLM-Drop/">Project</a> <a class="pub-button" href="https://openreview.net/forum?id=1I7PCbOPfe">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/LLM-Drop">Code</a>
 <a id="pub-effir"></a>
 5. Yibin Lei, __Shwai He__\*, Ang Li, Andrew Yates,
 "***Making Large Language Models Efficient Dense Retrievers***", Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (__ACL 2026__). <a class="pub-button" href="https://arxiv.org/abs/2512.20612">Paper</a> <a class="pub-button" href="https://github.com/Yibin-Lei/EffiR">Code</a>
