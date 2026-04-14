@@ -83,7 +83,7 @@ Selected Publications
 "***Understanding and Harnessing Sparsity in Unified Multimodal Models***", arXiv. <a class="pub-button" href="https://shwai-he.github.io/SparseUnifiedModel/">Project</a> <a class="pub-button" href="https://arxiv.org/abs/2512.02351">Paper</a> <a class="pub-button" href="https://github.com/Shwai-He/SparseUnifiedModel">Code</a>
 <a id="pub-capacity-aware-inference"></a>
 3. __Shwai He__, Weilin Cai, Jiayi Huang, Ang Li, 
-"***Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts***", Proceedings of the Fourteenth International Conference on Learning Representations (__ICLR 2026__). <a class="pub-button" href="https://arxiv.org/abs/2503.05066">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Capacity-Aware-MoE">Code</a>
+"***Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts***", Proceedings of the Fourteenth International Conference on Learning Representations (__ICLR 2026__). <a class="pub-button" href="https://case-lab-umd.github.io/Capacity-Aware-MoE/">Project</a> <a class="pub-button" href="https://arxiv.org/abs/2503.05066">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Capacity-Aware-MoE">Code</a>
 <a id="pub-attention-drop"></a>
 4. __Shwai He__\*, Guoheng Sun\*, Zheyu Shen, Ang Li, 
 "***Uncovering the Redundancy in Transformers via a Unified Study of Layer Dropping***", Transactions on Machine Learning Research (__TMLR__). <a class="pub-button" href="https://case-lab-umd.github.io/LLM-Drop/">Project</a> <a class="pub-button" href="https://openreview.net/forum?id=1I7PCbOPfe">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/LLM-Drop">Code</a>
