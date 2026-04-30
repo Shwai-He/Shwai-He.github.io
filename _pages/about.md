@@ -22,7 +22,7 @@ I further explore system- and hardware-aware techniques that make these advances
 
 News
 ======
-  \[04/2026\]: [Demystifying When Pruning Works via Representation Hierarchies](#pub-demystifying-pruning) was accepted to [ICML 2026](https://icml.cc/). \
+  \[04/2026\]: [Demystifying When Pruning Works](#pub-demystifying-pruning) was accepted to [ICML 2026](https://icml.cc/). \
   \[04/2026\]: [EffiR](#pub-effir) was accepted to [ACL 2026](https://2026.aclweb.org/). \
   \[01/2026\]: [Capacity-Aware Inference](#pub-capacity-aware-inference) was accepted to [ICLR 2026](https://iclr.cc/). \
   \[01/2026\]: [Attention Drop](#pub-attention-drop) was accepted by [TMLR](https://jmlr.org/tmlr/). \
