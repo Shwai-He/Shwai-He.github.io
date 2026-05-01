@@ -22,7 +22,7 @@ I further explore system- and hardware-aware techniques that make these advances
 
 News
 ======
-  \[04/2026\]: [Demystifying When Pruning Works](#pub-demystifying-pruning) was accepted to [ICML 2026](https://icml.cc/). \
+  \[04/2026\]: [Demystifying When Pruning Works](#pub-demystifying-pruning) and [DualSparse-MoE](#pub-dualsparse-moe) were accepted to [ICML 2026](https://icml.cc/). \
   \[04/2026\]: [EffiR](#pub-effir) was accepted to [ACL 2026](https://2026.aclweb.org/). \
   \[01/2026\]: [Capacity-Aware Inference](#pub-capacity-aware-inference) was accepted to [ICLR 2026](https://iclr.cc/). \
   \[01/2026\]: [Attention Drop](#pub-attention-drop) was accepted by [TMLR](https://jmlr.org/tmlr/). \
@@ -82,39 +82,42 @@ Selected Publications
 <a id="pub-demystifying-pruning"></a>
 2. __Shwai He__, Guoheng Sun, Haichao Zhang, Yun Fu, Ang Li,
 "***Demystifying When Pruning Works via Representation Hierarchies***", Proceedings of the Forty-third International Conference on Machine Learning (__ICML 2026__). <a class="pub-button" href="https://case-lab-umd.github.io/Pruning-on-Representations/">Project</a> <a class="pub-button" href="https://arxiv.org/abs/2603.24652">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Pruning-on-Representations">Code</a>
+<a id="pub-dualsparse-moe"></a>
+3. Weilin Cai, Le Qin, __Shwai He__, Junwei Cui, Ang Li, Jiayi Huang,
+"***DualSparse-MoE: Coordinating Tensor/Neuron-Level Sparsity with Expert Partition and Reconstruction***", arXiv. <a class="pub-button" href="https://arxiv.org/abs/2508.18376">Paper</a>
 <a id="pub-capacity-aware-inference"></a>
-3. __Shwai He__, Weilin Cai, Jiayi Huang, Ang Li, 
+4. __Shwai He__, Weilin Cai, Jiayi Huang, Ang Li, 
 "***Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts***", Proceedings of the Fourteenth International Conference on Learning Representations (__ICLR 2026__). <a class="pub-button" href="https://case-lab-umd.github.io/Capacity-Aware-MoE/">Project</a> <a class="pub-button" href="https://arxiv.org/abs/2503.05066">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Capacity-Aware-MoE">Code</a>
 <a id="pub-attention-drop"></a>
-4. __Shwai He__\*, Guoheng Sun\*, Zheyu Shen, Ang Li, 
+5. __Shwai He__\*, Guoheng Sun\*, Zheyu Shen, Ang Li, 
 "***Uncovering the Redundancy in Transformers via a Unified Study of Layer Dropping***", Transactions on Machine Learning Research (__TMLR__). <a class="pub-button" href="https://case-lab-umd.github.io/LLM-Drop/">Project</a> <a class="pub-button" href="https://openreview.net/forum?id=1I7PCbOPfe">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/LLM-Drop">Code</a>
 <a id="pub-effir"></a>
-5. Yibin Lei, __Shwai He__\*, Ang Li, Andrew Yates,
+6. Yibin Lei, __Shwai He__\*, Ang Li, Andrew Yates,
 "***Making Large Language Models Efficient Dense Retrievers***", Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (__ACL 2026__). <a class="pub-button" href="https://arxiv.org/abs/2512.20612">Paper</a> <a class="pub-button" href="https://github.com/Yibin-Lei/EffiR">Code</a>
 <a id="pub-router-tuning"></a>
-6. __Shwai He__, Tao Ge, Guoheng Sun, Bowei Tian, Xiaoyang Wang, Dong Yu, 
+7. __Shwai He__, Tao Ge, Guoheng Sun, Bowei Tian, Xiaoyang Wang, Dong Yu, 
 "***Router-Tuning: A Simple and Effective Approach for Dynamic Depth***", Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
 (__EMNLP 2025__) <a class="pub-button" href="https://arxiv.org/abs/2410.13184">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Router-Tuning-Mixture-of-Depths">Code</a>
 <a id="pub-moe-compression"></a>
-7. __Shwai He__\*, Daize Dong\*, Liang Ding, Ang Li, 
+8. __Shwai He__\*, Daize Dong\*, Liang Ding, Ang Li, 
 "***Towards Efficient Mixture of Experts: A Holistic Study of Compression Techniques***", Transactions on Machine Learning Research (__TMLR__). <a class="pub-button" href="https://arxiv.org/abs/2406.02500">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Unified-MoE-Compression">Code</a>
 <a id="pub-meo"></a>
-8. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, 
+9. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, 
 "***Merging Experts into One: Improving Computational Efficiency of Mixture of Experts***",
  Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing 
  (__EMNLP 2023 Oral__). <a class="pub-button" href="https://aclanthology.org/2023.emnlp-main.907/">Paper</a> <a class="pub-button" href="https://github.com/Shwai-He/MEO">Code</a>
 <a id="pub-pad-net"></a>
-9. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng Tao, 
+10. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng Tao, 
 "***PAD-Net: An Efficient Framework for Dynamic Networks***",
  Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (__ACL 2023__). <a class="pub-button" href="https://aclanthology.org/2023.acl-long.803.pdf">Paper</a> <a class="pub-button" href="https://github.com/Shwai-He/PAD-Net">Code</a>
 <a id="pub-sparseadapter"></a>
-10. __Shwai He__, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao, 
+11. __Shwai He__, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao, 
 "***SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters***",
  Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (__EMNLP 2022__). <a class="pub-button" href="https://aclanthology.org/2022.findings-emnlp.160/">Paper</a> <a class="pub-button" href="https://github.com/Shwai-He/SparseAdapter">Code</a>
 <a id="pub-sd-conv"></a>
-11. __Shwai He__, Chenbo Jiang, Daize Dong, Liang Ding, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (__WACV 2023__). <a class="pub-button" href="https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf">Paper</a>
-12. __Shwai He__, Shi Gu, "***Multi-modal Attention Network for Stock Movements Prediction***", the AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (__KDF 2022__). <a class="pub-button" href="https://aaai-kdf.github.io/kdf2022/assets/pdfs/KDF_22_paper_3.pdf">Paper</a>
+12. __Shwai He__, Chenbo Jiang, Daize Dong, Liang Ding, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (__WACV 2023__). <a class="pub-button" href="https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf">Paper</a>
+13. __Shwai He__, Shi Gu, "***Multi-modal Attention Network for Stock Movements Prediction***", the AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (__KDF 2022__). <a class="pub-button" href="https://aaai-kdf.github.io/kdf2022/assets/pdfs/KDF_22_paper_3.pdf">Paper</a>
 <a id="pub-neuralslice"></a>
-13. Chenbo Jiang, Jie Yang, __Shwai He__, Yu-Kun Lai and Lin Gao. "***NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes.***", Proceedings of the 40th International Conference on Machine Learning, 2023 (__ICML 2023__). <a class="pub-button" href="https://proceedings.mlr.press/v202/jiang23j/jiang23j.pdf">Paper</a> <a class="pub-button" href="https://github.com/IGLICT/NEURALSLICE">Code</a>
-14. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
+14. Chenbo Jiang, Jie Yang, __Shwai He__, Yu-Kun Lai and Lin Gao. "***NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes.***", Proceedings of the 40th International Conference on Machine Learning, 2023 (__ICML 2023__). <a class="pub-button" href="https://proceedings.mlr.press/v202/jiang23j/jiang23j.pdf">Paper</a> <a class="pub-button" href="https://github.com/IGLICT/NEURALSLICE">Code</a>
+15. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
 Liu, Weifeng Liu, Yibing Zhan and Dacheng Tao, "***Vega-MT: The JD Explore Academy Translation System for WMT***", The Conference on Machine Translation, 2022 (__WMT 2022__). <a class="pub-button" href="https://aclanthology.org/2022.wmt-1.37/">Paper</a> 
