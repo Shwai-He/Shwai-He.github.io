@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p class="bio-paragraph">
-I am a Ph.D. candidate in Computer Science at the <a href="https://www.cs.umd.edu/" target="_blank">University of Maryland, College Park</a>, advised by <a href="https://www.ang-li.com/" target="_blank">Prof. Ang Li</a>. I am currently a Student Researcher at <a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a> and previously worked at Tencent AI Lab and JD Explore Academy, where I focused on efficient model training and large-scale natural language systems.
+I am a Ph.D. candidate in Computer Science at the <a href="https://www.cs.umd.edu/" target="_blank">University of Maryland, College Park</a>, advised by <a href="https://www.ang-li.com/" target="_blank">Prof. Ang Li</a>. I am currently a Student Researcher at <a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a> and previously worked at <a href="https://ailab.tencent.com/ailab/en/index/" target="_blank">Tencent AI Lab</a> and <a href="https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/" target="_blank">JD Explore Academy</a>, where I focused on efficient model training and large-scale natural language systems.
 </p>
 
 <p class="bio-paragraph">
@@ -52,7 +52,7 @@ Research Experience
 
 <dl>
   <dt><img align="left" width="110" height="110" hspace="10" src="images/Tencent_logo.png" /></dt>
-  <dt>Tencent AI Lab, Bellevue, WA</dt>
+  <dt><a href="https://ailab.tencent.com/ailab/en/index/" target="_blank">Tencent AI Lab</a>, Bellevue, WA</dt>
   <d>06/2024 - 08/2024</d><br>
   <dd>Research Intern</dd>
   <dd>Sparse and Efficient Large Language Models</dd>
@@ -60,7 +60,7 @@ Research Experience
 
 <dl>
   <dt><img align="left" width="110" height="110" hspace="10" src="images/JD_logo.png" /></dt>
-  <dt>NLP Group, JD Explore Academy</dt>
+  <dt>NLP Group, <a href="https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/" target="_blank">JD Explore Academy</a></dt>
   <d>02/2022 - 10/2022</d><br>
   <dd>Research Intern</dd>
   <dd>Efficient and Adaptive Methods for NLP</dd>
