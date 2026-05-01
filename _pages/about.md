@@ -44,24 +44,24 @@ Research Experience
 ======
 <dl>
   <dt><img align="left" width="110" height="110" hspace="10" src="images/ByteDance_logo.jpg" /></dt>
-  <dt><a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a>, San Jose, CA</dt>
-  <d>05/2025 - Present</d><br>
+  <dt><a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a></dt>
+  <d>05/2025 - Present, San Jose, CA</d><br>
   <dd>Student Researcher</dd>
   <dd>Multimodal Foundation Models</dd>
 </dl>
 
 <dl>
   <dt><img align="left" width="110" height="110" hspace="10" src="images/Tencent_logo.png" /></dt>
-  <dt><a href="https://ailab.tencent.com/ailab/en/index/" target="_blank">Tencent AI Lab</a>, Bellevue, WA</dt>
-  <d>06/2024 - 08/2024</d><br>
+  <dt><a href="https://ailab.tencent.com/ailab/en/index/" target="_blank">Tencent AI Lab</a></dt>
+  <d>06/2024 - 08/2024, Bellevue, WA</d><br>
   <dd>Research Intern</dd>
   <dd>Sparse and Efficient Large Language Models</dd>
 </dl>
 
 <dl>
   <dt><img align="left" width="110" height="110" hspace="10" src="images/JD_logo.png" /></dt>
-  <dt><a href="https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/" target="_blank">JD Explore Academy</a>, Beijing, China</dt>
-  <d>02/2022 - 10/2022</d><br>
+  <dt><a href="https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/" target="_blank">JD Explore Academy</a></dt>
+  <d>02/2022 - 10/2022, Beijing, China</d><br>
   <dd>Research Intern</dd>
   <dd>Efficient and Adaptive Methods for NLP</dd>
 </dl>
