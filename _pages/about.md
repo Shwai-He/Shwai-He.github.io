@@ -22,8 +22,8 @@ I further explore system- and hardware-aware techniques that make these advances
 
 News
 ======
-  \[05/2026\]: 📜 Received the **Certificate of Outstanding Achievement** from UMD CS (2025–2026). \
   \[04/2026\]: [Demystifying When Pruning Works](#pub-demystifying-pruning) + [DualSparse-MoE](#pub-dualsparse-moe) accepted at [ICML 2026](https://icml.cc/). \
+  \[04/2026\]: 📜 Received the **Certificate of Outstanding Achievement** from UMD CS (2025–2026). \
   \[04/2026\]: [EffiR](#pub-effir) was accepted to [ACL 2026](https://2026.aclweb.org/). \
   \[01/2026\]: [Capacity-Aware Inference](#pub-capacity-aware-inference) was accepted to [ICLR 2026](https://iclr.cc/). \
   \[01/2026\]: [Attention Drop](#pub-attention-drop) was accepted by [TMLR](https://jmlr.org/tmlr/). \
