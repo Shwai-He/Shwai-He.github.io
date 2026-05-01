@@ -85,7 +85,7 @@ Selected Publications
 "***Demystifying When Pruning Works via Representation Hierarchies***", Proceedings of the Forty-third International Conference on Machine Learning (__ICML 2026__). <a class="pub-button" href="https://case-lab-umd.github.io/Pruning-on-Representations/">Project</a> <a class="pub-button" href="https://arxiv.org/abs/2603.24652">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Pruning-on-Representations">Code</a>
 <a id="pub-dualsparse-moe"></a>
 3. Weilin Cai, Le Qin, __Shwai He__, Junwei Cui, Ang Li, Jiayi Huang,
-"***DualSparse-MoE: Coordinating Tensor/Neuron-Level Sparsity with Expert Partition and Reconstruction***", arXiv. <a class="pub-button" href="https://arxiv.org/abs/2508.18376">Paper</a>
+"***DualSparse-MoE: Coordinating Tensor/Neuron-Level Sparsity with Expert Partition and Reconstruction***", Proceedings of the Forty-third International Conference on Machine Learning (__ICML 2026__). <a class="pub-button" href="https://arxiv.org/abs/2508.18376">Paper</a>
 <a id="pub-capacity-aware-inference"></a>
 4. __Shwai He__, Weilin Cai, Jiayi Huang, Ang Li, 
 "***Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts***", Proceedings of the Fourteenth International Conference on Learning Representations (__ICLR 2026__). <a class="pub-button" href="https://case-lab-umd.github.io/Capacity-Aware-MoE/">Project</a> <a class="pub-button" href="https://arxiv.org/abs/2503.05066">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Capacity-Aware-MoE">Code</a>
