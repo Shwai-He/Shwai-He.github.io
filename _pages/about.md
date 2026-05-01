@@ -59,14 +59,6 @@ Research Experience
 </dl>
 
 <dl>
-  <dt><img align="left" width="110" height="110" hspace="10" src="images/FDU_Logo.png" /></dt>
-  <dt>IICS, Fudan University</dt>
-  <d>07/2022 - 03/2023</d><br>
-  <dd>Research Assistant</dd>
-  <dd>AI for Protein Modeling and Computational Biology</dd>
-</dl>
-
-<dl>
   <dt><img align="left" width="110" height="110" hspace="10" src="images/JD_logo.png" /></dt>
   <dt>NLP Group, JD Explore Academy</dt>
   <d>02/2022 - 10/2022</d><br>
