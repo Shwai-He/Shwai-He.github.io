@@ -44,7 +44,7 @@ Research Experience
 ======
 <dl>
   <dt><img align="left" width="110" height="110" hspace="10" src="images/ByteDance_logo.jpg" /></dt>
-  <dt><a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a></dt>
+  <dt><a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a>, San Jose, CA</dt>
   <d>05/2025 - Present</d><br>
   <dd>Student Researcher</dd>
   <dd>Multimodal Foundation Models</dd>
@@ -60,7 +60,7 @@ Research Experience
 
 <dl>
   <dt><img align="left" width="110" height="110" hspace="10" src="images/JD_logo.png" /></dt>
-  <dt>NLP Group, <a href="https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/" target="_blank">JD Explore Academy</a></dt>
+  <dt><a href="https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/" target="_blank">JD Explore Academy</a>, Beijing, China</dt>
   <d>02/2022 - 10/2022</d><br>
   <dd>Research Intern</dd>
   <dd>Efficient and Adaptive Methods for NLP</dd>
