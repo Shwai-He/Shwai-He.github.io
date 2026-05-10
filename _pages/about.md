@@ -13,11 +13,11 @@ I am a Ph.D. candidate in Computer Science at the <a href="https://www.cs.umd.ed
 </p>
 
 <p class="bio-paragraph">
-My research focuses on building the next generation of efficient, scalable, and adaptive foundation models. I study how computation, parameters, and modalities interact inside large models to uncover the principles that govern their capacity, redundancy, and generalization. Based on these insights, I develop methods for model compression, adaptive inference, parameter-efficient fine-tuning, and modality-aware optimization, with the goal of making powerful models substantially more efficient without sacrificing capability.
+My research spans <strong>theory</strong>, <strong>algorithm</strong>, <strong>system</strong>, and <strong>application</strong> in the pursuit of efficient foundation models. I study how computation, parameters, and modalities interact inside large models to uncover the principles that govern their capacity, redundancy, and generalization. Based on these insights, I develop methods for model compression, adaptive inference, parameter-efficient fine-tuning, and modality-aware optimization, with the goal of making powerful models substantially more efficient without sacrificing capability.
 </p>
 
 <p class="bio-paragraph">
-I further explore system- and hardware-aware techniques that make these advances practical in real-world deployment. More recently, I have been extending this line of work to unified multimodal architectures that dynamically coordinate shared and specialized computation across language and vision. Broadly, my goal is to bridge model understanding, algorithm design, and efficient deployment, enabling foundation models that are not only larger and stronger, but also more economical, reliable, and widely usable.
+I further explore system- and hardware-aware techniques that make these advances practical in real-world deployment. More recently, I have been extending this line of work to unified multimodal architectures across language and vision, with applications in dense retrieval and generation. Broadly, my goal is to bridge model understanding, algorithm design, and efficient deployment, enabling foundation models that are not only stronger, but also more economical, reliable, and widely usable.
 </p>
 
 News
