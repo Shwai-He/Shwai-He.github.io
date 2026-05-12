@@ -90,7 +90,7 @@ Selected Publications
 <a id="pub-router-tuning"></a>
 7. __Shwai He__, Tao Ge, Guoheng Sun, Bowei Tian, Xiaoyang Wang, Dong Yu, 
 "***Router-Tuning: A Simple and Effective Approach for Dynamic Depth***", Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
-(__EMNLP 2025__) <a class="pub-button" href="https://arxiv.org/abs/2410.13184">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Router-Tuning-Mixture-of-Depths">Code</a>
+(__EMNLP 2025__) <a class="pub-button" href="https://case-lab-umd.github.io/Router-Tuning-Mixture-of-Depths/">Project</a> <a class="pub-button" href="https://arxiv.org/abs/2410.13184">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Router-Tuning-Mixture-of-Depths">Code</a>
 <a id="pub-moe-compression"></a>
 8. __Shwai He__\*, Daize Dong\*, Liang Ding, Ang Li, 
 "***Towards Efficient Mixture of Experts: A Holistic Study of Compression Techniques***", Transactions on Machine Learning Research (__TMLR__). <a class="pub-button" href="https://arxiv.org/abs/2406.02500">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Unified-MoE-Compression">Code</a>
