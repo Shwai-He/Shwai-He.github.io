@@ -45,7 +45,7 @@ Research Experience
 <dl>
   <dt><img align="left" width="110" height="110" hspace="10" src="images/ByteDance_logo.jpg" /></dt>
   <dt><a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a></dt>
-  <d>05/2025 - Present, San Jose, CA</d><br>
+  <d>05/2025 - 05/2026, San Jose, CA</d><br>
   <dd>Student Researcher</dd>
   <dd>Multimodal Foundation Models</dd>
 </dl>
