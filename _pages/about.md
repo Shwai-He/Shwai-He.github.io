@@ -114,3 +114,9 @@ Selected Publications
 14. Chenbo Jiang, Jie Yang, __Shwai He__, Yu-Kun Lai and Lin Gao. "***NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes.***", Proceedings of the 40th International Conference on Machine Learning, 2023 (__ICML 2023__). <a class="pub-button" href="https://proceedings.mlr.press/v202/jiang23j/jiang23j.pdf">Paper</a> <a class="pub-button" href="https://github.com/IGLICT/NEURALSLICE">Code</a>
 15. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
 Liu, Weifeng Liu, Yibing Zhan and Dacheng Tao, "***Vega-MT: The JD Explore Academy Translation System for WMT***", The Conference on Machine Translation, 2022 (__WMT 2022__). <a class="pub-button" href="https://aclanthology.org/2022.wmt-1.37/">Paper</a> 
+
+
+Service
+======
+- Area Chair: ACL Rolling Review (ARR), 2026
+- Reviewer for NeurIPS, ICML, ICLR, and CVPR
