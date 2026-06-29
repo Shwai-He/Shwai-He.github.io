@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p class="bio-paragraph">
-I am a Ph.D. candidate in Computer Science at the <a href="https://www.cs.umd.edu/" target="_blank">University of Maryland, College Park</a>, advised by <a href="https://www.ang-li.com/" target="_blank">Prof. Ang Li</a>. I am currently a Student Researcher at <a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a> and previously worked at <a href="https://ailab.tencent.com/ailab/en/index/" target="_blank">Tencent AI Lab</a> and <a href="https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/" target="_blank">JD Explore Academy</a>, where I focused on efficient model training and large-scale natural language systems.
+I am a Ph.D. candidate in Computer Science at the <a href="https://www.cs.umd.edu/" target="_blank">University of Maryland, College Park</a>, advised by <a href="https://www.ang-li.com/" target="_blank">Prof. Ang Li</a>. I am currently a Student Researcher at Google and previously worked at <a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a>, <a href="https://ailab.tencent.com/ailab/en/index/" target="_blank">Tencent AI Lab</a>, and <a href="https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/" target="_blank">JD Explore Academy</a>, where I focused on efficient model training and large-scale natural language systems.
 </p>
 
 <p class="bio-paragraph">
@@ -43,10 +43,18 @@ News
 Research Experience
 ======
 <dl>
+  <dt><img align="left" width="110" height="110" hspace="10" src="images/Google_logo.svg" /></dt>
+  <dt>Google</dt>
+  <d>05/2026 - Present, Mountain View, CA</d><br>
+  <dd>Student Researcher</dd>
+  <dd>Efficient Post-Training</dd>
+</dl>
+
+<dl>
   <dt><img align="left" width="110" height="110" hspace="10" src="images/ByteDance_logo.jpg" /></dt>
   <dt><a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a></dt>
   <d>05/2025 - 05/2026, San Jose, CA</d><br>
-  <dd>Student Researcher</dd>
+  <dd>Research Intern</dd>
   <dd>Multimodal Foundation Models</dd>
 </dl>
 
