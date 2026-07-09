@@ -264,6 +264,20 @@ body {
   color: var(--site-accent);
 }
 
+.x-icon {
+  display: inline-block;
+  font-family: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.95em;
+  font-weight: 800;
+  line-height: 1;
+  vertical-align: -0.05em;
+}
+
+.x-icon--fw {
+  width: 1.28571429em;
+  text-align: center;
+}
+
 @media (max-width: 768px) {
   .page__title {
     font-size: 2.1rem;
