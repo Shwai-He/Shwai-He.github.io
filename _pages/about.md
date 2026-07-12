@@ -128,3 +128,9 @@ Service
 ======
 - Area Chair: ACL Rolling Review (ARR), 2026
 - Reviewer for NeurIPS, ICML, ICLR, and CVPR
+
+
+Teaching
+======
+- 2025: Teaching Assistant for CMSC 250 and CMSC 320
+- 2024: Teaching Assistant for CMSC 351
