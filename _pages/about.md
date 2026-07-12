@@ -3,6 +3,7 @@ permalink: /
 title: "Biography"
 excerpt: "About me"
 author_profile: true
+last_modified_at: 2026-07-11
 redirect_from: 
   - /about/
   - /about.html
@@ -134,3 +135,5 @@ Teaching
 ======
 - 2025: Teaching Assistant for CMSC 250 and CMSC 320
 - 2024: Teaching Assistant for CMSC 351
+
+<p class="page-last-updated">Last updated: {{ page.last_modified_at | date: "%B %-d, %Y" }}</p>
