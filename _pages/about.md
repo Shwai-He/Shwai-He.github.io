@@ -92,10 +92,10 @@ Selected Publications
 "***Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts***", Proceedings of the Fourteenth International Conference on Learning Representations (__ICLR 2026__). <a class="pub-button" href="https://case-lab-umd.github.io/Capacity-Aware-MoE/">Project</a> <a class="pub-button" href="https://arxiv.org/abs/2503.05066">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Capacity-Aware-MoE">Code</a>
 <a id="pub-attention-drop"></a>
 5. __Shwai He__\*, Guoheng Sun\*, Zheyu Shen, Ang Li, 
-"***Uncovering the Redundancy in Transformers via a Unified Study of Layer Dropping***", Transactions on Machine Learning Research (__TMLR__). <a class="pub-button" href="https://case-lab-umd.github.io/LLM-Drop/">Project</a> <a class="pub-button" href="https://openreview.net/forum?id=1I7PCbOPfe">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/LLM-Drop">Code</a>
+"***Uncovering the Redundancy in Transformers via a Unified Study of Layer Dropping***", Transactions on Machine Learning Research (__TMLR__). <a class="pub-button" href="https://case-lab-umd.github.io/LLM-Drop/">Project</a> <a class="pub-button" href="https://openreview.net/forum?id=1I7PCbOPfe">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/LLM-Drop">Code</a> <a class="pub-button" href="https://huggingface.co/LLM-Drop">HF</a>
 <a id="pub-effir"></a>
 6. Yibin Lei, __Shwai He__\*, Ang Li, Andrew Yates,
-"***Making Large Language Models Efficient Dense Retrievers***", Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (__ACL 2026__). <a class="pub-button" href="https://arxiv.org/abs/2512.20612">Paper</a> <a class="pub-button" href="https://github.com/Yibin-Lei/EffiR">Code</a>
+"***Making Large Language Models Efficient Dense Retrievers***", Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (__ACL 2026__). <a class="pub-button" href="https://arxiv.org/abs/2512.20612">Paper</a> <a class="pub-button" href="https://github.com/Yibin-Lei/EffiR">Code</a> <a class="pub-button" href="https://huggingface.co/models?search=yibinlei%2Feffir">Models</a>
 <a id="pub-router-tuning"></a>
 7. __Shwai He__, Tao Ge, Guoheng Sun, Bowei Tian, Xiaoyang Wang, Dong Yu, 
 "***Router-Tuning: A Simple and Effective Approach for Dynamic Depth***", Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
