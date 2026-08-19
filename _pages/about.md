@@ -46,7 +46,7 @@ Research Experience
 <dl>
   <dt><img align="left" width="110" height="110" hspace="10" src="images/Google_logo.svg" /></dt>
   <dt><a href="https://deepmind.google/" target="_blank">Google DeepMind &amp; Ads</a></dt>
-  <d>05/2026 - 08/2026, Mountain View, CA</d><br>
+  <d>05/2026 - Present, Mountain View, CA</d><br>
   <dd>Student Researcher</dd>
   <dd>Efficient Post-Training</dd>
 </dl>
