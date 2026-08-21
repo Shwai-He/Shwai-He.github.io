@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shwai He (贺帅)"
 title_separator          : "-"
 name                     : &name "Shwai He"
-description              : &description "personal description"
+description              : &description "Shwai He (贺帅) - Ph.D. candidate in Computer Science at University of Maryland, College Park. Researching Efficient Foundation Models, Mixture of Experts, Model Compression, and Dynamic Multimodal Architectures."
 url                      : "https://shwai-he.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shwai-He/Shwai-He.github.io"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "head.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

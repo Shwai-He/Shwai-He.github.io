@@ -9,7 +9,7 @@ author_profile: true
 Some of my research begins with a technical question and gradually reveals a more personal one. These reflections trace the ideas behind the papers: what their questions have come to mean to me beyond the experiments themselves.
 </p>
 
-<article class="reflection-entry">
+<article class="reflection-entry" id="demystifying-pruning">
   <div class="reflection-entry__header">
     <div class="reflection-entry__meta">2026 &middot; Demystifying When Pruning Works</div>
     <div class="reflection-entry__header-links" aria-label="Demystifying When Pruning Works resources">
@@ -34,7 +34,7 @@ Some of my research begins with a technical question and gradually reveals a mor
   <p class="reflection-entry__thought">What is removed changes the appearance; what is preserved reveals the essence.</p>
 </article>
 
-<article class="reflection-entry">
+<article class="reflection-entry" id="attention-drop">
   <div class="reflection-entry__header">
     <div class="reflection-entry__meta">2026 &middot; Attention Drop</div>
     <div class="reflection-entry__header-links" aria-label="Attention Drop resources">
@@ -59,7 +59,7 @@ Some of my research begins with a technical question and gradually reveals a mor
   <p class="reflection-entry__thought">Letting go is not giving up on what matters; it is giving up the demand that its value be recognized at once.</p>
 </article>
 
-<article class="reflection-entry">
+<article class="reflection-entry" id="capacity-aware">
   <div class="reflection-entry__header">
     <div class="reflection-entry__meta">2025 &middot; Capacity-Aware Inference</div>
     <div class="reflection-entry__header-links" aria-label="Capacity-Aware Inference resources">
@@ -84,7 +84,7 @@ Some of my research begins with a technical question and gradually reveals a mor
   <p class="reflection-entry__thought">Efficiency is not the ability to carry everything, but the judgment to know what must be released.</p>
 </article>
 
-<article class="reflection-entry">
+<article class="reflection-entry" id="router-tuning">
   <div class="reflection-entry__header">
     <div class="reflection-entry__meta">2025 &middot; Router-Tuning</div>
     <div class="reflection-entry__header-links" aria-label="Router-Tuning resources">
@@ -109,7 +109,7 @@ Some of my research begins with a technical question and gradually reveals a mor
   <p class="reflection-entry__thought">Depth is valuable not when applied to everything, but when reserved for what deserves it.</p>
 </article>
 
-<article class="reflection-entry">
+<article class="reflection-entry" id="pad-net">
   <div class="reflection-entry__header">
     <div class="reflection-entry__meta">2023 &middot; PAD-Net</div>
     <div class="reflection-entry__header-links" aria-label="PAD-Net resources">
@@ -133,7 +133,7 @@ Some of my research begins with a technical question and gradually reveals a mor
   <p class="reflection-entry__thought">Adaptability is not the willingness to change everything; it is the wisdom to know what should remain steady.</p>
 </article>
 
-<article class="reflection-entry">
+<article class="reflection-entry" id="meo">
   <div class="reflection-entry__header">
     <div class="reflection-entry__meta">2023 &middot; From PAD-Net to MEO</div>
     <div class="reflection-entry__header-links" aria-label="MEO resources">
@@ -157,7 +157,7 @@ Some of my research begins with a technical question and gradually reveals a mor
   <p class="reflection-entry__thought">Some mistakes do not take us away from the answer; they reveal another way to reach it.</p>
 </article>
 
-<article class="reflection-entry">
+<article class="reflection-entry" id="sparse-adapter">
   <div class="reflection-entry__header">
     <div class="reflection-entry__meta">2022 &middot; SparseAdapter</div>
     <div class="reflection-entry__header-links" aria-label="SparseAdapter resources">

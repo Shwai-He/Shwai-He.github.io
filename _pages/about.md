@@ -23,110 +23,302 @@ I further explore system- and hardware-aware techniques that make these advances
 
 News
 ======
-  \[04/2026\]: [Demystifying When Pruning Works](#pub-demystifying-pruning) + [DualSparse-MoE](#pub-dualsparse-moe) accepted at [ICML 2026](https://icml.cc/). \
-  \[04/2026\]: 📜 Received the **Certificate of Outstanding Achievement** from UMD CS (2025–2026). \
-  \[04/2026\]: [Making LLMs Efficient Dense Retrievers](#pub-effir) was accepted to [ACL 2026](https://2026.aclweb.org/). \
-  \[01/2026\]: [Capacity-Aware Inference](#pub-capacity-aware-inference) was accepted to [ICLR 2026](https://iclr.cc/). \
-  \[01/2026\]: [Attention Drop](#pub-attention-drop) was accepted by [TMLR](https://jmlr.org/tmlr/). \
-  \[08/2025\]: [Router-Tuning](#pub-router-tuning) was accepted at [EMNLP 2025](https://2025.emnlp.org/). \
-  \[05/2025\]: 🏆 Awarded the [Qualcomm Innovation Fellowship (QIF)](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america) North America for the proposal *“Less Attention, Much Faster: Toward a Future of Efficiency-Optimized Transformer Architectures.”* \
-  \[03/2025\]: [Our holistic study of MoE compression](#pub-moe-compression) was accepted by [TMLR](https://jmlr.org/tmlr/). \
-  \[09/2024\]: Two papers accepted: (1) Efficient Attention at [NeurIPS 2024](https://neurips.cc/), and (2) Reformat Alignment at [EMNLP 2024](https://2024.emnlp.org/). \
-  \[10/2023\]: [Merging Experts into One](#pub-meo) was accepted by [EMNLP 2023](https://2023.emnlp.org/). \
-  \[05/2023\]: [PAD-Net](#pub-pad-net) was accepted by [ACL 2023](https://2023.aclweb.org/). \
-  \[04/2023\]: [NeuralSlice](#pub-neuralslice) was accepted by [ICML 2023](https://icml.cc/). \
-  \[10/2022\]: [SparseAdapter](#pub-sparseadapter) was accepted by [EMNLP 2022](https://2022.emnlp.org/). \
-  \[08/2022\]: [SD-Conv](#pub-sd-conv) was accepted by [WACV 2023](https://wacv2023.thecvf.com/). \
-  \[07/2022\]: 🏆 Ranked 1st (Chinese<=>English, German<=>English, Czech<=>English, English=>Russian), 2nd (Russian=>English, Japanese=>English), and 3rd (English=>Japanese) in the General Translation Task at [WMT 2022](https://statmt.org/wmt22/translation-task.html). \
-  \[01/2022\]: One paper was accepted by [AAAI-22 KDF](https://aaai-kdf.github.io/kdf2022/).
-  
+* \[04/2026\]: [Demystifying When Pruning Works](#pub-demystifying-pruning) + [DualSparse-MoE](#pub-dualsparse-moe) accepted at [ICML 2026](https://icml.cc/).
+* \[04/2026\]: 📜 Received the **Certificate of Outstanding Achievement** from UMD CS (2025–2026).
+* \[04/2026\]: [Making LLMs Efficient Dense Retrievers](#pub-effir) was accepted to [ACL 2026](https://2026.aclweb.org/).
+* \[01/2026\]: [Capacity-Aware Inference](#pub-capacity-aware-inference) was accepted to [ICLR 2026](https://iclr.cc/).
+* \[01/2026\]: [Attention Drop](#pub-attention-drop) was accepted by [TMLR](https://jmlr.org/tmlr/).
+* \[08/2025\]: [Router-Tuning](#pub-router-tuning) was accepted at [EMNLP 2025](https://2025.emnlp.org/).
+* \[05/2025\]: 🏆 Awarded the [Qualcomm Innovation Fellowship (QIF)](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america) North America for the proposal *“Less Attention, Much Faster: Toward a Future of Efficiency-Optimized Transformer Architectures.”*
+* \[03/2025\]: [Our holistic study of MoE compression](#pub-moe-compression) was accepted by [TMLR](https://jmlr.org/tmlr/).
+
+<details class="news-more">
+  <summary>Show earlier news (2022 &ndash; 2024)...</summary>
+  <div class="news-more__content">
+    <ul>
+      <li>[09/2024]: Two papers accepted: (1) Efficient Attention at <a href="https://neurips.cc/" target="_blank" rel="noopener">NeurIPS 2024</a>, and (2) Reformat Alignment at <a href="https://2024.emnlp.org/" target="_blank" rel="noopener">EMNLP 2024</a>.</li>
+      <li>[10/2023]: <a href="#pub-meo">Merging Experts into One</a> was accepted by <a href="https://2023.emnlp.org/" target="_blank" rel="noopener">EMNLP 2023 (Oral)</a>.</li>
+      <li>[05/2023]: <a href="#pub-pad-net">PAD-Net</a> was accepted by <a href="https://2023.aclweb.org/" target="_blank" rel="noopener">ACL 2023</a>.</li>
+      <li>[04/2023]: <a href="#pub-neuralslice">NeuralSlice</a> was accepted by <a href="https://icml.cc/" target="_blank" rel="noopener">ICML 2023</a>.</li>
+      <li>[10/2022]: <a href="#pub-sparseadapter">SparseAdapter</a> was accepted by <a href="https://2022.emnlp.org/" target="_blank" rel="noopener">EMNLP 2022</a>.</li>
+      <li>[08/2022]: <a href="#pub-sd-conv">SD-Conv</a> was accepted by <a href="https://wacv2023.thecvf.com/" target="_blank" rel="noopener">WACV 2023</a>.</li>
+      <li>[07/2022]: 🏆 Ranked 1st (Chinese&hArr;English, German&hArr;English, Czech&hArr;English, English&rArr;Russian), 2nd (Russian&rArr;English, Japanese&rArr;English), and 3rd (English&rArr;Japanese) in the General Translation Task at <a href="https://statmt.org/wmt22/translation-task.html" target="_blank" rel="noopener">WMT 2022</a>.</li>
+      <li>[01/2022]: One paper was accepted by <a href="https://aaai-kdf.github.io/kdf2022/" target="_blank" rel="noopener">AAAI-22 KDF</a>.</li>
+    </ul>
+  </div>
+</details>
 
 Research Experience
 ======
-<dl>
-  <dt><img align="left" width="110" height="110" hspace="10" src="images/Google_logo.svg" /></dt>
-  <dt><a href="https://deepmind.google/" target="_blank">Google DeepMind &amp; Ads</a></dt>
-  <d>05/2026 - Present, Mountain View, CA</d><br>
-  <dd>Student Researcher</dd>
-  <dd>Efficient Post-Training</dd>
-</dl>
+<div class="experience-list">
+  <div class="experience-entry">
+    <div class="experience-entry__logo">
+      <img src="images/Google_logo.svg" alt="Google DeepMind &amp; Ads" />
+    </div>
+    <div class="experience-entry__content">
+      <div class="experience-entry__header">
+        <span class="experience-entry__org"><a href="https://deepmind.google/" target="_blank" rel="noopener">Google DeepMind &amp; Ads</a></span>
+        <span class="experience-entry__date">05/2026 – Present</span>
+      </div>
+      <div class="experience-entry__role">Student Researcher · Mountain View, CA</div>
+      <div class="experience-entry__focus">Efficient Post-Training</div>
+    </div>
+  </div>
 
-<dl>
-  <dt><img align="left" width="110" height="110" hspace="10" src="images/ByteDance_logo.jpg" /></dt>
-  <dt><a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a></dt>
-  <d>05/2025 - 05/2026, San Jose, CA</d><br>
-  <dd>Research Intern</dd>
-  <dd>Multimodal Foundation Models</dd>
-</dl>
+  <div class="experience-entry">
+    <div class="experience-entry__logo">
+      <img src="images/ByteDance_logo.jpg" alt="ByteDance Seed" />
+    </div>
+    <div class="experience-entry__content">
+      <div class="experience-entry__header">
+        <span class="experience-entry__org"><a href="https://seed.bytedance.com/en/" target="_blank" rel="noopener">ByteDance Seed</a></span>
+        <span class="experience-entry__date">05/2025 – 05/2026</span>
+      </div>
+      <div class="experience-entry__role">Research Intern · San Jose, CA</div>
+      <div class="experience-entry__focus">Multimodal Foundation Models</div>
+    </div>
+  </div>
 
-<dl>
-  <dt><img align="left" width="110" height="110" hspace="10" src="images/Tencent_logo.png" /></dt>
-  <dt><a href="https://ailab.tencent.com/ailab/en/index/" target="_blank">Tencent AI Lab</a></dt>
-  <d>06/2024 - 08/2024, Bellevue, WA</d><br>
-  <dd>Research Intern</dd>
-  <dd>Sparse and Efficient Large Language Models</dd>
-</dl>
+  <div class="experience-entry">
+    <div class="experience-entry__logo">
+      <img src="images/Tencent_logo.png" alt="Tencent AI Lab" />
+    </div>
+    <div class="experience-entry__content">
+      <div class="experience-entry__header">
+        <span class="experience-entry__org"><a href="https://ailab.tencent.com/ailab/en/index/" target="_blank" rel="noopener">Tencent AI Lab</a></span>
+        <span class="experience-entry__date">06/2024 – 08/2024</span>
+      </div>
+      <div class="experience-entry__role">Research Intern · Bellevue, WA</div>
+      <div class="experience-entry__focus">Sparse and Efficient Large Language Models</div>
+    </div>
+  </div>
 
-<dl>
-  <dt><img align="left" width="110" height="110" hspace="10" src="images/JD_logo.png" /></dt>
-  <dt><a href="https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/" target="_blank">JD Explore Academy</a></dt>
-  <d>02/2022 - 10/2022, Beijing, China</d><br>
-  <dd>Research Intern</dd>
-  <dd>Efficient and Adaptive Methods for NLP</dd>
-</dl>
-
+  <div class="experience-entry">
+    <div class="experience-entry__logo">
+      <img src="images/JD_logo.png" alt="JD Explore Academy" />
+    </div>
+    <div class="experience-entry__content">
+      <div class="experience-entry__header">
+        <span class="experience-entry__org"><a href="https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/" target="_blank" rel="noopener">JD Explore Academy</a></span>
+        <span class="experience-entry__date">02/2022 – 10/2022</span>
+      </div>
+      <div class="experience-entry__role">Research Intern · Beijing, China</div>
+      <div class="experience-entry__focus">Efficient and Adaptive Methods for NLP</div>
+    </div>
+  </div>
+</div>
 
 Selected Publications
 ======
-<a id="pub-sparse-unified-models"></a>
-1. __Shwai He__, Chaorui Deng, Ang Li, Shen Yan,
-"***Understanding and Harnessing Sparsity in Unified Multimodal Models***", arXiv. <a class="pub-button" href="https://shwai-he.github.io/SparseUnifiedModel/">Project</a> <a class="pub-button" href="https://arxiv.org/abs/2512.02351">Paper</a> <a class="pub-button" href="https://github.com/Shwai-He/SparseUnifiedModel">Code</a>
-<a id="pub-demystifying-pruning"></a>
-2. __Shwai He__, Guoheng Sun, Haichao Zhang, Yun Fu, Ang Li,
-"***Demystifying When Pruning Works via Representation Hierarchies***", Proceedings of the Forty-third International Conference on Machine Learning (__ICML 2026__). <a class="pub-button" href="https://case-lab-umd.github.io/Pruning-on-Representations/">Project</a> <a class="pub-button" href="https://arxiv.org/abs/2603.24652">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Pruning-on-Representations">Code</a>
-<a id="pub-dualsparse-moe"></a>
-3. Weilin Cai, Le Qin, __Shwai He__, Junwei Cui, Ang Li, Jiayi Huang,
-"***DualSparse-MoE: Coordinating Tensor/Neuron-Level Sparsity with Expert Partition and Reconstruction***", Proceedings of the Forty-third International Conference on Machine Learning (__ICML 2026__). <a class="pub-button" href="https://arxiv.org/abs/2508.18376">Paper</a>
-<a id="pub-capacity-aware-inference"></a>
-4. __Shwai He__, Weilin Cai, Jiayi Huang, Ang Li, 
-"***Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts***", Proceedings of the Fourteenth International Conference on Learning Representations (__ICLR 2026__). <a class="pub-button" href="https://case-lab-umd.github.io/Capacity-Aware-MoE/">Project</a> <a class="pub-button" href="https://arxiv.org/abs/2503.05066">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Capacity-Aware-MoE">Code</a>
-<a id="pub-attention-drop"></a>
-5. __Shwai He__\*, Guoheng Sun\*, Zheyu Shen, Ang Li, 
-"***Uncovering the Redundancy in Transformers via a Unified Study of Layer Dropping***", Transactions on Machine Learning Research (__TMLR__). <a class="pub-button" href="https://case-lab-umd.github.io/LLM-Drop/">Project</a> <a class="pub-button" href="https://openreview.net/forum?id=1I7PCbOPfe">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/LLM-Drop">Code</a> <a class="pub-button" href="https://huggingface.co/LLM-Drop">HF</a>
-<a id="pub-effir"></a>
-6. Yibin Lei, __Shwai He__\*, Ang Li, Andrew Yates,
-"***Making Large Language Models Efficient Dense Retrievers***", Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (__ACL 2026__). <a class="pub-button" href="https://arxiv.org/abs/2512.20612">Paper</a> <a class="pub-button" href="https://github.com/Yibin-Lei/EffiR">Code</a> <a class="pub-button" href="https://huggingface.co/models?search=yibinlei%2Feffir">Models</a>
-<a id="pub-router-tuning"></a>
-7. __Shwai He__, Tao Ge, Guoheng Sun, Bowei Tian, Xiaoyang Wang, Dong Yu, 
-"***Router-Tuning: A Simple and Effective Approach for Dynamic Depth***", Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
-(__EMNLP 2025__) <a class="pub-button" href="https://case-lab-umd.github.io/Router-Tuning-Mixture-of-Depths/">Project</a> <a class="pub-button" href="https://aclanthology.org/2025.emnlp-main.99/">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Router-Tuning-Mixture-of-Depths">Code</a>
-<a id="pub-moe-compression"></a>
-8. __Shwai He__\*, Daize Dong\*, Liang Ding, Ang Li, 
-"***Towards Efficient Mixture of Experts: A Holistic Study of Compression Techniques***", Transactions on Machine Learning Research (__TMLR__). <a class="pub-button" href="https://arxiv.org/abs/2406.02500">Paper</a> <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Unified-MoE-Compression">Code</a>
-<a id="pub-meo"></a>
-9. __Shwai He__, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao, 
-"***Merging Experts into One: Improving Computational Efficiency of Mixture of Experts***",
- Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing 
- (__EMNLP 2023 Oral__). <a class="pub-button" href="https://aclanthology.org/2023.emnlp-main.907/">Paper</a> <a class="pub-button" href="https://github.com/Shwai-He/MEO">Code</a>
-<a id="pub-pad-net"></a>
-10. __Shwai He__, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng Tao, 
-"***PAD-Net: An Efficient Framework for Dynamic Networks***",
- Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (__ACL 2023__). <a class="pub-button" href="https://aclanthology.org/2023.acl-long.803.pdf">Paper</a> <a class="pub-button" href="https://github.com/Shwai-He/PAD-Net">Code</a>
-<a id="pub-sparseadapter"></a>
-11. __Shwai He__, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao, 
-"***SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters***",
- Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (__EMNLP 2022__). <a class="pub-button" href="https://aclanthology.org/2022.findings-emnlp.160/">Paper</a> <a class="pub-button" href="https://github.com/Shwai-He/SparseAdapter">Code</a>
-<a id="pub-sd-conv"></a>
-12. __Shwai He__, Chenbo Jiang, Daize Dong, Liang Ding, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (__WACV 2023__). <a class="pub-button" href="https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf">Paper</a>
-13. __Shwai He__, Shi Gu, "***Multi-modal Attention Network for Stock Movements Prediction***", the AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (__KDF 2022__). <a class="pub-button" href="https://aaai-kdf.github.io/kdf2022/assets/pdfs/KDF_22_paper_3.pdf">Paper</a>
-<a id="pub-neuralslice"></a>
-14. Chenbo Jiang, Jie Yang, __Shwai He__, Yu-Kun Lai and Lin Gao. "***NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes.***", Proceedings of the 40th International Conference on Machine Learning, 2023 (__ICML 2023__). <a class="pub-button" href="https://proceedings.mlr.press/v202/jiang23j/jiang23j.pdf">Paper</a> <a class="pub-button" href="https://github.com/IGLICT/NEURALSLICE">Code</a>
-15. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, __Shwai He__, Qingyu Lu, Zheng Zhang, Chuang
-Liu, Weifeng Liu, Yibing Zhan and Dacheng Tao, "***Vega-MT: The JD Explore Academy Translation System for WMT***", The Conference on Machine Translation, 2022 (__WMT 2022__). <a class="pub-button" href="https://aclanthology.org/2022.wmt-1.37/">Paper</a> 
+
+<div class="pub-item" id="pub-sparse-unified-models">
+1. <strong>Shwai He</strong>, Chaorui Deng, Ang Li, Shen Yan,
+"<em><strong>Understanding and Harnessing Sparsity in Unified Multimodal Models</strong></em>", arXiv.
+<a class="pub-button" href="https://shwai-he.github.io/SparseUnifiedModel/" target="_blank" rel="noopener">Project</a>
+<a class="pub-button" href="https://arxiv.org/abs/2512.02351" target="_blank" rel="noopener">Paper</a>
+<a class="pub-button" href="https://github.com/Shwai-He/SparseUnifiedModel" target="_blank" rel="noopener">Code</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@article{he2025understanding,
+  title={Understanding and Harnessing Sparsity in Unified Multimodal Models},
+  author={He, Shwai and Deng, Chaorui and Li, Ang and Yan, Shen},
+  journal={arXiv preprint arXiv:2512.02351},
+  year={2025}
+}</code></pre></details>
+</div>
+
+<div class="pub-item" id="pub-demystifying-pruning">
+2. <strong>Shwai He</strong>, Guoheng Sun, Haichao Zhang, Yun Fu, Ang Li,
+"<em><strong>Demystifying When Pruning Works via Representation Hierarchies</strong></em>", Proceedings of the Forty-third International Conference on Machine Learning (<strong>ICML 2026</strong>).
+<a class="pub-button" href="https://case-lab-umd.github.io/Pruning-on-Representations/" target="_blank" rel="noopener">Project</a>
+<a class="pub-button" href="https://arxiv.org/abs/2603.24652" target="_blank" rel="noopener">Paper</a>
+<a class="pub-button" href="https://github.com/CASE-Lab-UMD/Pruning-on-Representations" target="_blank" rel="noopener">Code</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#demystifying-pruning">💭 Reflection</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2026demystifying,
+  title={Demystifying When Pruning Works via Representation Hierarchies},
+  author={He, Shwai and Sun, Guoheng and Zhang, Haichao and Fu, Yun and Li, Ang},
+  booktitle={Proceedings of the 43rd International Conference on Machine Learning (ICML)},
+  year={2026}
+}</code></pre></details>
+</div>
+
+<div class="pub-item" id="pub-dualsparse-moe">
+3. Weilin Cai, Le Qin, <strong>Shwai He</strong>, Junwei Cui, Ang Li, Jiayi Huang,
+"<em><strong>DualSparse-MoE: Coordinating Tensor/Neuron-Level Sparsity with Expert Partition and Reconstruction</strong></em>", Proceedings of the Forty-third International Conference on Machine Learning (<strong>ICML 2026</strong>).
+<a class="pub-button" href="https://arxiv.org/abs/2508.18376" target="_blank" rel="noopener">Paper</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{cai2026dualsparse,
+  title={DualSparse-MoE: Coordinating Tensor/Neuron-Level Sparsity with Expert Partition and Reconstruction},
+  author={Cai, Weilin and Qin, Le and He, Shwai and Cui, Junwei and Li, Ang and Huang, Jiayi},
+  booktitle={Proceedings of the 43rd International Conference on Machine Learning (ICML)},
+  year={2026}
+}</code></pre></details>
+</div>
+
+<div class="pub-item" id="pub-capacity-aware-inference">
+4. <strong>Shwai He</strong>, Weilin Cai, Jiayi Huang, Ang Li,
+"<em><strong>Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts</strong></em>", Proceedings of the Fourteenth International Conference on Learning Representations (<strong>ICLR 2026</strong>).
+<a class="pub-button" href="https://case-lab-umd.github.io/Capacity-Aware-MoE/" target="_blank" rel="noopener">Project</a>
+<a class="pub-button" href="https://arxiv.org/abs/2503.05066" target="_blank" rel="noopener">Paper</a>
+<a class="pub-button" href="https://github.com/CASE-Lab-UMD/Capacity-Aware-MoE" target="_blank" rel="noopener">Code</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#capacity-aware">💭 Reflection</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2026capacity,
+  title={Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts},
+  author={He, Shwai and Cai, Weilin and Huang, Jiayi and Li, Ang},
+  booktitle={Proceedings of the 14th International Conference on Learning Representations (ICLR)},
+  year={2026}
+}</code></pre></details>
+</div>
+
+<div class="pub-item" id="pub-attention-drop">
+5. <strong>Shwai He</strong>*, Guoheng Sun*, Zheyu Shen, Ang Li,
+"<em><strong>Uncovering the Redundancy in Transformers via a Unified Study of Layer Dropping</strong></em>", Transactions on Machine Learning Research (<strong>TMLR</strong>).
+<a class="pub-button" href="https://case-lab-umd.github.io/LLM-Drop/" target="_blank" rel="noopener">Project</a>
+<a class="pub-button" href="https://openreview.net/forum?id=1I7PCbOPfe" target="_blank" rel="noopener">Paper</a>
+<a class="pub-button" href="https://github.com/CASE-Lab-UMD/LLM-Drop" target="_blank" rel="noopener">Code</a>
+<a class="pub-button" href="https://huggingface.co/LLM-Drop" target="_blank" rel="noopener">HF</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#attention-drop">💭 Reflection</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@article{he2026uncovering,
+  title={Uncovering the Redundancy in Transformers via a Unified Study of Layer Dropping},
+  author={He, Shwai and Sun, Guoheng and Shen, Zheyu and Li, Ang},
+  journal={Transactions on Machine Learning Research (TMLR)},
+  year={2026}
+}</code></pre></details>
+</div>
+
+<div class="pub-item" id="pub-effir">
+6. Yibin Lei, <strong>Shwai He</strong>*, Ang Li, Andrew Yates,
+"<em><strong>Making Large Language Models Efficient Dense Retrievers</strong></em>", Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (<strong>ACL 2026</strong>).
+<a class="pub-button" href="https://arxiv.org/abs/2512.20612" target="_blank" rel="noopener">Paper</a>
+<a class="pub-button" href="https://github.com/Yibin-Lei/EffiR" target="_blank" rel="noopener">Code</a>
+<a class="pub-button" href="https://huggingface.co/models?search=yibinlei%2Feffir" target="_blank" rel="noopener">Models</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{lei2026making,
+  title={Making Large Language Models Efficient Dense Retrievers},
+  author={Lei, Yibin and He, Shwai and Li, Ang and Yates, Andrew},
+  booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)},
+  year={2026}
+}</code></pre></details>
+</div>
+
+<div class="pub-item" id="pub-router-tuning">
+7. <strong>Shwai He</strong>, Tao Ge, Guoheng Sun, Bowei Tian, Xiaoyang Wang, Dong Yu,
+"<em><strong>Router-Tuning: A Simple and Effective Approach for Dynamic Depth</strong></em>", Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2025</strong>).
+<a class="pub-button" href="https://case-lab-umd.github.io/Router-Tuning-Mixture-of-Depths/" target="_blank" rel="noopener">Project</a>
+<a class="pub-button" href="https://aclanthology.org/2025.emnlp-main.99/" target="_blank" rel="noopener">Paper</a>
+<a class="pub-button" href="https://github.com/CASE-Lab-UMD/Router-Tuning-Mixture-of-Depths" target="_blank" rel="noopener">Code</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#router-tuning">💭 Reflection</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2025router,
+  title={Router-Tuning: A Simple and Effective Approach for Dynamic Depth},
+  author={He, Shwai and Ge, Tao and Sun, Guoheng and Tian, Bowei and Wang, Xiaoyang and Yu, Dong},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year={2025}
+}</code></pre></details>
+</div>
+
+<div class="pub-item" id="pub-moe-compression">
+8. <strong>Shwai He</strong>*, Daize Dong*, Liang Ding, Ang Li,
+"<em><strong>Towards Efficient Mixture of Experts: A Holistic Study of Compression Techniques</strong></em>", Transactions on Machine Learning Research (<strong>TMLR</strong>).
+<a class="pub-button" href="https://arxiv.org/abs/2406.02500" target="_blank" rel="noopener">Paper</a>
+<a class="pub-button" href="https://github.com/CASE-Lab-UMD/Unified-MoE-Compression" target="_blank" rel="noopener">Code</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@article{he2025towards,
+  title={Towards Efficient Mixture of Experts: A Holistic Study of Compression Techniques},
+  author={He, Shwai and Dong, Daize and Ding, Liang and Li, Ang},
+  journal={Transactions on Machine Learning Research (TMLR)},
+  year={2025}
+}</code></pre></details>
+</div>
+
+<div class="pub-item" id="pub-meo">
+9. <strong>Shwai He</strong>, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao,
+"<em><strong>Merging Experts into One: Improving Computational Efficiency of Mixture of Experts</strong></em>", Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2023 Oral</strong>).
+<a class="pub-button" href="https://aclanthology.org/2023.emnlp-main.907/" target="_blank" rel="noopener">Paper</a>
+<a class="pub-button" href="https://github.com/Shwai-He/MEO" target="_blank" rel="noopener">Code</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#meo">💭 Reflection</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2023merging,
+  title={Merging Experts into One: Improving Computational Efficiency of Mixture of Experts},
+  author={He, Shwai and Fan, Run-Ze and Ding, Liang and Shen, Li and Zhou, Tianyi and Tao, Dacheng},
+  booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year={2023}
+}</code></pre></details>
+</div>
+
+<div class="pub-item" id="pub-pad-net">
+10. <strong>Shwai He</strong>, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng Tao,
+"<em><strong>PAD-Net: An Efficient Framework for Dynamic Networks</strong></em>", Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (<strong>ACL 2023</strong>).
+<a class="pub-button" href="https://aclanthology.org/2023.acl-long.803.pdf" target="_blank" rel="noopener">Paper</a>
+<a class="pub-button" href="https://github.com/Shwai-He/PAD-Net" target="_blank" rel="noopener">Code</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#pad-net">💭 Reflection</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2023pad,
+  title={PAD-Net: An Efficient Framework for Dynamic Networks},
+  author={He, Shwai and Ding, Liang and Dong, Daize and Liu, Boan and Yu, Fuqiang and Tao, Dacheng},
+  booktitle={Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)},
+  year={2023}
+}</code></pre></details>
+</div>
+
+<div class="pub-item" id="pub-sparseadapter">
+11. <strong>Shwai He</strong>, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao,
+"<em><strong>SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters</strong></em>", Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2022</strong>).
+<a class="pub-button" href="https://aclanthology.org/2022.findings-emnlp.160/" target="_blank" rel="noopener">Paper</a>
+<a class="pub-button" href="https://github.com/Shwai-He/SparseAdapter" target="_blank" rel="noopener">Code</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#sparse-adapter">💭 Reflection</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2022sparseadapter,
+  title={SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters},
+  author={He, Shwai and Ding, Liang and Dong, Daize and Zhang, Miao and Tao, Dacheng},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2022},
+  year={2022}
+}</code></pre></details>
+</div>
+
+<div class="pub-item" id="pub-sd-conv">
+12. <strong>Shwai He</strong>, Chenbo Jiang, Daize Dong, Liang Ding,
+"<em><strong>SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution</strong></em>", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (<strong>WACV 2023</strong>).
+<a class="pub-button" href="https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf" target="_blank" rel="noopener">Paper</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2023sdconv,
+  title={SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution},
+  author={He, Shwai and Jiang, Chenbo and Dong, Daize and Ding, Liang},
+  booktitle={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2023}
+}</code></pre></details>
+</div>
+
+<div class="pub-item" id="pub-kdf22">
+13. <strong>Shwai He</strong>, Shi Gu,
+"<em><strong>Multi-modal Attention Network for Stock Movements Prediction</strong></em>", the AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service (<strong>KDF 2022</strong>).
+<a class="pub-button" href="https://aaai-kdf.github.io/kdf2022/assets/pdfs/KDF_22_paper_3.pdf" target="_blank" rel="noopener">Paper</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@article{he2022multimodal,
+  title={Multi-modal Attention Network for Stock Movements Prediction},
+  author={He, Shwai and Gu, Shi},
+  journal={AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Service},
+  year={2022}
+}</code></pre></details>
+</div>
+
+<div class="pub-item" id="pub-neuralslice">
+14. Chenbo Jiang, Jie Yang, <strong>Shwai He</strong>, Yu-Kun Lai, Lin Gao,
+"<em><strong>NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes</strong></em>", Proceedings of the 40th International Conference on Machine Learning, 2023 (<strong>ICML 2023</strong>).
+<a class="pub-button" href="https://proceedings.mlr.press/v202/jiang23j/jiang23j.pdf" target="_blank" rel="noopener">Paper</a>
+<a class="pub-button" href="https://github.com/IGLICT/NEURALSLICE" target="_blank" rel="noopener">Code</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{jiang2023neuralslice,
+  title={NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes},
+  author={Jiang, Chenbo and Yang, Jie and He, Shwai and Lai, Yu-Kun and Gao, Lin},
+  booktitle={Proceedings of the 40th International Conference on Machine Learning (ICML)},
+  year={2023}
+}</code></pre></details>
+</div>
+
+<div class="pub-item" id="pub-wmt22">
+15. Changtong Zan, Keqin Peng, Liang Ding, Baopu Qiu, Boan Liu, <strong>Shwai He</strong>, Qingyu Lu, Zheng Zhang, Chuang Liu, Weifeng Liu, Yibing Zhan, Dacheng Tao,
+"<em><strong>Vega-MT: The JD Explore Academy Translation System for WMT</strong></em>", The Conference on Machine Translation, 2022 (<strong>WMT 2022</strong>).
+<a class="pub-button" href="https://aclanthology.org/2022.wmt-1.37/" target="_blank" rel="noopener">Paper</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{zan2022vega,
+  title={Vega-MT: The JD Explore Academy Translation System for WMT},
+  author={Zan, Changtong and Peng, Keqin and Ding, Liang and Qiu, Baopu and Liu, Boan and He, Shwai and Lu, Qingyu and Zhang, Zheng and Liu, Chuang and Liu, Weifeng and Zhan, Yibing and Tao, Dacheng},
+  booktitle={Proceedings of the Seventh Conference on Machine Translation (WMT)},
+  year={2022}
+}</code></pre></details>
+</div>
 
 Teaching
 ======
-- 2025: Teaching Assistant for CMSC 250 and CMSC 320
-- 2024: Teaching Assistant for CMSC 351
+- 2025: Teaching Assistant for CMSC 250 (Discrete Structures) and CMSC 320 (Introduction to Data Science)
+- 2024: Teaching Assistant for CMSC 351 (Algorithms)
 
 <p class="page-last-updated">Last updated: {{ page.last_modified_at | date: "%B %-d, %Y" }}</p>
