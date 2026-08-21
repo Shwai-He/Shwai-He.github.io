@@ -32,28 +32,37 @@ body {
 }
 
 #main {
-  max-width: 1280px;
-  margin-top: 1.5em;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+  max-width: 1240px;
+  margin: 1.5em auto 0;
+  padding: 0 1.5rem;
+
+  @include breakpoint($large) {
+    display: flex;
+    align-items: flex-start;
+    gap: 2.5rem;
+  }
 }
 
 .sidebar {
   @include breakpoint($large) {
-    width: 250px;
-    float: left;
-    margin-right: 2rem;
+    float: none !important;
+    flex-shrink: 0;
+    width: 240px !important;
+    min-width: 240px !important;
+    max-width: 240px !important;
+    margin: 0 !important;
+    padding: 0 !important;
   }
 }
 
 .page {
   @include breakpoint($large) {
-    float: right;
-    width: calc(100% - 280px);
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 0;
-    padding-right: 0;
+    float: none !important;
+    flex: 1 1 0% !important;
+    width: auto !important;
+    min-width: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
   }
 
   .page__inner-wrap {
