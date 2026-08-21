@@ -349,7 +349,8 @@ Selected Publications
 
 Teaching
 ======
-- 2025: Teaching Assistant for CMSC 250 (Discrete Structures) and CMSC 320 (Introduction to Data Science)
-- 2024: Teaching Assistant for CMSC 351 (Algorithms)
+* Spring 2025: Teaching Assistant for CMSC 320 (Introduction to Data Science)
+* Fall 2024: Teaching Assistant for CMSC 250 (Discrete Structures)
+* Spring 2024: Teaching Assistant for CMSC 351 (Algorithms)
 
 <p class="page-last-updated">Last updated: {{ page.last_modified_at | date: "%B %-d, %Y" }}</p>
