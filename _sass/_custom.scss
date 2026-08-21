@@ -31,6 +31,41 @@ body {
   font-family: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
+#main {
+  max-width: 1280px;
+  margin-top: 1.5em;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.sidebar {
+  @include breakpoint($large) {
+    width: 250px;
+    float: left;
+    margin-right: 2rem;
+  }
+}
+
+.page {
+  @include breakpoint($large) {
+    float: right;
+    width: calc(100% - 280px);
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .page__inner-wrap {
+    width: 100%;
+
+    .page__content {
+      width: 100%;
+      max-width: none;
+    }
+  }
+}
+
 .page__title {
   font-size: clamp(2rem, 3.2vw, 2.9rem);
   line-height: 1.02;
@@ -40,7 +75,7 @@ body {
 }
 
 .page__content {
-  max-width: 48rem;
+  max-width: none;
 }
 
 .page__content p,
@@ -96,7 +131,7 @@ body {
 }
 
 .reflection-intro {
-  max-width: 46rem;
+  max-width: none;
   font-size: 1.06rem !important;
   line-height: 1.78 !important;
   margin-bottom: 1.2rem;
@@ -277,8 +312,8 @@ body {
 
 .reflection-figure--photo a {
   aspect-ratio: 21 / 8;
-  min-height: 0;
-  max-height: none;
+  min-height: 160px;
+  max-height: 340px;
   border-radius: 8px;
   overflow: hidden;
   border: 1px solid rgba(216, 225, 232, 0.75);
