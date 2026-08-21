@@ -515,6 +515,90 @@ body {
   letter-spacing: 0.04em;
 }
 
+.reflection-entry__takeaway {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0 0 1.1rem;
+  padding: 0.38rem 0.85rem;
+  background: rgba(29, 107, 116, 0.04);
+  border: 1px solid rgba(29, 107, 116, 0.14);
+  border-radius: 8px;
+  font-family: "Plus Jakarta Sans", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.82rem;
+  color: #1e3a4c;
+  line-height: 1.45;
+
+  .takeaway-label {
+    display: inline-block;
+    padding: 0.1rem 0.45rem;
+    background: var(--site-accent);
+    color: #ffffff;
+    border-radius: 4px;
+    font-size: 0.68rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+}
+
+.reflection-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.15rem;
+  margin: 1.15rem 0 0.4rem;
+}
+
+.reflection-section {
+  padding: 1.1rem 1.35rem 1.15rem;
+  border-radius: 10px;
+  border: 1px solid rgba(216, 225, 232, 0.75);
+  transition: all 0.2s ease;
+
+  p {
+    margin: 0 !important;
+    font-size: 0.99rem !important;
+    line-height: 1.76 !important;
+    color: #273b4e !important;
+  }
+}
+
+.reflection-section:hover {
+  border-color: rgba(216, 225, 232, 1);
+  box-shadow: 0 4px 14px rgba(24, 39, 56, 0.03);
+}
+
+.reflection-section--tech {
+  background: linear-gradient(135deg, rgba(29, 107, 116, 0.04) 0%, rgba(255, 255, 255, 0.9) 100%);
+  border-left: 3.5px solid var(--site-accent);
+}
+
+.reflection-section--life {
+  background: linear-gradient(135deg, rgba(123, 44, 191, 0.04) 0%, rgba(255, 255, 255, 0.9) 100%);
+  border-left: 3.5px solid #7b2cbf;
+}
+
+.reflection-section__badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-bottom: 0.5rem;
+  font-family: "Plus Jakarta Sans", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.74rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.reflection-section--tech .reflection-section__badge {
+  color: var(--site-accent);
+}
+
+.reflection-section--life .reflection-section__badge {
+  color: #7b2cbf;
+}
+
 .reflection-entry p {
   margin: 0 0 1rem;
   font-size: 1.02rem;
