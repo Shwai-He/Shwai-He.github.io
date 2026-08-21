@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 <div class="philosophy-hero">
-  <div class="philosophy-hero__badge">✨ ESSAYS &middot; 7 PERSPECTIVES</div>
+  <div class="philosophy-hero__badge">✨ ESSAYS &middot; 12 PERSPECTIVES</div>
   <h2 class="philosophy-hero__title">Where Technical Curiosity Meets Personal Reflection</h2>
   <p class="philosophy-hero__desc">
-    Some research begins with a technical question and gradually reveals a more personal one. These essays trace the ideas behind the papers: what model pruning, dynamic routing, parameter sparsity, and capacity bounds teach us about patience, depth, resilience, and living.
+    Some research begins with a technical question and gradually reveals a more personal one. These essays trace the ideas behind the papers: what model pruning, dynamic routing, parameter sparsity, representation geometry, and capacity bounds teach us about patience, depth, resilience, and living.
   </p>
   <div class="philosophy-hero__tags">
     <span class="philosophy-tag">🧠 Representation Geometry</span>
@@ -59,6 +59,31 @@ author_profile: true
       <span class="pill-icon">🏛️</span>
       <span class="pill-text">Space &amp; Possibility</span>
       <span class="pill-sub">Sparsity</span>
+    </a>
+    <a href="#sparse-unified-models" class="philosophy-nav__pill">
+      <span class="pill-icon">🎼</span>
+      <span class="pill-text">Harmonic Senses</span>
+      <span class="pill-sub">Multimodal</span>
+    </a>
+    <a href="#directional-decomposition" class="philosophy-nav__pill">
+      <span class="pill-icon">🧭</span>
+      <span class="pill-text">True Trajectory</span>
+      <span class="pill-sub">Direction</span>
+    </a>
+    <a href="#moe-compression" class="philosophy-nav__pill">
+      <span class="pill-icon">🧪</span>
+      <span class="pill-text">Distilling Essence</span>
+      <span class="pill-sub">Compression</span>
+    </a>
+    <a href="#effir" class="philosophy-nav__pill">
+      <span class="pill-icon">🌊</span>
+      <span class="pill-text">Deep Retrieval</span>
+      <span class="pill-sub">Memory</span>
+    </a>
+    <a href="#sd-conv" class="philosophy-nav__pill">
+      <span class="pill-icon">📷</span>
+      <span class="pill-text">Nimble Perspective</span>
+      <span class="pill-sub">Agility</span>
     </a>
   </div>
 </div>
@@ -359,6 +384,214 @@ author_profile: true
   </div>
 
   <p class="reflection-entry__thought">What appears empty is often the very space that allows something larger to exist.</p>
+</article>
+
+<article class="reflection-entry" id="sparse-unified-models">
+  <div class="reflection-entry__header">
+    <div class="reflection-entry__badges">
+      <span class="reflection-entry__index">08 / ESSAY</span>
+      <span class="reflection-entry__meta">2026 &middot; Understanding and Harnessing Sparsity for Unified Multimodal Models</span>
+    </div>
+    <div class="reflection-entry__header-links" aria-label="Unified Multimodal Sparsity resources">
+      <a href="https://openreview.net/forum?id=2mNkOlfJ0z" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="https://github.com/Shwai-He/SparseUnifiedModel" target="_blank" rel="noopener">💻 Code</a>
+      <a href="https://shwai-he.github.io/SparseUnifiedModel/" target="_blank" rel="noopener">🌐 Project</a>
+      <a href="/#pub-sparse-unified-models">🏠 Publication</a>
+    </div>
+  </div>
+  <h3 class="reflection-entry__title">Does seeing and reading require a divided mind?</h3>
+  <div class="reflection-entry__takeaway">
+    <span class="takeaway-label">Core Metaphor</span>
+    <span>Diverse sensory modalities share a single unified model through sparse activation without mutual interference.</span>
+  </div>
+  <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
+    <a href="https://commons.wikimedia.org/wiki/File:Rose_Window_of_Sainte-Chapelle_de_Vincennes,_Interior_View_140308_1.jpg" target="_blank" rel="noopener">
+      <img src="/images/philosophy-photos/sparse-unified-models.jpg" alt="A grand stained glass rose window diffusing sunlight into intricate multi-colored facets." />
+    </a>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> A single ray of sunlight diffuses into distinct vibrant colors through stained glass: varied modalities share a common architecture without collision. Photo by DXR via Wikimedia Commons.</figcaption>
+  </figure>
+  
+  <div class="reflection-grid">
+    <div class="reflection-section reflection-section--tech">
+      <div class="reflection-section__badge">🔬 The Technical Question</div>
+      <p>
+        Unified multimodal models aim to process diverse sensory streams—vision, audio, and text—within a single monolithic network, yet forcing varied modalities through identical dense parameters causes severe representational interference. By investigating and harnessing modality-specific parameter sparsity, we find that different senses can naturally share a unified model: activating distinct, specialized neural circuits while drawing upon a shared cognitive foundation.
+      </p>
+    </div>
+    <div class="reflection-section reflection-section--life">
+      <div class="reflection-section__badge">🌿 The Human Reflection</div>
+      <p>
+        We often feel pressured to compartmentalize our lives—treating our creative pursuits, analytical routines, and emotional convictions as if they belonged to entirely separate personas. Yet genuine selfhood does not require fractured division. Just as a unified multimodal network comfortably embraces vision and language through sparse, harmonic pathways, our multifaceted interests can thrive within a single coherent identity, lighting up naturally in response to whatever world we encounter.
+      </p>
+    </div>
+  </div>
+
+  <p class="reflection-entry__thought">A unified mind does not force everything into conformity; it leaves room for different faculties to resonate without collision.</p>
+</article>
+
+<article class="reflection-entry" id="directional-decomposition">
+  <div class="reflection-entry__header">
+    <div class="reflection-entry__badges">
+      <span class="reflection-entry__index">09 / ESSAY</span>
+      <span class="reflection-entry__meta">2026 &middot; Directional Decomposition in Transformers</span>
+    </div>
+    <div class="reflection-entry__header-links" aria-label="Directional Decomposition resources">
+      <a href="/#pub-directional-decomposition">🏠 Publication</a>
+    </div>
+  </div>
+  <h3 class="reflection-entry__title">Which direction are you actually moving in high-dimensional space?</h3>
+  <div class="reflection-entry__takeaway">
+    <span class="takeaway-label">Core Metaphor</span>
+    <span>Decomposing representations separates fundamental trajectory shifts from raw activation magnitude.</span>
+  </div>
+  <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
+    <a href="https://commons.wikimedia.org/wiki/File:Whirling_Southern_Star_Trails_over_ALMA.jpg" target="_blank" rel="noopener">
+      <img src="/images/philosophy-photos/directional-decomposition.jpg" alt="Whirling star trails spinning around the celestial pole over an astronomical observatory." />
+    </a>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Star trails around the celestial pole: amidst sweeping apparent motion, decomposition reveals the singular true axis of rotation. Photo by B. Tafreshi (ESO) via Wikimedia Commons.</figcaption>
+  </figure>
+  
+  <div class="reflection-grid">
+    <div class="reflection-section reflection-section--tech">
+      <div class="reflection-section__badge">🔬 The Technical Question</div>
+      <p>
+        As representations evolve across deep Transformer layers, standard metrics rely on raw Euclidean distance, conflating mere norm inflation with genuine conceptual progression. Directional decomposition disentangles vector magnitude from angular trajectory, revealing that representation evolution is governed by a small number of persistent semantic axes rather than erratic high-dimensional turbulence.
+      </p>
+    </div>
+    <div class="reflection-section reflection-section--life">
+      <div class="reflection-section__badge">🌿 The Human Reflection</div>
+      <p>
+        In modern culture, frantic motion is frequently mistaken for meaningful progress. We exhaust ourselves maintaining momentum without pausing to examine the orientation of our trajectory. Directional decomposition offers a vital anchor: the sheer magnitude of your effort matters little if the underlying angle is drifting. True achievement is not about moving faster; it is about having the discernment to know which principal direction you are truly steering toward.
+      </p>
+    </div>
+  </div>
+
+  <p class="reflection-entry__thought">Magnitude measures the intensity of motion; direction reveals whether you are truly arriving.</p>
+</article>
+
+<article class="reflection-entry" id="moe-compression">
+  <div class="reflection-entry__header">
+    <div class="reflection-entry__badges">
+      <span class="reflection-entry__index">10 / ESSAY</span>
+      <span class="reflection-entry__meta">2025 &middot; Towards Efficient Mixture of Experts: A Holistic Study</span>
+    </div>
+    <div class="reflection-entry__header-links" aria-label="MoE Compression resources">
+      <a href="https://arxiv.org/abs/2406.02500" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="https://github.com/CASE-Lab-UMD/Unified-MoE-Compression" target="_blank" rel="noopener">💻 Code</a>
+      <a href="/#pub-moe-compression">🏠 Publication</a>
+    </div>
+  </div>
+  <h3 class="reflection-entry__title">How much can you compress before losing individuality?</h3>
+  <div class="reflection-entry__takeaway">
+    <span class="takeaway-label">Core Metaphor</span>
+    <span>Distilling expert models reveals the delicate frontier between specialization and compact unity.</span>
+  </div>
+  <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
+    <a href="https://commons.wikimedia.org/wiki/File:Alambique_de_cobre.jpg" target="_blank" rel="noopener">
+      <img src="/images/philosophy-photos/moe-compression.jpg" alt="A copper alembic still apparatus used for the slow, meticulous distillation of pure essence." />
+    </a>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Copper alembic distillation: extracting pure, durable essence from vast raw ingredients. Photo by Rjcastillo via Wikimedia Commons.</figcaption>
+  </figure>
+  
+  <div class="reflection-grid">
+    <div class="reflection-section reflection-section--tech">
+      <div class="reflection-section__badge">🔬 The Technical Question</div>
+      <p>
+        Mixture-of-Experts architectures attain massive parameter capacity by training specialized sub-networks, but their distributed memory footprint creates formidable deployment barriers. By conducting a holistic study across pruning, quantization, expert merging, and knowledge distillation, we mapped the precise trade-off frontier between preserving rare expert specialization and achieving ultra-compact runtime efficiency.
+      </p>
+    </div>
+    <div class="reflection-section reflection-section--life">
+      <div class="reflection-section__badge">🌿 The Human Reflection</div>
+      <p>
+        Over time, we collect countless experiences, roles, and memories. The temptation is to hoard every fragment, fearing that letting go of any piece diminishes who we are. Yet true intellectual maturity is an act of distillation: discerning which core principles define our unique character and condensing them into a compact, durable essence that we can carry lightly into whatever comes next.
+      </p>
+    </div>
+  </div>
+
+  <p class="reflection-entry__thought">Maturity is not the accumulation of every detail, but the distillation of what is essential into something you can carry.</p>
+</article>
+
+<article class="reflection-entry" id="effir">
+  <div class="reflection-entry__header">
+    <div class="reflection-entry__badges">
+      <span class="reflection-entry__index">11 / ESSAY</span>
+      <span class="reflection-entry__meta">2026 &middot; Making Large Language Models Efficient Dense Retrievers</span>
+    </div>
+    <div class="reflection-entry__header-links" aria-label="EffiR resources">
+      <a href="https://arxiv.org/abs/2512.20612" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="https://github.com/Yibin-Lei/EffiR" target="_blank" rel="noopener">💻 Code</a>
+      <a href="/#pub-effir">🏠 Publication</a>
+    </div>
+  </div>
+  <h3 class="reflection-entry__title">Can a generative mind also be a sharp finder?</h3>
+  <div class="reflection-entry__takeaway">
+    <span class="takeaway-label">Core Metaphor</span>
+    <span>Compressing generative representations unlocks high-precision semantic retrieval.</span>
+  </div>
+  <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
+    <a href="https://commons.wikimedia.org/wiki/File:Blue_Grotto_IMG_0203.JPG" target="_blank" rel="noopener">
+      <img src="/images/philosophy-photos/effir.jpg" alt="Beams of sunlight penetrating crystal-clear deep blue grotto waters to illuminate the deep sea floor." />
+    </a>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Light piercing the deep blue abyss: illuminating timeless pearls of meaning buried beneath vast oceans of information. Photo by Deror avi via Wikimedia Commons.</figcaption>
+  </figure>
+  
+  <div class="reflection-grid">
+    <div class="reflection-section reflection-section--tech">
+      <div class="reflection-section__badge">🔬 The Technical Question</div>
+      <p>
+        Large language models excel at autoregressive generation, yet their deep decoder representations are traditionally deemed too heavyweight for ultra-fast dense retrieval. EffiR bridges this divide by distilling deep generative representations into compact retrieval embeddings, proving that the generative reasoning power of foundation models can be harnessed for high-throughput semantic search without sacrificing retrieval fidelity.
+      </p>
+    </div>
+    <div class="reflection-section reflection-section--life">
+      <div class="reflection-section__badge">🌿 The Human Reflection</div>
+      <p>
+        We live in an era overwhelmed by information, where creating new noise is easy but locating deep, timeless truth is increasingly rare. A brilliant mind is not merely one that generates endless commentary; it is one that possesses the discipline to search deeply, filter through the deluge, and retrieve what truly matters. Synthesis and retrieval are twin virtues—before we can create with wisdom, we must first learn how to find with precision.
+      </p>
+    </div>
+  </div>
+
+  <p class="reflection-entry__thought">To create with clarity, one must first master the art of finding what is essential.</p>
+</article>
+
+<article class="reflection-entry" id="sd-conv">
+  <div class="reflection-entry__header">
+    <div class="reflection-entry__badges">
+      <span class="reflection-entry__index">12 / ESSAY</span>
+      <span class="reflection-entry__meta">2023 &middot; SD-Conv: Towards Parameter-Efficiency of Dynamic Convolution</span>
+    </div>
+    <div class="reflection-entry__header-links" aria-label="SD-Conv resources">
+      <a href="https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="/#pub-sd-conv">🏠 Publication</a>
+    </div>
+  </div>
+  <h3 class="reflection-entry__title">How can perception stay nimble without carrying excess weight?</h3>
+  <div class="reflection-entry__takeaway">
+    <span class="takeaway-label">Core Metaphor</span>
+    <span>Dynamic perceptual adaptation requires minimal parameter friction, not monolithic bloat.</span>
+  </div>
+  <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
+    <a href="https://commons.wikimedia.org/wiki/File:Hasselblad_L3D-100c_-_aperture_ar_1to1_PNr%C2%B01261.jpg" target="_blank" rel="noopener">
+      <img src="/images/philosophy-photos/sd-conv.jpg" alt="A precision camera aperture diaphragm with sleek interlocking blades that adjust opening size smoothly." />
+    </a>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Precision aperture diaphragm: adjusting opening and depth of field effortlessly to ever-changing light with minimal mechanical friction. Photo by D-Kuru via Wikimedia Commons.</figcaption>
+  </figure>
+  
+  <div class="reflection-grid">
+    <div class="reflection-section reflection-section--tech">
+      <div class="reflection-section__badge">🔬 The Technical Question</div>
+      <p>
+        Dynamic convolutions dynamically synthesize custom kernel weights for every visual input, but naive implementations incur severe parameter overhead. SD-Conv demonstrates that dynamic adaptability can be achieved with extreme parameter frugality—adjusting perceptual receptive filters on the fly through lightweight decomposition rather than expanding parameter capacity.
+      </p>
+    </div>
+    <div class="reflection-section reflection-section--life">
+      <div class="reflection-section__badge">🌿 The Human Reflection</div>
+      <p>
+        When confronting an unpredictable world, our instinct is to prepare for every contingency by hoarding resources, planning every scenario, and building rigid defensive structures. Yet true adaptability is not about over-preparing; it is about remaining agile. When our core mindset is unburdened by excess baggage, we can adjust our perspective instantaneously to changing light and unfamiliar terrain.
+      </p>
+    </div>
+  </div>
+
+  <p class="reflection-entry__thought">Agility is not having an answer for everything in advance; it is being light enough to adjust in the moment.</p>
 </article>
 
 <div class="philosophy-footer">

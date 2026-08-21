@@ -120,6 +120,7 @@ Selected Publications
 <a class="pub-button" href="https://shwai-he.github.io/SparseUnifiedModel/" target="_blank" rel="noopener">Project</a>
 <a class="pub-button" href="https://openreview.net/forum?id=2mNkOlfJ0z" target="_blank" rel="noopener">Paper</a>
 <a class="pub-button" href="https://github.com/Shwai-He/SparseUnifiedModel" target="_blank" rel="noopener">Code</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#sparse-unified-models">🎼 Story &amp; Reflection</a>
 <details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@article{he2026understanding,
   title={Understanding and Harnessing Sparsity for Unified Multimodal Models},
   author={He, Shwai and Deng, Chaorui and Li, Ang and Yan, Shen},
@@ -146,6 +147,7 @@ Selected Publications
 <div class="pub-item" id="pub-directional-decomposition">
 3. <strong>Shwai He</strong>, Ang Li,
 "<em><strong>Disentangling Representation Evolution in Transformers through Directional Decomposition</strong></em>", Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2026</strong>).
+<a class="pub-button pub-button--reflection" href="/philosophy/#directional-decomposition">🧭 Story &amp; Reflection</a>
 </div>
 
 <div class="pub-item" id="pub-capacity-aware-inference">
@@ -185,6 +187,7 @@ Selected Publications
 <a class="pub-button" href="https://arxiv.org/abs/2512.20612" target="_blank" rel="noopener">Paper</a>
 <a class="pub-button" href="https://github.com/Yibin-Lei/EffiR" target="_blank" rel="noopener">Code</a>
 <a class="pub-button" href="https://huggingface.co/models?search=yibinlei%2Feffir" target="_blank" rel="noopener">Models</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#effir">🌊 Story &amp; Reflection</a>
 <details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{lei2026making,
   title={Making Large Language Models Efficient Dense Retrievers},
   author={Lei, Yibin and He, Shwai and Li, Ang and Yates, Andrew},
@@ -213,6 +216,7 @@ Selected Publications
 "<em><strong>Towards Efficient Mixture of Experts: A Holistic Study of Compression Techniques</strong></em>", Transactions on Machine Learning Research (<strong>TMLR</strong>).
 <a class="pub-button" href="https://arxiv.org/abs/2406.02500" target="_blank" rel="noopener">Paper</a>
 <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Unified-MoE-Compression" target="_blank" rel="noopener">Code</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#moe-compression">🧪 Story &amp; Reflection</a>
 <details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@article{he2025towards,
   title={Towards Efficient Mixture of Experts: A Holistic Study of Compression Techniques},
   author={He, Shwai and Dong, Daize and Ding, Liang and Li, Ang},
@@ -267,6 +271,7 @@ Selected Publications
 12. <strong>Shwai He</strong>, Chenbo Jiang, Daize Dong, Liang Ding,
 "<em><strong>SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution</strong></em>", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (<strong>WACV 2023</strong>).
 <a class="pub-button" href="https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf" target="_blank" rel="noopener">Paper</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#sd-conv">📷 Story &amp; Reflection</a>
 <details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2023sdconv,
   title={SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution},
   author={He, Shwai and Jiang, Chenbo and Dong, Daize and Ding, Liang},
