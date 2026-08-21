@@ -24,29 +24,29 @@ I further explore system- and hardware-aware techniques that make these advances
 News
 ======
 * \[08/2026\]: [CoIn](#pub-coin) was accepted to [EMNLP 2026](https://2026.emnlp.org/).
-* \[08/2026\]: [Understanding and Harnessing Sparsity for Unified Multimodal Models](#pub-sparse-unified-models) was accepted by [TMLR](https://jmlr.org/tmlr/).
-* \[08/2026\]: [Dense Video Understanding with Inter-tokenization Acceleration](#pub-dense-video) was accepted to [ECCV 2026](https://eccv.ecva.net/).
-* \[04/2026\]: [Demystifying When Pruning Works](#pub-demystifying-pruning) + [DualSparse-MoE](#pub-dualsparse-moe) accepted at [ICML 2026](https://icml.cc/).
-* \[04/2026\]: 📜 Received the **Certificate of Outstanding Achievement** from UMD CS (2025–2026).
-* \[04/2026\]: [Making LLMs Efficient Dense Retrievers](#pub-effir) was accepted to [ACL 2026](https://2026.aclweb.org/).
-* \[01/2026\]: [Capacity-Aware Inference](#pub-capacity-aware-inference) was accepted to [ICLR 2026](https://iclr.cc/).
+* \[08/2026\]: [Unified Multimodal Sparsity](#pub-sparse-unified-models) was accepted by [TMLR](https://jmlr.org/tmlr/).
+* \[08/2026\]: [Dense Video Understanding](#pub-dense-video) was accepted to [ECCV 2026](https://eccv.ecva.net/).
+* \[04/2026\]: [Demystifying Pruning](#pub-demystifying-pruning) and [DualSparse-MoE](#pub-dualsparse-moe) were accepted to [ICML 2026](https://icml.cc/).
+* \[04/2026\]: 📜 Received the **Certificate of Outstanding Achievement** from UMD CS.
+* \[04/2026\]: [EffiR](#pub-effir) was accepted to [ACL 2026](https://2026.aclweb.org/).
+* \[01/2026\]: [Capacity-Aware MoE](#pub-capacity-aware-inference) was accepted to [ICLR 2026](https://iclr.cc/).
 * \[01/2026\]: [Attention Drop](#pub-attention-drop) was accepted by [TMLR](https://jmlr.org/tmlr/).
-* \[08/2025\]: [Router-Tuning](#pub-router-tuning) was accepted at [EMNLP 2025](https://2025.emnlp.org/).
-* \[05/2025\]: 🏆 Awarded the [Qualcomm Innovation Fellowship (QIF)](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america) North America for the proposal *“Less Attention, Much Faster: Toward a Future of Efficiency-Optimized Transformer Architectures.”*
-* \[03/2025\]: [Our holistic study of MoE compression](#pub-moe-compression) was accepted by [TMLR](https://jmlr.org/tmlr/).
+* \[08/2025\]: [Router-Tuning](#pub-router-tuning) was accepted to [EMNLP 2025](https://2025.emnlp.org/).
+* \[05/2025\]: 🏆 Awarded the [Qualcomm Innovation Fellowship (QIF)](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america) North America.
+* \[03/2025\]: [MoE Compression](#pub-moe-compression) was accepted by [TMLR](https://jmlr.org/tmlr/).
 
 <details class="news-more">
   <summary>Show earlier news (2022 &ndash; 2024)...</summary>
   <div class="news-more__content">
     <ul>
       <li>[09/2024]: Two papers accepted: (1) Efficient Attention at <a href="https://neurips.cc/" target="_blank" rel="noopener">NeurIPS 2024</a>, and (2) Reformat Alignment at <a href="https://2024.emnlp.org/" target="_blank" rel="noopener">EMNLP 2024</a>.</li>
-      <li>[10/2023]: <a href="#pub-meo">Merging Experts into One</a> was accepted by <a href="https://2023.emnlp.org/" target="_blank" rel="noopener">EMNLP 2023 (Oral)</a>.</li>
-      <li>[05/2023]: <a href="#pub-pad-net">PAD-Net</a> was accepted by <a href="https://2023.aclweb.org/" target="_blank" rel="noopener">ACL 2023</a>.</li>
-      <li>[04/2023]: <a href="#pub-neuralslice">NeuralSlice</a> was accepted by <a href="https://icml.cc/" target="_blank" rel="noopener">ICML 2023</a>.</li>
-      <li>[10/2022]: <a href="#pub-sparseadapter">SparseAdapter</a> was accepted by <a href="https://2022.emnlp.org/" target="_blank" rel="noopener">EMNLP 2022</a>.</li>
-      <li>[08/2022]: <a href="#pub-sd-conv">SD-Conv</a> was accepted by <a href="https://wacv2023.thecvf.com/" target="_blank" rel="noopener">WACV 2023</a>.</li>
-      <li>[07/2022]: 🏆 Ranked 1st (Chinese&hArr;English, German&hArr;English, Czech&hArr;English, English&rArr;Russian), 2nd (Russian&rArr;English, Japanese&rArr;English), and 3rd (English&rArr;Japanese) in the General Translation Task at <a href="https://statmt.org/wmt22/translation-task.html" target="_blank" rel="noopener">WMT 2022</a>.</li>
-      <li>[01/2022]: One paper was accepted by <a href="https://aaai-kdf.github.io/kdf2022/" target="_blank" rel="noopener">AAAI-22 KDF</a>.</li>
+      <li>[10/2023]: <a href="#pub-meo">MEO</a> was accepted to <a href="https://2023.emnlp.org/" target="_blank" rel="noopener">EMNLP 2023 (Oral)</a>.</li>
+      <li>[05/2023]: <a href="#pub-pad-net">PAD-Net</a> was accepted to <a href="https://2023.aclweb.org/" target="_blank" rel="noopener">ACL 2023</a>.</li>
+      <li>[04/2023]: <a href="#pub-neuralslice">NeuralSlice</a> was accepted to <a href="https://icml.cc/" target="_blank" rel="noopener">ICML 2023</a>.</li>
+      <li>[10/2022]: <a href="#pub-sparseadapter">SparseAdapter</a> was accepted to <a href="https://2022.emnlp.org/" target="_blank" rel="noopener">EMNLP 2022</a>.</li>
+      <li>[08/2022]: <a href="#pub-sd-conv">SD-Conv</a> was accepted to <a href="https://wacv2023.thecvf.com/" target="_blank" rel="noopener">WACV 2023</a>.</li>
+      <li>[07/2022]: 🏆 Ranked 1st in 4 tracks and top-3 in 7 tracks at <a href="https://statmt.org/wmt22/translation-task.html" target="_blank" rel="noopener">WMT 2022</a>.</li>
+      <li>[01/2022]: <a href="#pub-kdf22">Multi-modal Stock Prediction</a> was accepted by <a href="https://aaai-kdf.github.io/kdf2022/" target="_blank" rel="noopener">AAAI-22 KDF</a>.</li>
     </ul>
   </div>
 </details>
