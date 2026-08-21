@@ -5,29 +5,75 @@ excerpt: "Ideas and questions beyond the papers"
 author_profile: true
 ---
 
-<p class="reflection-intro">
-Some of my research begins with a technical question and gradually reveals a more personal one. These reflections trace the ideas behind the papers: what their questions have come to mean to me beyond the experiments themselves.
-</p>
+<div class="philosophy-hero">
+  <div class="philosophy-hero__badge">✨ ESSAYS &middot; 7 PERSPECTIVES</div>
+  <h2 class="philosophy-hero__title">Where Technical Curiosity Meets Personal Reflection</h2>
+  <p class="philosophy-hero__desc">
+    Some research begins with a technical question and gradually reveals a more personal one. These essays trace the ideas behind the papers: what model pruning, dynamic routing, parameter sparsity, and capacity bounds teach us about patience, depth, resilience, and living.
+  </p>
+  <div class="philosophy-hero__tags">
+    <span class="philosophy-tag">🧠 Representation Geometry</span>
+    <span class="philosophy-tag">⚡ Adaptive Computation</span>
+    <span class="philosophy-tag">🌱 Research Philosophy</span>
+    <span class="philosophy-tag">⏱️ ~3 min per essay</span>
+  </div>
+</div>
 
 <div class="philosophy-nav">
-  <span class="philosophy-nav__label">Reflections:</span>
-  <a href="#demystifying-pruning" class="philosophy-nav__pill">🌱 Roots & Structure</a>
-  <a href="#attention-drop" class="philosophy-nav__pill">🌬️ Letting Go</a>
-  <a href="#capacity-aware" class="philosophy-nav__pill">🎒 Releasing the Load</a>
-  <a href="#router-tuning" class="philosophy-nav__pill">🔍 Selective Depth</a>
-  <a href="#pad-net" class="philosophy-nav__pill">🌳 Steady Core</a>
-  <a href="#meo" class="philosophy-nav__pill">💡 Serendipity & Error</a>
-  <a href="#sparse-adapter" class="philosophy-nav__pill">🏛️ Space & Possibility</a>
+  <div class="philosophy-nav__header">
+    <span class="philosophy-nav__title">Explore Reflections</span>
+    <span class="philosophy-nav__hint">Jump to an essay ↓</span>
+  </div>
+  <div class="philosophy-nav__pills">
+    <a href="#demystifying-pruning" class="philosophy-nav__pill">
+      <span class="pill-icon">🌱</span>
+      <span class="pill-text">Roots &amp; Structure</span>
+      <span class="pill-sub">Capacity</span>
+    </a>
+    <a href="#attention-drop" class="philosophy-nav__pill">
+      <span class="pill-icon">🌬️</span>
+      <span class="pill-text">Letting Go</span>
+      <span class="pill-sub">Redundancy</span>
+    </a>
+    <a href="#capacity-aware" class="philosophy-nav__pill">
+      <span class="pill-icon">🎒</span>
+      <span class="pill-text">Releasing the Load</span>
+      <span class="pill-sub">Stragglers</span>
+    </a>
+    <a href="#router-tuning" class="philosophy-nav__pill">
+      <span class="pill-icon">🔍</span>
+      <span class="pill-text">Selective Depth</span>
+      <span class="pill-sub">Routing</span>
+    </a>
+    <a href="#pad-net" class="philosophy-nav__pill">
+      <span class="pill-icon">🌳</span>
+      <span class="pill-text">Steady Core</span>
+      <span class="pill-sub">Adaptability</span>
+    </a>
+    <a href="#meo" class="philosophy-nav__pill">
+      <span class="pill-icon">💡</span>
+      <span class="pill-text">Serendipity &amp; Error</span>
+      <span class="pill-sub">Discovery</span>
+    </a>
+    <a href="#sparse-adapter" class="philosophy-nav__pill">
+      <span class="pill-icon">🏛️</span>
+      <span class="pill-text">Space &amp; Possibility</span>
+      <span class="pill-sub">Sparsity</span>
+    </a>
+  </div>
 </div>
 
 <article class="reflection-entry" id="demystifying-pruning">
   <div class="reflection-entry__header">
-    <div class="reflection-entry__meta">2026 &middot; Demystifying When Pruning Works</div>
+    <div class="reflection-entry__badges">
+      <span class="reflection-entry__index">01 / ESSAY</span>
+      <span class="reflection-entry__meta">2026 &middot; Demystifying When Pruning Works</span>
+    </div>
     <div class="reflection-entry__header-links" aria-label="Demystifying When Pruning Works resources">
-      <a href="https://arxiv.org/abs/2603.24652" target="_blank" rel="noopener">Paper</a>
-      <a href="https://github.com/CASE-Lab-UMD/Pruning-on-Representations" target="_blank" rel="noopener">Code</a>
-      <a href="https://case-lab-umd.github.io/Pruning-on-Representations/" target="_blank" rel="noopener">Project</a>
-      <a href="/#pub-demystifying-pruning">Homepage</a>
+      <a href="https://arxiv.org/abs/2603.24652" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="https://github.com/CASE-Lab-UMD/Pruning-on-Representations" target="_blank" rel="noopener">💻 Code</a>
+      <a href="https://case-lab-umd.github.io/Pruning-on-Representations/" target="_blank" rel="noopener">🌐 Project</a>
+      <a href="/#pub-demystifying-pruning">🏠 Publication</a>
     </div>
   </div>
   <h3 class="reflection-entry__title">What remains when the visible structure changes?</h3>
@@ -35,7 +81,7 @@ Some of my research begins with a technical question and gradually reveals a mor
     <a href="https://unsplash.com/photos/tree-roots-on-rock-formation-hW11fwjzVfA" target="_blank" rel="noopener">
       <img src="/images/philosophy-photos/demystifying-pruning.jpg" alt="Strong tree roots spreading across a rock formation." />
     </a>
-    <figcaption><span class="reflection-figure__kind">Philosophical view</span> What is visible may change while the roots continue to hold. Photo by Zach Reiner on Unsplash.</figcaption>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> What is visible may change while the roots continue to hold. Photo by Zach Reiner on Unsplash.</figcaption>
   </figure>
   <p>
     Pruning removes parameters and can sharply alter a model's output behavior, yet analyzing the hierarchy of its representations reveals that its core geometric capacity often remains intact. To understand a network, it is not enough to measure only what has been stripped away; we must investigate what has been preserved, and at which layer of abstraction its true essence resides.
@@ -48,12 +94,15 @@ Some of my research begins with a technical question and gradually reveals a mor
 
 <article class="reflection-entry" id="attention-drop">
   <div class="reflection-entry__header">
-    <div class="reflection-entry__meta">2026 &middot; Attention Drop</div>
+    <div class="reflection-entry__badges">
+      <span class="reflection-entry__index">02 / ESSAY</span>
+      <span class="reflection-entry__meta">2026 &middot; Attention Drop</span>
+    </div>
     <div class="reflection-entry__header-links" aria-label="Attention Drop resources">
-      <a href="https://openreview.net/forum?id=1I7PCbOPfe" target="_blank" rel="noopener">Paper</a>
-      <a href="https://github.com/CASE-Lab-UMD/LLM-Drop" target="_blank" rel="noopener">Code</a>
-      <a href="https://case-lab-umd.github.io/LLM-Drop/" target="_blank" rel="noopener">Project</a>
-      <a href="/#pub-attention-drop">Homepage</a>
+      <a href="https://openreview.net/forum?id=1I7PCbOPfe" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="https://github.com/CASE-Lab-UMD/LLM-Drop" target="_blank" rel="noopener">💻 Code</a>
+      <a href="https://case-lab-umd.github.io/LLM-Drop/" target="_blank" rel="noopener">🌐 Project</a>
+      <a href="/#pub-attention-drop">🏠 Publication</a>
     </div>
   </div>
   <h3 class="reflection-entry__title">What can be dropped without losing what matters?</h3>
@@ -61,7 +110,7 @@ Some of my research begins with a technical question and gradually reveals a mor
     <a href="https://unsplash.com/photos/a-dandelion-is-blowing-in-the-wind-6c4Ld8swF10" target="_blank" rel="noopener">
       <img src="/images/philosophy-photos/attention-drop.jpg" alt="A dandelion releasing its seeds into the wind." />
     </a>
-    <figcaption><span class="reflection-figure__kind">Philosophical view</span> Letting go does not erase what is ready to travel further. Photo by Alex Gruber on Unsplash.</figcaption>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Letting go does not erase what is ready to travel further. Photo by Alex Gruber on Unsplash.</figcaption>
   </figure>
   <p>
     Attention Drop explores how much of a Transformer's architecture can be discarded without eroding the capabilities that define it. Attention and MLP layers do not contribute equally across the network, and selectively dropping redundant components leaves the model's core intelligence surprisingly intact. Preserving essence does not require preserving everything.
@@ -74,12 +123,15 @@ Some of my research begins with a technical question and gradually reveals a mor
 
 <article class="reflection-entry" id="capacity-aware">
   <div class="reflection-entry__header">
-    <div class="reflection-entry__meta">2025 &middot; Capacity-Aware Inference</div>
+    <div class="reflection-entry__badges">
+      <span class="reflection-entry__index">03 / ESSAY</span>
+      <span class="reflection-entry__meta">2025 &middot; Capacity-Aware Inference</span>
+    </div>
     <div class="reflection-entry__header-links" aria-label="Capacity-Aware Inference resources">
-      <a href="https://arxiv.org/abs/2503.05066" target="_blank" rel="noopener">Paper</a>
-      <a href="https://github.com/CASE-Lab-UMD/Capacity-Aware-MoE" target="_blank" rel="noopener">Code</a>
-      <a href="https://case-lab-umd.github.io/Capacity-Aware-MoE/" target="_blank" rel="noopener">Project</a>
-      <a href="/#pub-capacity-aware-inference">Homepage</a>
+      <a href="https://arxiv.org/abs/2503.05066" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="https://github.com/CASE-Lab-UMD/Capacity-Aware-MoE" target="_blank" rel="noopener">💻 Code</a>
+      <a href="https://case-lab-umd.github.io/Capacity-Aware-MoE/" target="_blank" rel="noopener">🌐 Project</a>
+      <a href="/#pub-capacity-aware-inference">🏠 Publication</a>
     </div>
   </div>
   <h3 class="reflection-entry__title">What must be released for the whole to move?</h3>
@@ -87,7 +139,7 @@ Some of my research begins with a technical question and gradually reveals a mor
     <a href="https://unsplash.com/photos/backpack-and-hiking-poles-rest-on-a-grassy-hillside-tEB8eg1nZvg" target="_blank" rel="noopener">
       <img src="/images/philosophy-photos/capacity-aware.jpg" alt="A backpack and hiking poles resting on an open hillside." />
     </a>
-    <figcaption><span class="reflection-figure__kind">Philosophical view</span> Sometimes movement begins by setting the load down. Photo by Jimmy Liu on Unsplash.</figcaption>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Sometimes movement begins by setting the load down. Photo by Jimmy Liu on Unsplash.</figcaption>
   </figure>
   <p>
     Mixture-of-Experts architectures achieve efficiency through conditional computation, yet unbalanced routing frequently overloads a handful of experts, forcing the entire distributed fleet to stall behind stragglers. Capacity-Aware Inference enforces explicit bounds on expert workload—dropping or reallocating excess tokens so that the collective system regains fluent throughput without requiring expensive retraining.
@@ -100,12 +152,15 @@ Some of my research begins with a technical question and gradually reveals a mor
 
 <article class="reflection-entry" id="router-tuning">
   <div class="reflection-entry__header">
-    <div class="reflection-entry__meta">2025 &middot; Router-Tuning</div>
+    <div class="reflection-entry__badges">
+      <span class="reflection-entry__index">04 / ESSAY</span>
+      <span class="reflection-entry__meta">2025 &middot; Router-Tuning</span>
+    </div>
     <div class="reflection-entry__header-links" aria-label="Router-Tuning resources">
-      <a href="https://aclanthology.org/2025.emnlp-main.99/" target="_blank" rel="noopener">Paper</a>
-      <a href="https://github.com/CASE-Lab-UMD/Router-Tuning-Mixture-of-Depths" target="_blank" rel="noopener">Code</a>
-      <a href="https://case-lab-umd.github.io/Router-Tuning-Mixture-of-Depths/" target="_blank" rel="noopener">Project</a>
-      <a href="/#pub-router-tuning">Homepage</a>
+      <a href="https://aclanthology.org/2025.emnlp-main.99/" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="https://github.com/CASE-Lab-UMD/Router-Tuning-Mixture-of-Depths" target="_blank" rel="noopener">💻 Code</a>
+      <a href="https://case-lab-umd.github.io/Router-Tuning-Mixture-of-Depths/" target="_blank" rel="noopener">🌐 Project</a>
+      <a href="/#pub-router-tuning">🏠 Publication</a>
     </div>
   </div>
   <h3 class="reflection-entry__title">Does everything deserve the same depth?</h3>
@@ -113,7 +168,7 @@ Some of my research begins with a technical question and gradually reveals a mor
     <a href="https://unsplash.com/photos/magnifying-glass-focuses-on-a-dictionary-page-2C8_YqfxS5w" target="_blank" rel="noopener">
       <img src="/images/philosophy-photos/router-tuning-v4.jpg" alt="A magnifying glass bringing one region of a dictionary page into sharper focus." />
     </a>
-    <figcaption><span class="reflection-figure__kind">Philosophical view</span> Depth becomes meaningful when we choose what deserves closer attention. Photo by Joachim Schnurle on Unsplash.</figcaption>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Depth becomes meaningful when we choose what deserves closer attention. Photo by Joachim Schnurle on Unsplash.</figcaption>
   </figure>
   <p>
     Standard Transformers push every input token through the uniform depth of all layers, regardless of how simple or complex the token may be. Router-Tuning transforms depth from a rigid default into an intentional decision by training only lightweight routing mechanisms. It dynamically allocates computational depth to difficult tokens while allowing straightforward ones to pass through swiftly.
@@ -126,11 +181,14 @@ Some of my research begins with a technical question and gradually reveals a mor
 
 <article class="reflection-entry" id="pad-net">
   <div class="reflection-entry__header">
-    <div class="reflection-entry__meta">2023 &middot; PAD-Net</div>
+    <div class="reflection-entry__badges">
+      <span class="reflection-entry__index">05 / ESSAY</span>
+      <span class="reflection-entry__meta">2023 &middot; PAD-Net</span>
+    </div>
     <div class="reflection-entry__header-links" aria-label="PAD-Net resources">
-      <a href="https://aclanthology.org/2023.acl-long.803/" target="_blank" rel="noopener">Paper</a>
-      <a href="https://github.com/Shwai-He/PAD-Net" target="_blank" rel="noopener">Code</a>
-      <a href="/#pub-pad-net">Homepage</a>
+      <a href="https://aclanthology.org/2023.acl-long.803/" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="https://github.com/Shwai-He/PAD-Net" target="_blank" rel="noopener">💻 Code</a>
+      <a href="/#pub-pad-net">🏠 Publication</a>
     </div>
   </div>
   <h3 class="reflection-entry__title">Must every part of us adapt?</h3>
@@ -138,7 +196,7 @@ Some of my research begins with a technical question and gradually reveals a mor
     <a href="https://unsplash.com/photos/large-tree-with-branches-spreading-wide-Ie0g-EhFybc" target="_blank" rel="noopener">
       <img src="/images/philosophy-photos/pad-net-v3.jpg" alt="A large tree with a strong central trunk and many spreading outer branches." />
     </a>
-    <figcaption><span class="reflection-figure__kind">Philosophical view</span> A stable core can support many outward paths of adaptation. Photo by James Coleman on Unsplash.</figcaption>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> A stable core can support many outward paths of adaptation. Photo by James Coleman on Unsplash.</figcaption>
   </figure>
   <p>
     Dynamic neural networks adapt their parameters to each input, yet making every weight dynamic incurs immense parameter redundancy and operational overhead. PAD-Net decouples what genuinely needs to respond from what can remain constant. By preserving dynamism only in crucial sub-modules while fixing the rest, it retains adaptive agility without destabilizing the network's foundational parameters.
@@ -151,11 +209,14 @@ Some of my research begins with a technical question and gradually reveals a mor
 
 <article class="reflection-entry" id="meo">
   <div class="reflection-entry__header">
-    <div class="reflection-entry__meta">2023 &middot; From PAD-Net to MEO</div>
+    <div class="reflection-entry__badges">
+      <span class="reflection-entry__index">06 / ESSAY</span>
+      <span class="reflection-entry__meta">2023 &middot; From PAD-Net to MEO</span>
+    </div>
     <div class="reflection-entry__header-links" aria-label="MEO resources">
-      <a href="https://aclanthology.org/2023.emnlp-main.907/" target="_blank" rel="noopener">Paper</a>
-      <a href="https://github.com/Shwai-He/MEO" target="_blank" rel="noopener">Code</a>
-      <a href="/#pub-meo">Homepage</a>
+      <a href="https://aclanthology.org/2023.emnlp-main.907/" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="https://github.com/Shwai-He/MEO" target="_blank" rel="noopener">💻 Code</a>
+      <a href="/#pub-meo">🏠 Publication</a>
     </div>
   </div>
   <h3 class="reflection-entry__title">What if a mistake reveals another path?</h3>
@@ -163,7 +224,7 @@ Some of my research begins with a technical question and gradually reveals a mor
     <a href="https://www.pexels.com/photo/drawings-and-writings-on-a-chalkboard-8471813/" target="_blank" rel="noopener">
       <img src="/images/philosophy-photos/meo-blackboard.jpg" alt="A research chalkboard covered with revised, erased, and overlapping formulas and diagrams." />
     </a>
-    <figcaption><span class="reflection-figure__kind">Philosophical view</span> A discarded line of reasoning can leave behind the structure of another idea. Photo by MART PRODUCTION on Pexels.</figcaption>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> A discarded line of reasoning can leave behind the structure of another idea. Photo by MART PRODUCTION on Pexels.</figcaption>
   </figure>
   <p>
     MEO originated from a serendipitous mistake. While building the theoretical formulation following PAD-Net, I accidentally reversed the algebraic order of summation and multiplication in the expert routing computation. What initially looked like an erroneous equation unveiled an entirely new operational paradigm: merge the selected experts into a unified weight matrix first, then execute a single matrix multiplication. The computational destination remained equivalent, but the inverted sequence unlocked an order-of-magnitude leap in execution efficiency.
@@ -176,11 +237,14 @@ Some of my research begins with a technical question and gradually reveals a mor
 
 <article class="reflection-entry" id="sparse-adapter">
   <div class="reflection-entry__header">
-    <div class="reflection-entry__meta">2022 &middot; SparseAdapter</div>
+    <div class="reflection-entry__badges">
+      <span class="reflection-entry__index">07 / ESSAY</span>
+      <span class="reflection-entry__meta">2022 &middot; SparseAdapter</span>
+    </div>
     <div class="reflection-entry__header-links" aria-label="SparseAdapter resources">
-      <a href="https://aclanthology.org/2022.findings-emnlp.160/" target="_blank" rel="noopener">Paper</a>
-      <a href="https://github.com/Shwai-He/SparseAdapter" target="_blank" rel="noopener">Code</a>
-      <a href="/#pub-sparseadapter">Homepage</a>
+      <a href="https://aclanthology.org/2022.findings-emnlp.160/" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="https://github.com/Shwai-He/SparseAdapter" target="_blank" rel="noopener">💻 Code</a>
+      <a href="/#pub-sparseadapter">🏠 Publication</a>
     </div>
   </div>
   <h3 class="reflection-entry__title">Can emptiness make room for something larger?</h3>
@@ -188,7 +252,7 @@ Some of my research begins with a technical question and gradually reveals a mor
     <a href="https://unsplash.com/photos/minimalist-architecture-with-clean-lines-against-sky-BdeFclXOQ2Y" target="_blank" rel="noopener">
       <img src="/images/philosophy-photos/sparse-adapter-v2.jpg" alt="Minimal architectural forms separated by a large field of open sky." />
     </a>
-    <figcaption><span class="reflection-figure__kind">Philosophical view</span> Structure gains presence when it leaves room around itself. Photo by Harrison Lin on Unsplash.</figcaption>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Structure gains presence when it leaves room around itself. Photo by Harrison Lin on Unsplash.</figcaption>
   </figure>
   <p>
     SparseAdapter challenges the conventional assumption that parameter efficiency demands uniformly downscaled, dense bottlenecks. Its Large-Sparse architecture projects representations into a much wider dimensional space while constraining connectivity through extreme sparsity. Under an identical parameter budget, intentional voids between neurons provide significantly richer representational expressiveness than densely packing a constricted space.

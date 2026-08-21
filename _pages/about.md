@@ -134,7 +134,7 @@ Selected Publications
 <a class="pub-button" href="https://case-lab-umd.github.io/Pruning-on-Representations/" target="_blank" rel="noopener">Project</a>
 <a class="pub-button" href="https://arxiv.org/abs/2603.24652" target="_blank" rel="noopener">Paper</a>
 <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Pruning-on-Representations" target="_blank" rel="noopener">Code</a>
-<a class="pub-button pub-button--reflection" href="/philosophy/#demystifying-pruning">💭 Reflection</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#demystifying-pruning">🌱 Story &amp; Reflection</a>
 <details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2026demystifying,
   title={Demystifying When Pruning Works via Representation Hierarchies},
   author={He, Shwai and Sun, Guoheng and Zhang, Haichao and Fu, Yun and Li, Ang},
@@ -154,7 +154,7 @@ Selected Publications
 <a class="pub-button" href="https://case-lab-umd.github.io/Capacity-Aware-MoE/" target="_blank" rel="noopener">Project</a>
 <a class="pub-button" href="https://arxiv.org/abs/2503.05066" target="_blank" rel="noopener">Paper</a>
 <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Capacity-Aware-MoE" target="_blank" rel="noopener">Code</a>
-<a class="pub-button pub-button--reflection" href="/philosophy/#capacity-aware">💭 Reflection</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#capacity-aware">🎒 Story &amp; Reflection</a>
 <details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2026capacity,
   title={Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts},
   author={He, Shwai and Cai, Weilin and Huang, Jiayi and Li, Ang},
@@ -170,7 +170,7 @@ Selected Publications
 <a class="pub-button" href="https://openreview.net/forum?id=1I7PCbOPfe" target="_blank" rel="noopener">Paper</a>
 <a class="pub-button" href="https://github.com/CASE-Lab-UMD/LLM-Drop" target="_blank" rel="noopener">Code</a>
 <a class="pub-button" href="https://huggingface.co/LLM-Drop" target="_blank" rel="noopener">HF</a>
-<a class="pub-button pub-button--reflection" href="/philosophy/#attention-drop">💭 Reflection</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#attention-drop">🌬️ Story &amp; Reflection</a>
 <details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@article{he2026uncovering,
   title={Uncovering the Redundancy in Transformers via a Unified Study of Layer Dropping},
   author={He, Shwai and Sun, Guoheng and Shen, Zheyu and Li, Ang},
@@ -199,7 +199,7 @@ Selected Publications
 <a class="pub-button" href="https://case-lab-umd.github.io/Router-Tuning-Mixture-of-Depths/" target="_blank" rel="noopener">Project</a>
 <a class="pub-button" href="https://aclanthology.org/2025.emnlp-main.99/" target="_blank" rel="noopener">Paper</a>
 <a class="pub-button" href="https://github.com/CASE-Lab-UMD/Router-Tuning-Mixture-of-Depths" target="_blank" rel="noopener">Code</a>
-<a class="pub-button pub-button--reflection" href="/philosophy/#router-tuning">💭 Reflection</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#router-tuning">🔍 Story &amp; Reflection</a>
 <details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2025router,
   title={Router-Tuning: A Simple and Effective Approach for Dynamic Depth},
   author={He, Shwai and Ge, Tao and Sun, Guoheng and Tian, Bowei and Wang, Xiaoyang and Yu, Dong},
@@ -226,7 +226,7 @@ Selected Publications
 "<em><strong>Merging Experts into One: Improving Computational Efficiency of Mixture of Experts</strong></em>", Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2023 Oral</strong>).
 <a class="pub-button" href="https://aclanthology.org/2023.emnlp-main.907/" target="_blank" rel="noopener">Paper</a>
 <a class="pub-button" href="https://github.com/Shwai-He/MEO" target="_blank" rel="noopener">Code</a>
-<a class="pub-button pub-button--reflection" href="/philosophy/#meo">💭 Reflection</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#meo">💡 Story &amp; Reflection</a>
 <details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2023merging,
   title={Merging Experts into One: Improving Computational Efficiency of Mixture of Experts},
   author={He, Shwai and Fan, Run-Ze and Ding, Liang and Shen, Li and Zhou, Tianyi and Tao, Dacheng},
@@ -240,7 +240,7 @@ Selected Publications
 "<em><strong>PAD-Net: An Efficient Framework for Dynamic Networks</strong></em>", Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (<strong>ACL 2023</strong>).
 <a class="pub-button" href="https://aclanthology.org/2023.acl-long.803.pdf" target="_blank" rel="noopener">Paper</a>
 <a class="pub-button" href="https://github.com/Shwai-He/PAD-Net" target="_blank" rel="noopener">Code</a>
-<a class="pub-button pub-button--reflection" href="/philosophy/#pad-net">💭 Reflection</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#pad-net">🌳 Story &amp; Reflection</a>
 <details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2023pad,
   title={PAD-Net: An Efficient Framework for Dynamic Networks},
   author={He, Shwai and Ding, Liang and Dong, Daize and Liu, Boan and Yu, Fuqiang and Tao, Dacheng},
@@ -254,7 +254,7 @@ Selected Publications
 "<em><strong>SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters</strong></em>", Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2022</strong>).
 <a class="pub-button" href="https://aclanthology.org/2022.findings-emnlp.160/" target="_blank" rel="noopener">Paper</a>
 <a class="pub-button" href="https://github.com/Shwai-He/SparseAdapter" target="_blank" rel="noopener">Code</a>
-<a class="pub-button pub-button--reflection" href="/philosophy/#sparse-adapter">💭 Reflection</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#sparse-adapter">🏛️ Story &amp; Reflection</a>
 <details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2022sparseadapter,
   title={SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters},
   author={He, Shwai and Ding, Liang and Dong, Daize and Zhang, Miao and Tao, Dacheng},
