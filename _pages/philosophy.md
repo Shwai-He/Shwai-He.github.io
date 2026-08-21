@@ -82,10 +82,10 @@ author_profile: true
     <span>Pruned parameters alter outward form, but the geometric representation capacity endures.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://unsplash.com/photos/tree-roots-on-rock-formation-hW11fwjzVfA" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/demystifying-pruning.jpg" alt="Strong tree roots spreading across a rock formation." />
+    <a href="https://commons.wikimedia.org/wiki/File:%27Atlas_Slave%27_by_Michelangelo_-_JBU_02.jpg" target="_blank" rel="noopener">
+      <img src="/images/philosophy-photos/demystifying-pruning.jpg" alt="Michelangelo's Atlas Slave sculpture emerging from raw, uncarved marble stone." />
     </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> What is visible may change while the roots continue to hold. Photo by Zach Reiner on Unsplash.</figcaption>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Form emerges by removing what is excess: Michelangelo's <em>Atlas Slave (Non-finito)</em> at the Galleria dell'Accademia, Florence. Photo by Jörg Bittner Unna via Wikimedia Commons.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -125,10 +125,10 @@ author_profile: true
     <span>Selective layer dropping proves intelligence does not require retaining all baggage.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://unsplash.com/photos/a-dandelion-is-blowing-in-the-wind-6c4Ld8swF10" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/attention-drop.jpg" alt="A dandelion releasing its seeds into the wind." />
+    <a href="https://commons.wikimedia.org/wiki/File:Blowing_the_seeds_off_(Unsplash).jpg" target="_blank" rel="noopener">
+      <img src="/images/philosophy-photos/attention-drop.jpg" alt="Dandelion seeds gently releasing and floating into golden light." />
     </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Letting go does not erase what is ready to travel further. Photo by Alex Gruber on Unsplash.</figcaption>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Letting go releases what is ready to travel on the wind. Photo by Smile Su via Wikimedia Commons.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -168,10 +168,10 @@ author_profile: true
     <span>Balancing token workloads prevents straggler bottlenecks across distributed fleets.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://unsplash.com/photos/backpack-and-hiking-poles-rest-on-a-grassy-hillside-tEB8eg1nZvg" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/capacity-aware.jpg" alt="A backpack and hiking poles resting on an open hillside." />
+    <a href="https://commons.wikimedia.org/wiki/File:Head_of_charles_eb1.JPG" target="_blank" rel="noopener">
+      <img src="/images/philosophy-photos/capacity-aware.jpg" alt="Eight-person rowing crew in perfect harmonic synchronization on the river." />
     </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Sometimes movement begins by setting the load down. Photo by Jimmy Liu on Unsplash.</figcaption>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Synchronized balance in a racing eight: velocity demands that no single oar carries an overloaded bottleneck. Photo by Fcb981 via Wikimedia Commons.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -211,10 +211,10 @@ author_profile: true
     <span>Calibrated routing allocates computational depth only where complexity demands it.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://unsplash.com/photos/magnifying-glass-focuses-on-a-dictionary-page-2C8_YqfxS5w" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/router-tuning-v4.jpg" alt="A magnifying glass bringing one region of a dictionary page into sharper focus." />
+    <a href="https://commons.wikimedia.org/wiki/File:Dispersion_of_White_Light_Through_a_Prism.jpg" target="_blank" rel="noopener">
+      <img src="/images/philosophy-photos/router-tuning-v4.jpg" alt="White light passing through a glass prism, refracting into a vivid spectrum of colors." />
     </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Depth becomes meaningful when we choose what deserves closer attention. Photo by Joachim Schnurle on Unsplash.</figcaption>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> An optical prism dispatches each wavelength of white light into its calibrated path and depth. Photo by Alig via Wikimedia Commons.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -253,10 +253,10 @@ author_profile: true
     <span>Decoupling dynamic sub-modules from fixed weights keeps adaptation grounded.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://unsplash.com/photos/large-tree-with-branches-spreading-wide-Ie0g-EhFybc" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/pad-net-v3.jpg" alt="A large tree with a strong central trunk and many spreading outer branches." />
+    <a href="https://commons.wikimedia.org/wiki/File:Isla_de_mouro,_Waves.jpg" target="_blank" rel="noopener">
+      <img src="/images/philosophy-photos/pad-net-v3.jpg" alt="Isla de Mouro lighthouse standing resolute as colossal storm waves crash against it." />
     </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> A stable core can support many outward paths of adaptation. Photo by James Coleman on Unsplash.</figcaption>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Anchored firmly against crashing tempest waves, the lighthouse foundation remains immovable while casting light outward. Photo of Isla de Mouro Lighthouse via Wikimedia Commons.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -295,10 +295,10 @@ author_profile: true
     <span>An inverted algebraic equation unlocked an order-of-magnitude leap in MoE execution.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://www.pexels.com/photo/drawings-and-writings-on-a-chalkboard-8471813/" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/meo-blackboard.jpg" alt="A research chalkboard covered with revised, erased, and overlapping formulas and diagrams." />
+    <a href="https://commons.wikimedia.org/wiki/File:Kintsugi_art.jpg" target="_blank" rel="noopener">
+      <img src="/images/philosophy-photos/meo-blackboard.jpg" alt="A ceramic vessel repaired with radiant gold kintsugi lacquer lines along the fracture seams." />
     </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> A discarded line of reasoning can leave behind the structure of another idea. Photo by MART PRODUCTION on Pexels.</figcaption>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> <em>Kintsugi</em> (金継ぎ): mending a broken seam with gold lacquer turns an accidental fracture into its most striking feature. Photo by martinjhoward2 via Wikimedia Commons.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -337,10 +337,10 @@ author_profile: true
     <span>Intentional voids in wide, sparse spaces hold richer expressiveness than cramped bottlenecks.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://unsplash.com/photos/minimalist-architecture-with-clean-lines-against-sky-BdeFclXOQ2Y" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/sparse-adapter-v2.jpg" alt="Minimal architectural forms separated by a large field of open sky." />
+    <a href="https://commons.wikimedia.org/wiki/File:Kare-sansui_zen_garden,_Ry%C5%8Dan-ji,_Kyoto_20190416_1.jpg" target="_blank" rel="noopener">
+      <img src="/images/philosophy-photos/sparse-adapter-v2.jpg" alt="The famous dry landscape Zen rock garden of Ryōan-ji in Kyoto, featuring sparse stones surrounded by raked white gravel." />
     </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Structure gains presence when it leaves room around itself. Photo by Harrison Lin on Unsplash.</figcaption>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> <em>Karesansui</em> (枯山水) at Ryōan-ji, Kyoto: vast raked gravel and sparse stones create infinite room for contemplation. Photo by Uwe Aranas via Wikimedia Commons.</figcaption>
   </figure>
   
   <div class="reflection-grid">
