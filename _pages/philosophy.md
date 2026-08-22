@@ -107,10 +107,8 @@ author_profile: true
     <span>Pruned parameters alter outward form, but the geometric representation capacity endures.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://commons.wikimedia.org/wiki/File:%27Atlas_Slave%27_by_Michelangelo_-_JBU_02.jpg" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/demystifying-pruning.jpg" alt="Michelangelo's Atlas Slave sculpture emerging from raw, uncarved marble stone." />
-    </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Form emerges by removing what is excess: Michelangelo's <em>Atlas Slave (Non-finito)</em> at the Galleria dell'Accademia, Florence. Photo by Jörg Bittner Unna via Wikimedia Commons.</figcaption>
+    <img src="/images/philosophy-photos/demystifying-pruning.jpg" alt="A bonsai master delicately trimming excess branches of a bonsai tree with shears in soft studio light." />
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Bonsai pruning: trimming excess outer foliage and branches reveals and strengthens the elegant, durable trunk and roots.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -150,10 +148,8 @@ author_profile: true
     <span>Selective layer dropping proves intelligence does not require retaining all baggage.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://commons.wikimedia.org/wiki/File:Blowing_the_seeds_off_(Unsplash).jpg" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/attention-drop.jpg" alt="Dandelion seeds gently releasing and floating into golden light." />
-    </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Letting go releases what is ready to travel on the wind. Photo by Smile Su via Wikimedia Commons.</figcaption>
+    <img src="/images/philosophy-photos/attention-drop.jpg" alt="A grand maple tree naturally shedding golden leaves in autumn morning mist." />
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Autumn leaf shedding: a tree naturally releases outer foliage to conserve core vitality through the winter season.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -193,10 +189,8 @@ author_profile: true
     <span>Balancing token workloads prevents straggler bottlenecks across distributed fleets.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://commons.wikimedia.org/wiki/File:Head_of_charles_eb1.JPG" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/capacity-aware.jpg" alt="Eight-person rowing crew in perfect harmonic synchronization on the river." />
-    </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Synchronized balance in a racing eight: velocity demands that no single oar carries an overloaded bottleneck. Photo by Fcb981 via Wikimedia Commons.</figcaption>
+    <img src="/images/philosophy-photos/capacity-aware.jpg" alt="Modern multi-level highway interchange flyover with smooth flowing traffic light trails at dusk." />
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Highway bypass interchange: dynamically routing traffic across multi-level bypasses prevents bottleneck gridlocks and keeps the entire network moving.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -236,10 +230,8 @@ author_profile: true
     <span>Calibrated routing allocates computational depth only where complexity demands it.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://commons.wikimedia.org/wiki/File:Dispersion_of_White_Light_Through_a_Prism.jpg" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/router-tuning-v4.jpg" alt="White light passing through a glass prism, refracting into a vivid spectrum of colors." />
-    </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> An optical prism dispatches each wavelength of white light into its calibrated path and depth. Photo by Alig via Wikimedia Commons.</figcaption>
+    <img src="/images/philosophy-photos/router-tuning-v4.jpg" alt="A sun-dappled walking trail clearly dividing into a fork with two scenic paths in a serene forest." />
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Trail fork in the woods: choosing between a swift flat path and a scenic climb allocates energy and depth only where the journey demands it.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -278,10 +270,8 @@ author_profile: true
     <span>Decoupling dynamic sub-modules from fixed weights keeps adaptation grounded.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://commons.wikimedia.org/wiki/File:Isla_de_mouro,_Waves.jpg" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/pad-net-v3.jpg" alt="Isla de Mouro lighthouse standing resolute as colossal storm waves crash against it." />
-    </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Anchored firmly against crashing tempest waves, the lighthouse foundation remains immovable while casting light outward. Photo of Isla de Mouro Lighthouse via Wikimedia Commons.</figcaption>
+    <img src="/images/philosophy-photos/pad-net-v3.jpg" alt="A lush green bamboo forest with tall straight stalks swaying gently in the wind." />
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Bamboo forest in the breeze: deep roots and sturdy upright stalks remain firmly grounded while outer leaves sway flexibly with the wind.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -320,10 +310,8 @@ author_profile: true
     <span>An inverted algebraic equation unlocked an order-of-magnitude leap in MoE execution.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://commons.wikimedia.org/wiki/File:Kintsugi_art.jpg" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/meo-blackboard.jpg" alt="A ceramic vessel repaired with radiant gold kintsugi lacquer lines along the fracture seams." />
-    </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> <em>Kintsugi</em> (金継ぎ): mending a broken seam with gold lacquer turns an accidental fracture into its most striking feature. Photo by martinjhoward2 via Wikimedia Commons.</figcaption>
+    <img src="/images/philosophy-photos/meo-blackboard.jpg" alt="Two clear mountain river streams merging seamlessly at a scenic river confluence into a single powerful river." />
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> River confluence: distinct mountain streams converge seamlessly into one united, powerful river flowing through the valley.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -362,10 +350,8 @@ author_profile: true
     <span>Intentional voids in wide, sparse spaces hold richer expressiveness than cramped bottlenecks.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://commons.wikimedia.org/wiki/File:Kare-sansui_zen_garden,_Ry%C5%8Dan-ji,_Kyoto_20190416_1.jpg" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/sparse-adapter-v2.jpg" alt="The famous dry landscape Zen rock garden of Ryōan-ji in Kyoto, featuring sparse stones surrounded by raked white gravel." />
-    </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> <em>Karesansui</em> (枯山水) at Ryōan-ji, Kyoto: vast raked gravel and sparse stones create infinite room for contemplation. Photo by Uwe Aranas via Wikimedia Commons.</figcaption>
+    <img src="/images/philosophy-photos/sparse-adapter-v2.jpg" alt="Modern minimalist open pavilion with high timber ceiling and expansive glass walls bathed in natural daylight." />
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Minimalist open architecture: wide, unencumbered space creates room for natural light and effortless flow far beyond a cramped room.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -405,10 +391,8 @@ author_profile: true
     <span>Diverse sensory modalities share a single unified model through sparse activation without mutual interference.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://commons.wikimedia.org/wiki/File:Rose_Window_of_Sainte-Chapelle_de_Vincennes,_Interior_View_140308_1.jpg" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/sparse-unified-models.jpg" alt="A grand stained glass rose window diffusing sunlight into intricate multi-colored facets." />
-    </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> A single ray of sunlight diffuses into distinct vibrant colors through stained glass: varied modalities share a common architecture without collision. Photo by DXR via Wikimedia Commons.</figcaption>
+    <img src="/images/philosophy-photos/sparse-unified-models.jpg" alt="Close-up of a professional multi-channel audio mixing console with illuminated faders in a recording studio." />
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Studio mixing console: multiple distinct audio tracks share one unified board, with dedicated channel faders preventing crosstalk and noise.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -445,10 +429,8 @@ author_profile: true
     <span>Decomposing representations separates fundamental trajectory shifts from raw activation magnitude.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://commons.wikimedia.org/wiki/File:Whirling_Southern_Star_Trails_over_ALMA.jpg" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/directional-decomposition.jpg" alt="Whirling star trails spinning around the celestial pole over an astronomical observatory." />
-    </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Star trails around the celestial pole: amidst sweeping apparent motion, decomposition reveals the singular true axis of rotation. Photo by B. Tafreshi (ESO) via Wikimedia Commons.</figcaption>
+    <img src="/images/philosophy-photos/directional-decomposition.jpg" alt="A classic vintage brass compass resting on a detailed topographical contour map." />
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Compass and contour map: true navigational progress is defined not by how fast you move, but by maintaining alignment with your intended azimuth.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -487,10 +469,8 @@ author_profile: true
     <span>Distilling expert models reveals the delicate frontier between specialization and compact unity.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://commons.wikimedia.org/wiki/File:Alambique_de_cobre.jpg" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/moe-compression.jpg" alt="A copper alembic still apparatus used for the slow, meticulous distillation of pure essence." />
-    </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Copper alembic distillation: extracting pure, durable essence from vast raw ingredients. Photo by Rjcastillo via Wikimedia Commons.</figcaption>
+    <img src="/images/philosophy-photos/moe-compression.jpg" alt="An authentic stainless steel multi-tool pocket knife with specialized blades and tools unfolded on a wooden surface." />
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Multi-tool pocket knife: a diverse set of specialized instruments compacted cleanly into a single portable, durable handle.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -529,10 +509,8 @@ author_profile: true
     <span>Compressing generative representations unlocks high-precision semantic retrieval.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://commons.wikimedia.org/wiki/File:Blue_Grotto_IMG_0203.JPG" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/effir.jpg" alt="Beams of sunlight penetrating crystal-clear deep blue grotto waters to illuminate the deep sea floor." />
-    </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Light piercing the deep blue abyss: illuminating timeless pearls of meaning buried beneath vast oceans of information. Photo by Deror avi via Wikimedia Commons.</figcaption>
+    <img src="/images/philosophy-photos/effir.jpg" alt="Grand classic library with morning sunlight streaming through tall arched windows onto wooden bookshelves." />
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Sunlit library shelves: focused rays of light cut through vast collections of knowledge, spotlighting the exact volume you seek.</figcaption>
   </figure>
   
   <div class="reflection-grid">
@@ -570,10 +548,8 @@ author_profile: true
     <span>Dynamic perceptual adaptation requires minimal parameter friction, not monolithic bloat.</span>
   </div>
   <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
-    <a href="https://commons.wikimedia.org/wiki/File:Hasselblad_L3D-100c_-_aperture_ar_1to1_PNr%C2%B01261.jpg" target="_blank" rel="noopener">
-      <img src="/images/philosophy-photos/sd-conv.jpg" alt="A precision camera aperture diaphragm with sleek interlocking blades that adjust opening size smoothly." />
-    </a>
-    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Precision aperture diaphragm: adjusting opening and depth of field effortlessly to ever-changing light with minimal mechanical friction. Photo by D-Kuru via Wikimedia Commons.</figcaption>
+    <img src="/images/philosophy-photos/sd-conv.jpg" alt="Macro photograph of a precision camera lens mechanical aperture iris blades and multi-coated glass optics." />
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Camera lens aperture: interlocking optical blades adjust focal depth and light intake effortlessly without altering the lens structure.</figcaption>
   </figure>
   
   <div class="reflection-grid">
