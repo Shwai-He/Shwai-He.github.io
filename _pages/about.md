@@ -23,7 +23,7 @@ To ensure these algorithmic advances translate into practical real-world through
 
 News
 ======
-* \[08/2026\]: [CoIn](#pub-coin) and Representation Evolution were accepted to [EMNLP 2026](https://2026.emnlp.org/).
+* \[08/2026\]: [CoIn](#pub-coin) and [Representation Evolution](#pub-transformer-geometry) were accepted to [EMNLP 2026](https://2026.emnlp.org/).
 * \[08/2026\]: [Unified Multimodal Sparsity](#pub-sparse-unified-models) was accepted by [TMLR](https://jmlr.org/tmlr/).
 * \[08/2026\]: [Dense Video Understanding](#pub-dense-video) was accepted to [ECCV 2026](https://eccv.ecva.net/).
 * \[04/2026\]: [Demystifying Pruning](#pub-demystifying-pruning) and [DualSparse-MoE](#pub-dualsparse-moe) were accepted to [ICML 2026](https://icml.cc/).
