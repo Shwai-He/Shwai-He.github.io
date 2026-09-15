@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div class="philosophy-hero">
-  <div class="philosophy-hero__badge">✨ ESSAYS &middot; 7 PERSPECTIVES</div>
+  <div class="philosophy-hero__badge">✨ ESSAYS &middot; 8 PERSPECTIVES</div>
   <h2 class="philosophy-hero__title">Where Technical Curiosity Meets Personal Reflection</h2>
   <p class="philosophy-hero__desc">
     Some research begins with a technical question and gradually reveals a more personal one. These essays trace the ideas behind the papers: what model pruning, dynamic routing, parameter sparsity, and capacity bounds teach us about patience, depth, resilience, and living.
@@ -25,6 +25,11 @@ author_profile: true
     <span class="philosophy-nav__hint">Jump to an essay ↓</span>
   </div>
   <div class="philosophy-nav__pills">
+    <a href="#directional-decomposition" class="philosophy-nav__pill">
+      <span class="pill-icon">🧭</span>
+      <span class="pill-text">Parallel &amp; Perpendicular</span>
+      <span class="pill-sub">Direction</span>
+    </a>
     <a href="#demystifying-pruning" class="philosophy-nav__pill">
       <span class="pill-icon">🌱</span>
       <span class="pill-text">Roots &amp; Structure</span>
@@ -63,10 +68,53 @@ author_profile: true
   </div>
 </div>
 
-<article class="reflection-entry" id="demystifying-pruning">
+<article class="reflection-entry" id="directional-decomposition">
   <div class="reflection-entry__header">
     <div class="reflection-entry__badges">
       <span class="reflection-entry__index">01 / ESSAY</span>
+      <span class="reflection-entry__meta">2026 &middot; Representation Evolution</span>
+    </div>
+    <div class="reflection-entry__header-links" aria-label="Representation Evolution resources">
+      <a href="https://arxiv.org/abs/2609.15975" target="_blank" rel="noopener">📄 Paper</a>
+      <a href="https://github.com/Shwai-He/Transformer-Geometry" target="_blank" rel="noopener">💻 Code</a>
+      <a href="https://shwai-he.github.io/Transformer-Geometry/" target="_blank" rel="noopener">🌐 Project</a>
+      <a href="/#pub-directional-decomposition">🏠 Publication</a>
+    </div>
+  </div>
+  <h3 class="reflection-entry__title">Which parts of change continue us, and which parts redirect us?</h3>
+  <div class="reflection-entry__takeaway">
+    <span class="takeaway-label">Core Metaphor</span>
+    <span>Parallel components deepen a current direction; perpendicular components make a new direction possible.</span>
+  </div>
+  <figure class="reflection-figure reflection-figure--found reflection-figure--photo">
+    <a href="https://unsplash.com/photos/an-aerial-view-of-a-highway-intersection-at-night-qyRlF7w41Ws" target="_blank" rel="noopener">
+      <img src="/images/philosophy-photos/directional-decomposition.jpg" alt="An aerial nighttime highway intersection with lanes continuing forward and turning across one another." />
+    </a>
+    <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> A path can continue in its present direction, or cross into a new one. Photo by Robert Noreiko on Unsplash.</figcaption>
+  </figure>
+
+  <div class="reflection-grid">
+    <div class="reflection-section reflection-section--tech">
+      <div class="reflection-section__badge">🔬 The Technical Question</div>
+      <p>
+        Representation Evolution studies how a Transformer changes its hidden states through learned additive updates. By decomposing each update into a parallel component and a perpendicular component, the paper separates two kinds of movement: updates that reinforce the current representational direction, and updates that redirect it into new semantic space. This decomposition turns change from a single opaque displacement into a geometry of continuation and reorientation.
+      </p>
+    </div>
+    <div class="reflection-section reflection-section--life">
+      <div class="reflection-section__badge">🌿 The Human Reflection</div>
+      <p>
+        Life also changes through both components. Some efforts are parallel: they do not make us visibly different, but they deepen a direction we have already chosen through practice, patience, and repetition. Other moments are perpendicular: a new question, a rejection, a relocation, or an unexpected collaboration can rotate the coordinate system of our life. Neither kind of change is more real. A person grows by learning when to keep accumulating along a path, and when to allow a new direction to become part of the vector.
+      </p>
+    </div>
+  </div>
+
+  <p class="reflection-entry__thought">A life is not only measured by how far it moves, but by how honestly it understands the directions of its change.</p>
+</article>
+
+<article class="reflection-entry" id="demystifying-pruning">
+  <div class="reflection-entry__header">
+    <div class="reflection-entry__badges">
+      <span class="reflection-entry__index">02 / ESSAY</span>
       <span class="reflection-entry__meta">2026 &middot; Demystifying When Pruning Works</span>
     </div>
     <div class="reflection-entry__header-links" aria-label="Demystifying When Pruning Works resources">
@@ -109,7 +157,7 @@ author_profile: true
 <article class="reflection-entry" id="attention-drop">
   <div class="reflection-entry__header">
     <div class="reflection-entry__badges">
-      <span class="reflection-entry__index">02 / ESSAY</span>
+      <span class="reflection-entry__index">03 / ESSAY</span>
       <span class="reflection-entry__meta">2026 &middot; Attention Drop</span>
     </div>
     <div class="reflection-entry__header-links" aria-label="Attention Drop resources">
@@ -152,7 +200,7 @@ author_profile: true
 <article class="reflection-entry" id="capacity-aware">
   <div class="reflection-entry__header">
     <div class="reflection-entry__badges">
-      <span class="reflection-entry__index">03 / ESSAY</span>
+      <span class="reflection-entry__index">04 / ESSAY</span>
       <span class="reflection-entry__meta">2025 &middot; Capacity-Aware Inference</span>
     </div>
     <div class="reflection-entry__header-links" aria-label="Capacity-Aware Inference resources">
@@ -195,7 +243,7 @@ author_profile: true
 <article class="reflection-entry" id="router-tuning">
   <div class="reflection-entry__header">
     <div class="reflection-entry__badges">
-      <span class="reflection-entry__index">04 / ESSAY</span>
+      <span class="reflection-entry__index">05 / ESSAY</span>
       <span class="reflection-entry__meta">2025 &middot; Router-Tuning</span>
     </div>
     <div class="reflection-entry__header-links" aria-label="Router-Tuning resources">
@@ -238,7 +286,7 @@ author_profile: true
 <article class="reflection-entry" id="pad-net">
   <div class="reflection-entry__header">
     <div class="reflection-entry__badges">
-      <span class="reflection-entry__index">05 / ESSAY</span>
+      <span class="reflection-entry__index">06 / ESSAY</span>
       <span class="reflection-entry__meta">2023 &middot; PAD-Net</span>
     </div>
     <div class="reflection-entry__header-links" aria-label="PAD-Net resources">
@@ -280,7 +328,7 @@ author_profile: true
 <article class="reflection-entry" id="meo">
   <div class="reflection-entry__header">
     <div class="reflection-entry__badges">
-      <span class="reflection-entry__index">06 / ESSAY</span>
+      <span class="reflection-entry__index">07 / ESSAY</span>
       <span class="reflection-entry__meta">2023 &middot; From PAD-Net to MEO</span>
     </div>
     <div class="reflection-entry__header-links" aria-label="MEO resources">
@@ -322,7 +370,7 @@ author_profile: true
 <article class="reflection-entry" id="sparse-adapter">
   <div class="reflection-entry__header">
     <div class="reflection-entry__badges">
-      <span class="reflection-entry__index">07 / ESSAY</span>
+      <span class="reflection-entry__index">08 / ESSAY</span>
       <span class="reflection-entry__meta">2022 &middot; SparseAdapter</span>
     </div>
     <div class="reflection-entry__header-links" aria-label="SparseAdapter resources">

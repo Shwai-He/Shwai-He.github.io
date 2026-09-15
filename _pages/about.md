@@ -149,6 +149,7 @@ Selected Publications
 <a class="pub-button" href="https://shwai-he.github.io/Transformer-Geometry/" target="_blank" rel="noopener">Project</a>
 <a class="pub-button" href="https://arxiv.org/abs/2609.15975" target="_blank" rel="noopener">Paper</a>
 <a class="pub-button" href="https://github.com/Shwai-He/Transformer-Geometry" target="_blank" rel="noopener">Code</a>
+<a class="pub-button pub-button--reflection" href="/philosophy/#directional-decomposition">Story &amp; Reflection</a>
 <details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2026disentangling,
   title={Disentangling Representation Evolution in Transformers through Directional Decomposition},
   author={He, Shwai and Zhang, Haichao and Yan, Shen},
