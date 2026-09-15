@@ -135,7 +135,7 @@ author_profile: true
     </a>
     <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Form emerges by removing what is excess: Michelangelo's <em>Atlas Slave (Non-finito)</em> at the Galleria dell'Accademia, Florence. Photo by Jörg Bittner Unna via Wikimedia Commons.</figcaption>
   </figure>
-  
+
   <div class="reflection-grid">
     <div class="reflection-section reflection-section--tech">
       <div class="reflection-section__badge">🔬 The Technical Question</div>
@@ -150,7 +150,7 @@ author_profile: true
       </p>
     </div>
   </div>
-  
+
   <p class="reflection-entry__thought">What is removed alters the appearance; what is preserved reveals the essence.</p>
 </article>
 
@@ -178,7 +178,7 @@ author_profile: true
     </a>
     <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Letting go releases what is ready to travel on the wind. Photo by Smile Su via Wikimedia Commons.</figcaption>
   </figure>
-  
+
   <div class="reflection-grid">
     <div class="reflection-section reflection-section--tech">
       <div class="reflection-section__badge">🔬 The Technical Question</div>
@@ -221,7 +221,7 @@ author_profile: true
     </a>
     <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Synchronized balance in a racing eight: velocity demands that no single oar carries an overloaded bottleneck. Photo by Fcb981 via Wikimedia Commons.</figcaption>
   </figure>
-  
+
   <div class="reflection-grid">
     <div class="reflection-section reflection-section--tech">
       <div class="reflection-section__badge">🔬 The Technical Question</div>
@@ -264,7 +264,7 @@ author_profile: true
     </a>
     <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> An optical prism dispatches each wavelength of white light into its calibrated path and depth. Photo by Alig via Wikimedia Commons.</figcaption>
   </figure>
-  
+
   <div class="reflection-grid">
     <div class="reflection-section reflection-section--tech">
       <div class="reflection-section__badge">🔬 The Technical Question</div>
@@ -306,7 +306,7 @@ author_profile: true
     </a>
     <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> Anchored firmly against crashing tempest waves, the lighthouse foundation remains immovable while casting light outward. Photo of Isla de Mouro Lighthouse via Wikimedia Commons.</figcaption>
   </figure>
-  
+
   <div class="reflection-grid">
     <div class="reflection-section reflection-section--tech">
       <div class="reflection-section__badge">🔬 The Technical Question</div>
@@ -348,7 +348,7 @@ author_profile: true
     </a>
     <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> <em>Kintsugi</em> (金継ぎ): mending a broken seam with gold lacquer turns an accidental fracture into its most striking feature. Photo by martinjhoward2 via Wikimedia Commons.</figcaption>
   </figure>
-  
+
   <div class="reflection-grid">
     <div class="reflection-section reflection-section--tech">
       <div class="reflection-section__badge">🔬 The Technical Question</div>
@@ -390,7 +390,7 @@ author_profile: true
     </a>
     <figcaption><span class="reflection-figure__kind">Visual Metaphor</span> <em>Karesansui</em> (枯山水) at Ryōan-ji, Kyoto: vast raked gravel and sparse stones create infinite room for contemplation. Photo by Uwe Aranas via Wikimedia Commons.</figcaption>
   </figure>
-  
+
   <div class="reflection-grid">
     <div class="reflection-section reflection-section--tech">
       <div class="reflection-section__badge">🔬 The Technical Question</div>
