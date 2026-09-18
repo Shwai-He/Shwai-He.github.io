@@ -17,10 +17,6 @@ author_profile: true
     <span class="philosophy-tag">🌱 Research Philosophy</span>
     <span class="philosophy-tag">⏱️ ~3 min per essay</span>
   </div>
-  <div class="philosophy-hero__motto">
-    <img src="/images/seal-gewu-zhizhi.png" alt="格物致知" class="philosophy-hero__seal" />
-    <span><strong>致知在格物，物格而后知至</strong> &middot; Probing the Essence, Attaining Insight</span>
-  </div>
 </div>
 
 <div class="philosophy-nav">
