@@ -23,7 +23,7 @@ To ensure these algorithmic advances translate into practical real-world through
 
 News
 ======
-* \[08/2026\]: [CoIn](#pub-coin) and Representation Evolution were accepted to [EMNLP 2026](https://2026.emnlp.org/).
+* \[08/2026\]: [CoIn](#pub-coin) and [Representation Evolution](#pub-directional-decomposition) were accepted to [EMNLP 2026](https://2026.emnlp.org/).
 * \[08/2026\]: [Unified Multimodal Sparsity](#pub-sparse-unified-models) was accepted by [TMLR](https://jmlr.org/tmlr/).
 * \[08/2026\]: [Dense Video Understanding](#pub-dense-video) was accepted to [ECCV 2026](https://eccv.ecva.net/).
 * \[04/2026\]: [Demystifying Pruning](#pub-demystifying-pruning) and [DualSparse-MoE](#pub-dualsparse-moe) were accepted to [ICML 2026](https://icml.cc/).
@@ -145,9 +145,18 @@ Selected Publications
 </div>
 
 <div class="pub-item" id="pub-directional-decomposition">
-3. <strong>Shwai He</strong>, Ang Li,
+3. <strong>Shwai He</strong>, Haichao Zhang, Shen Yan,
 "<em><strong>Disentangling Representation Evolution in Transformers through Directional Decomposition</strong></em>", Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2026</strong>).
+<a class="pub-button" href="https://shwai-he.github.io/Transformer-Geometry/" target="_blank" rel="noopener">Project</a>
+<a class="pub-button" href="https://arxiv.org/abs/2609.15975" target="_blank" rel="noopener">Paper</a>
+<a class="pub-button" href="https://github.com/Shwai-He/Transformer-Geometry" target="_blank" rel="noopener">Code</a>
 <a class="pub-button pub-button--reflection" href="/philosophy/#directional-decomposition">🧭 Story &amp; Reflection</a>
+<details class="pub-bibtex"><summary>BibTeX</summary><pre><code>@inproceedings{he2026disentangling,
+  title={Disentangling Representation Evolution in Transformers through Directional Decomposition},
+  author={He, Shwai and Zhang, Haichao and Yan, Shen},
+  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year={2026}
+}</code></pre></details>
 </div>
 
 <div class="pub-item" id="pub-capacity-aware-inference">
