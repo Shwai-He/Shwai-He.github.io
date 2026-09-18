@@ -1051,3 +1051,183 @@ html {
     margin-top: 0.15rem;
   }
 }
+
+/* ==========================================================================
+   Academic Motto & Research Epigraph (格物致知)
+   ========================================================================== */
+
+.author__motto-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 1rem 0 0.85rem;
+  padding: 0.65rem 0.85rem;
+  background: linear-gradient(135deg, rgba(178, 43, 39, 0.04) 0%, rgba(29, 107, 116, 0.04) 100%);
+  border: 1px solid rgba(178, 43, 39, 0.18);
+  border-radius: 8px;
+  transition: all 0.25s ease;
+
+  &:hover {
+    background: linear-gradient(135deg, rgba(178, 43, 39, 0.08) 0%, rgba(29, 107, 116, 0.07) 100%);
+    border-color: rgba(178, 43, 39, 0.32);
+    box-shadow: 0 4px 12px rgba(178, 43, 39, 0.08);
+  }
+}
+
+.author__motto-seal-container {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.author__motto-seal-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 1px 2px rgba(178, 43, 39, 0.2));
+}
+
+.author__motto-words {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.author__motto-zh {
+  font-family: 'Ma Shan Zheng', 'Noto Serif SC', 'STKaiti', 'KaiTi', serif;
+  font-size: 1.12rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #a82420;
+  letter-spacing: 0.15em;
+}
+
+.author__motto-en {
+  font-size: 0.68rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #64748b;
+  letter-spacing: 0.01em;
+  margin-top: 0.1rem;
+}
+
+/* Research Epigraph on Homepage Bio */
+.research-epigraph {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  margin: 0.25rem 0 1.75rem;
+  padding: 1rem 1.35rem;
+  background: linear-gradient(135deg, #fdfbf9 0%, #f7fafb 100%);
+  border: 1px solid rgba(178, 43, 39, 0.16);
+  border-left: 3.5px solid #b22b27;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.02);
+  transition: all 0.2s ease;
+
+  &:hover {
+    border-color: rgba(178, 43, 39, 0.28);
+    border-left-color: #b22b27;
+    box-shadow: 0 4px 16px rgba(178, 43, 39, 0.06);
+  }
+}
+
+.research-epigraph__seal {
+  flex-shrink: 0;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    filter: drop-shadow(0 2px 4px rgba(178, 43, 39, 0.15));
+  }
+}
+
+.research-epigraph__content {
+  flex: 1;
+  min-width: 0;
+}
+
+.research-epigraph__chinese {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+
+  .epigraph-quote {
+    font-family: 'Ma Shan Zheng', 'Noto Serif SC', 'STKaiti', 'KaiTi', serif;
+    font-size: 1.28rem;
+    font-weight: 600;
+    color: #9c211d;
+    letter-spacing: 0.08em;
+  }
+
+  .epigraph-source {
+    font-family: 'Noto Serif SC', 'STSong', serif;
+    font-size: 0.78rem;
+    color: #8c6d62;
+    font-style: italic;
+  }
+}
+
+.research-epigraph__english {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: #475569;
+  font-weight: 450;
+}
+
+/* Philosophy Hero Epigraph */
+.philosophy-hero__motto {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  padding: 0.4rem 0.9rem;
+  background: rgba(255, 255, 255, 0.75);
+  border: 1px solid rgba(178, 43, 39, 0.2);
+  border-radius: 999px;
+  font-family: 'Noto Serif SC', 'STKaiti', serif;
+  font-size: 0.86rem;
+  color: #8c221e;
+  backdrop-filter: blur(4px);
+
+  .philosophy-hero__seal {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+  }
+}
+
+@media (max-width: 600px) {
+  .research-epigraph {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 0.85rem 1rem;
+  }
+
+  .research-epigraph__seal {
+    width: 42px;
+    height: 42px;
+  }
+
+  .research-epigraph__chinese .epigraph-quote {
+    font-size: 1.15rem;
+  }
+
+  .research-epigraph__english {
+    font-size: 0.82rem;
+  }
+}
+

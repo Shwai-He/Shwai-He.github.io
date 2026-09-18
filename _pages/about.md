@@ -9,6 +9,21 @@ redirect_from:
   - /about.html
 ---
 
+<div class="research-epigraph">
+  <div class="research-epigraph__seal">
+    <img src="/images/seal-gewu-zhizhi.png" alt="格物致知 朱文印章" />
+  </div>
+  <div class="research-epigraph__content">
+    <div class="research-epigraph__chinese">
+      <span class="epigraph-quote">“致知在格物，物格而后知至。”</span>
+      <span class="epigraph-source">—— 《礼记 &middot; 大学》</span>
+    </div>
+    <div class="research-epigraph__english">
+      Investigating the intrinsic geometry, representational mechanics, and computational pathways of neural models to discover the foundations of efficient intelligence.
+    </div>
+  </div>
+</div>
+
 <p class="bio-paragraph">
 I am a Ph.D. candidate in Computer Science at the <a href="https://www.cs.umd.edu/" target="_blank" rel="noopener">University of Maryland, College Park</a>, advised by <a href="https://www.ang-li.com/" target="_blank" rel="noopener">Prof. Ang Li</a>. My research has been recognized with the <strong>Qualcomm Innovation Fellowship (QIF) North America</strong> and the <strong>UMD CS Certificate of Outstanding Achievement</strong>. Currently, I am a Student Researcher at <a href="https://deepmind.google/" target="_blank" rel="noopener">Google DeepMind &amp; Ads</a> working on efficient post-training. Previously, I conducted research at <a href="https://seed.bytedance.com/en/" target="_blank" rel="noopener">ByteDance Seed</a>, <a href="https://ailab.tencent.com/ailab/en/index/" target="_blank" rel="noopener">Tencent AI Lab</a>, and <a href="https://jdcorporateblog.com/jd-unveils-four-new-enterprise-level-products/jd-explore-academy/" target="_blank" rel="noopener">JD Explore Academy</a>.
 </p>
