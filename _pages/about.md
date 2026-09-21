@@ -22,7 +22,7 @@ My research experience spans <a href="https://deepmind.google/" target="_blank" 
 </p>
 
 <p class="bio-paragraph">
-<strong>I am seeking full-time research opportunities</strong> in language and multimodal models. Please <a href="mailto:shwai.he@gmail.com">get in touch</a> to discuss potential opportunities.
+<strong>I am seeking full-time opportunities in AI research.</strong> Please <a href="mailto:shwai.he@gmail.com">get in touch</a> to discuss potential opportunities.
 </p>
 
 News
