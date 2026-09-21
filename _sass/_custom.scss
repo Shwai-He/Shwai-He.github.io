@@ -757,6 +757,19 @@ body {
   box-shadow: 0 4px 12px rgba(123, 44, 191, 0.35);
 }
 
+.publication-nav {
+  margin: 0 0 1.5rem;
+  font-size: 0.85rem;
+  line-height: 1.9;
+}
+
+.page__content h2.publication-topic {
+  font-size: 1.15rem;
+  line-height: 1.4;
+  letter-spacing: 0;
+  scroll-margin-top: 5rem;
+}
+
 .pub-item {
   margin-bottom: 1.35rem;
   scroll-margin-top: 5rem;
@@ -1051,6 +1064,5 @@ html {
     margin-top: 0.15rem;
   }
 }
-
 
 
