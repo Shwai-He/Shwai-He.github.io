@@ -1008,13 +1008,12 @@ html {
 
 .author__seal {
   display: block;
-  width: 92px;
-  height: 92px;
+  width: 180px;
+  max-width: 100%;
+  aspect-ratio: 3 / 1;
   box-sizing: border-box;
-  margin: 28px auto 12px;
-  padding: 5px;
-  border: 2px solid #ad3c32;
-  border-radius: 2px;
+  margin: 20px auto 4px;
+  padding: 0;
   color: #ad3c32;
   text-decoration: none;
   img {
