@@ -1006,6 +1006,37 @@ html {
   color: var(--site-accent);
 }
 
+.author__seal {
+  display: block;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+  margin: 28px auto 12px;
+  padding: 0;
+  color: #ad3c32;
+  text-decoration: none;
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  &:hover {
+    opacity: 0.8;
+    text-decoration: none;
+  }
+
+  &:focus-visible {
+    outline: 2px solid #ad3c32;
+    outline-offset: 5px;
+  }
+
+  @media (max-width: 1023px) {
+    display: none;
+  }
+}
+
 .x-icon {
   display: inline-block;
   font-family: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -1064,5 +1095,3 @@ html {
     margin-top: 0.15rem;
   }
 }
-
-
