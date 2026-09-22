@@ -22,7 +22,7 @@ My research experience spans <a href="https://deepmind.google/" target="_blank" 
 </p>
 
 <p class="bio-paragraph">
-<strong>I am seeking full-time research opportunities in foundation models, inference acceleration, and efficient AI applications.</strong> Please <a href="mailto:shwai.he@gmail.com">get in touch</a> to discuss potential opportunities.
+<strong>I am seeking full-time research opportunities in foundation models, inference acceleration, and efficient AI applications.</strong> Please <a href="#contact">get in touch</a> to discuss potential opportunities.
 </p>
 
 News
@@ -391,5 +391,9 @@ Teaching
 * Spring 2025: Teaching Assistant for CMSC 320 (Introduction to Data Science)
 * Fall 2024: Teaching Assistant for CMSC 250 (Discrete Structures)
 * Spring 2024: Teaching Assistant for CMSC 351 (Algorithms)
+
+<h2 id="contact">Contact</h2>
+
+<p><a href="mailto:shwai.he@gmail.com">shwai.he@gmail.com</a> &middot; <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=shwai.he%40gmail.com" target="_blank" rel="noopener noreferrer">Compose in Gmail</a></p>
 
 <p class="page-last-updated">Last updated: {{ page.last_modified_at | date: "%B %-d, %Y" }}</p>
